@@ -6,7 +6,7 @@ import { graphql } from 'gatsby'
 const ErrorPage = ({ data }) => {
 	return (
 		<div>
-			<h1>oi</h1>
+			<h1>404</h1>
 		</div>
 	)
 }
