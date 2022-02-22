@@ -1,6 +1,6 @@
 // Colors
-$system__color: #eb412c;
-$brand__color: #eb412c;
+$system__color: #000;
+$brand__color: #d64325;
 $bodyColor__bgColor: #fff;
 
 $cta__color: #0c0c0c;
@@ -37,7 +37,7 @@ $color__light-grey: #999999;
 // Breakpoints
 // screen vars
 $header__height: 121px;
-$widescreen__size: 1180px;
+$widescreen__size: 1165px;
 $tablet__size: 768px;
 $tabletHack__size: 769px;
 $tabletHackMinimal__size: 425px;
@@ -64,13 +64,13 @@ $heading__top-padding: 0;
 // $xxl__radius: 50%;
 
 // typograph
-$main__font: 'Mulish', Arial, sans-serif;
-$second__font: 'Alegreya Sans', Arial, sans-serif;
-$third__font: 'Roboto', Arial, sans-serif;
+$main__font: 'Roboto Slab', Arial, sans-serif;
+$second__font: 'Montserrat', Arial, sans-serif;
 $alternative__font: 'Arial';
 
 $xs__fontSize: 12px;
 $s__fontSize: 14px;
+$m__fontSize: 17px;
 
 $h1__fontSize: 30pt;
 $h2__fontSize: 24pt;

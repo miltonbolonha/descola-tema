@@ -351,7 +351,7 @@ body {
 	align-items: center;
 	font-size: $s__fontSize;
 	font-weight: 700;
-	font-family: $third__font;
+	font-family: $second__font;
 	text-transform: none;
 
 	margin-left: unset !important;
@@ -760,3 +760,31 @@ a {
 	font-weight: 900;
 }
 
+
+
+
+.top-hibbon{
+	height: 40px;
+	line-height: 40px;
+	p{
+		font-weight: 300;
+		font-family: $main__font;
+		font-size: $m__fontSize;
+	}
+}
+
+.align-to-right{
+	text-align: right;
+}
+.full-width-row{ &.header-logo{
+	margin-bottom: 33px;
+	height: 60px;
+}}
+
+.header-logo{
+	svg{
+		padding-top: 5px;
+    // height: 60px;
+		padding-bottom: 20px;
+	}
+}

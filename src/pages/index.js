@@ -12,6 +12,8 @@ import Layout from '../modules/layout'
 import MainWrapper from '../modules/block-builder/MainWrapper'
 import HeaderBlock from '../modules/block-builder/HeaderBlock'
 
+import { FiShoppingBag } from 'react-icons/fi'
+
 const IndexPage = ({ data }) => {
 	return (
 		<Layout
@@ -22,19 +24,22 @@ const IndexPage = ({ data }) => {
 		>
 			<Layout type="ROW" opt={{ bgColor: '#e9e9ed', isBoxed: false }}>
 				{/* <h3>ola</h3> */}
-				<Layout type="ROW" opt={{ isBoxed: true, classes: 'header' }}>
-					<p>login/registre-se</p>
+				<Layout
+					type="ROW"
+					opt={{ isBoxed: true, classes: 'top-hibbon', alignTo: 'right' }}
+				>
+					<p>Login / Registre-se</p>
 				</Layout>
 				{/* <HeaderBlock logotipoImg={} /> */}
 			</Layout>
 			<Layout
 				type="ROW"
-				opt={{ bgColor: '#f6f7fa', isBoxed: false, classes: 'header' }}
+				opt={{ bgColor: '#f6f7fa', isBoxed: false, classes: 'header-logo' }}
 			>
-				<Layout type="ROW" opt={{ isBoxed: true }}>
+				<Layout type="ROW" opt={{ isBoxed: true, numColumns: 2 }}>
 					<DescolaLogo />
 					<nav>
-						<ul>
+						<ul className="main-nav">
 							<li>
 								<Link to="/cursos">Cursos</Link>
 							</li>
@@ -43,6 +48,12 @@ const IndexPage = ({ data }) => {
 							</li>
 							<li>
 								<Link to="/empresas">Para empresas</Link>
+							</li>
+							<li>
+								<FiShoppingBag />
+							</li>
+							<li>
+								<input type="text" />
 							</li>
 						</ul>
 					</nav>
