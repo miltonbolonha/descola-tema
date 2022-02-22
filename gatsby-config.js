@@ -37,21 +37,20 @@ module.exports = {
 		`gatsby-plugin-offline`,
 		`gatsby-plugin-react-helmet`,
 		{
-			resolve: 'gatsby-plugin-page-creator',
+			resolve: `gatsby-business-in-build`,
 			options: {
-				path: path.join(__dirname, 'src/pages'),
+				name: businessInfos.clientOrg,
+				version: businessInfos.version,
+				developer: 'Milton Bolonha',
+				project: 'Gatsby Business in Build',
+				url: businessInfos.clientSite,
+				message: 'Você está aqui.',
 			},
 		},
 		{
-			resolve: `gatsby-business-in-build`,
+			resolve: 'gatsby-plugin-page-creator',
 			options: {
-				name: 'Atomic Theme',
-				version: '0.0.0',
-				developer: 'Milton Bolonha',
-				coauthorBusiness: 'Edu4Dev',
-				project: 'Gatsby Business in Build',
-				url: 'https://dominiofinal.com',
-				message: 'Copie muito.',
+				path: path.join(__dirname, 'src/pages'),
 			},
 		},
 		`gatsby-plugin-catch-links`,
@@ -101,7 +100,6 @@ module.exports = {
 				fonts: [
 					businessInfos.importFont.font01,
 					businessInfos.importFont.font02,
-					businessInfos.importFont.font03,
 				],
 				display: 'swap',
 			},

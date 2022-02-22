@@ -1,24 +1,17 @@
 {
   "folders": [
+
     {
-      "name": "HeadlessCMS",
-      "path": "headlessCMS"
-    },
-		{
-      "name": "Wordplate",
-      "path": "headlessCMS/public/themes/wordplate"
+      "name": "Módulos",
+      "path": "src/modules"
     },
     {
-      "name": "WP Plugins",
-      "path": "headlessCMS/public/plugins"
+      "name": "Páginas",
+      "path": "src/pages"
     },
     {
-      "name": "Website Engine",
-      "path": "website"
-    },
-    {
-      "name": "Theme",
-      "path": "theme"
+      "name": "Estilo",
+      "path": "src/scss"
     },
     {
       "name": "Root",
