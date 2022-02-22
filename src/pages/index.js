@@ -34,12 +34,18 @@ const IndexPage = ({ data }) => {
 			</Layout>
 			<Layout
 				type="ROW"
-				opt={{ bgColor: '#f6f7fa', isBoxed: false, classes: 'header-logo' }}
+				opt={{
+					bgColor: '#f6f7fa',
+					isBoxed: false,
+					classes: 'header-logo-wrapper',
+				}}
 			>
-				<Layout type="ROW" opt={{ isBoxed: true, numColumns: 2 }}>
-					<DescolaLogo />
-					<nav>
-						<ul className="main-nav">
+				<Layout type="ROW" opt={{ isBoxed: true, classes: 'header-logo' }}>
+					<Link to="/">
+						<DescolaLogo />
+					</Link>
+					<nav className="main-nav">
+						<ul className="main-ul">
 							<li>
 								<Link to="/cursos">Cursos</Link>
 							</li>

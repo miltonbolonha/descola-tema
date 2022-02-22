@@ -776,15 +776,43 @@ a {
 .align-to-right{
 	text-align: right;
 }
-.full-width-row{ &.header-logo{
+.full-width-row{ &.header-logo-wrapper{
 	margin-bottom: 33px;
 	height: 60px;
 }}
 
-.header-logo{
+.header-logo-wrapper{
+	.header-logo{
+		&.boxed-column-child{
+			grid-template-columns: 0.23fr 1fr!important; // needed helper over numColumns by now
+
+			ul{
+				align-items: center;
+				list-style: none;
+				display: flex;
+				line-height: 50px;
+				li{
+					a{
+						font-size: 16.5px;
+						padding: 16px 30px;
+						font-family: $main__font;
+						font-weight: 300;
+						&:hover{
+							color: $cta__color;
+							border-bottom: 3px solid $cta__color;
+						}
+					}
+				}
+			}
+		}
+	}
 	svg{
 		padding-top: 5px;
     // height: 60px;
 		padding-bottom: 20px;
 	}
+}
+
+.main-nav{
+	min-width: 70%;
 }
