@@ -59,19 +59,23 @@ const InsertHTML = ({ type, params, opt, children, bgOpt, bgImg }) => {
 				themeColor,
 				bgImg,
 			}) => {
+				const basis = 100 / params.numColumns
+
 				switch (element) {
 					case 'list':
 						return <li className={rowWidth + '-child'}>{children}</li>
 					default:
 						return (
 							<div
-								className={rowWidth + '-child ' + opt.title}
+								className={rowWidth + '-child ' + opt.elementClass}
 								style={{
 									backgroundColor:
 										bgOpt.theme_color && opt.boxed === true
 											? bgOpt.value_bgColor
 											: null,
 									backgroundImage: bgImg,
+									display: 'grid',
+									gridTemplateColumns: `repeat(${opt.numColumns}, 1fr)`,
 								}}
 							>
 								{children}
@@ -215,7 +219,7 @@ const InsertHTML = ({ type, params, opt, children, bgOpt, bgImg }) => {
 			}
 		case 'content-item':
 			if (params.gridType && params.gridClass) {
-				const basis = 100 / params.numColumns
+				const basis = 100 / opt.numColumns
 				const elementTag =
 					params.gridType === 'carousel' ? (
 						<li

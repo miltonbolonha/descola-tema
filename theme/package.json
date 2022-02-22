@@ -30,7 +30,7 @@
 	"themeColor": "#eb412c",
 	"backgroundColor": "#fff",
 	"displayManifest": "fullscreen",
-	"iconManifest": "diabetes-brasil-favicon.svg",
+	"iconManifest": "favicon-32x32.png",
 	"importFont": {
 		"font01": "Mulish",
 		"font02": "Alegreya Sans:300,400,500,700,800,900",
