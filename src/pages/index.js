@@ -53,7 +53,7 @@ const IndexPage = ({ data }) => {
 								<FiShoppingBag />
 							</li>
 							<li>
-								<input type="text" />
+								<input type="text" placeholder="Procure um curso" class="" />
 							</li>
 						</ul>
 					</nav>
