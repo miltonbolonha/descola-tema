@@ -4,7 +4,7 @@ header {
 	z-index: 9;
 	position: relative;
 	width: 100%;
-	border-top: 3px solid $ribbon_top__color;
+	border-top: $heading__border solid $ribbon_top__color;
 	div.main-header {
 		flex-direction: row;
 		flex-wrap: wrap;
