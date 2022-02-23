@@ -822,6 +822,7 @@ a {
 						height: 45px;
 						color: #8c9199;
 						width: 100%;
+						max-width: 212px;
 						height: 30px;
 						background-color: transparent;
 						border: transparent;
@@ -854,4 +855,19 @@ a {
 }
 .main-ul{
 	height: 60px;
+}
+
+.hidden{display: none;}
+
+.main-menu-search-input{
+	border: 0;
+	background-color: transparent;
+}
+
+
+.main-menu-form{
+	min-width: 246px;
+	button{
+		cursor: pointer;
+	}
 }

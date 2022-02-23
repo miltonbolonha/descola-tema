@@ -5,7 +5,7 @@ import { graphql, Link } from 'gatsby'
 // import GatsbyLoginForm from '../modules/gatsby-login-form'
 
 // import { Layout } from 'gatsby-layout-builder'
-
+// import PoupaLuz from '../modules/PoupaLuz'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 
 import Layout from '../modules/layout'

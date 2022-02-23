@@ -55,10 +55,14 @@ const Header = ({
 								<RiShoppingBag3Line />
 							</li>
 							<li className="main-menu-search">
-								<input type="text" placeholder="Procure um curso" />
-								<a href={'https://descola.org/cursos?search='}>
+								<Layout
+									type="SUBSCRIBE"
+									opt={{ placeholder: 'Procure um curso' }}
+								/>
+								{/* <input type="text" placeholder="Procure um curso" /> */}
+								{/* <a href={'https://descola.org/cursos?search='}>
 									<RiSearchLine />
-								</a>
+								</a> */}
 							</li>
 						</ul>
 					</nav>
