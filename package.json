@@ -32,7 +32,7 @@
 	"iconManifest": "descola-logo.svg",
 	"importFont": {
 		"font01": "Roboto Slab:100,300,400,500,600,700",
-		"font02": "Montserrat"
+		"font02": "Montserrat:100,300,500,600"
 	},
 	"scripts": {
 		"develop": "gatsby develop",

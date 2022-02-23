@@ -877,3 +877,73 @@ a {
 .footer h3,.footer a, .footer p,.footer h4,.footer svg{
 	color: white
 }
+
+.footer h3{
+	font-family: $second__font;
+	font-size: 16px;
+	margin-bottom: 15px;
+    font-weight: 500;
+    // line-height: 1.2;
+	text-transform: uppercase;
+
+}
+
+.footer p{
+	margin-bottom: 15px;
+	font-weight: 500;
+	line-height: 1.2;
+	font-size:14px;
+}
+.footer .tag{
+	font-size: 11px;
+	font-weight: 600;
+	padding: 3px 12px;
+	// min-width: 60px;
+	border: 2px solid transparent;
+	background-color: $cta__color;
+	color: white;
+	margin: 0 3px;
+	font-family: $main__font;
+	margin: 5px;
+	display: inline-block;
+	&:hover{
+		border: 2px solid blue;
+	}
+}
+.footer{
+	&.full-width-row{
+		margin-top: 50px;
+    padding-top: 60px;
+		.footer-columns{
+			gap: 0 15px;
+    // overflow-wrap: break-word;
+			.boxed-column-child>div{
+				width: 258px;
+				// padding: 0 15px;
+			}
+		}
+	}
+}
+
+
+
+.tag-list-wrapper{
+	display: inline-block;
+	.footer-social-icons{
+		margin: 20px 0;
+		a{
+			background-color: $cta__color;
+    padding: 10px;
+		// cursor: pointer;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+			&:nth-child(3){
+				margin: 0 10px;
+			}
+		}
+	}
+}
