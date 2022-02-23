@@ -13,7 +13,9 @@ import Layout from '../modules/layout'
 // import HeaderBlock from '../modules/block-builder/HeaderBlock'
 // import { FiSearch } from 'react-icons/fi'
 // import { RiShoppingBag3Line, RiSearchLine } from 'react-icons/ri'
-import { BsHeadset } from 'react-icons/bs'
+import { BsHeadset, BsInstagram } from 'react-icons/bs'
+import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
+
 const IndexPage = ({ data }) => {
 	return (
 		<Layout
@@ -34,7 +36,10 @@ const IndexPage = ({ data }) => {
 				<h1>zin</h1>
 			</Layout>
 			<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
-				<Layout type="ROW" opt={{ isBoxed: true, numColumns: 4 }}>
+				<Layout
+					type="ROW"
+					opt={{ isBoxed: true, numColumns: 4, classes: 'footer-columns' }}
+				>
 					<div>
 						<h3>Sobre a escola</h3>
 						<p>
@@ -48,87 +53,49 @@ const IndexPage = ({ data }) => {
 							<BsHeadset />
 							<a href="tel:+551130420043">+55 (11) 3042-0043</a>
 						</span>
-						<div className="logo">
-							{/* <img src="https://cdn.descola.org/app/assets/images/logo_dark.svg" alt="Descola"> */}
-						</div>
+						<div className="logo"></div>
 					</div>
-					<div>
+					<div className="tag-list-wrapper">
 						<h3>Habilidades em destaque</h3>
-						<div>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Gestão
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Empregabilidade
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Colaboração
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Relacionamentos
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Inovação
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Comunicação Interpessoal
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Design Thinking
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Engajamento
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Produtividade
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								RH
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Liderança
-							</a>
-							<a
-								href="https://descola.org/cursos"
-								className="btn btn-sm btn-primary"
-							>
-								Trabalho
-							</a>
-						</div>
-						<div>
+						{/* <div> */}
+						<a href="https://descola.org/cursos" className="tag">
+							Gestão
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Empregabilidade
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Colaboração
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Inovação
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Design Thinking
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Relacionamentos
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Comunicação Interpessoal
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Engajamento
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Produtividade
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							RH
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Liderança
+						</a>
+						<a href="https://descola.org/cursos" className="tag">
+							Trabalho
+						</a>
+						{/* </div> */}
+						<div className="footer-social-icons">
 							<h3>Redes sociais</h3>
 							<a
 								href="https://br.linkedin.com/school/descola"
@@ -136,7 +103,7 @@ const IndexPage = ({ data }) => {
 								target="_blank"
 								className="btn btn-primary btn-icon"
 							>
-								{/* <img src="https://cdn.descola.org/app/assets/images/linkedin.svg" alt="Linkedin" className="linkedin__icon"> */}
+								<FaLinkedinIn />
 							</a>
 							<a
 								href="https://www.instagram.com/descolagram"
@@ -144,7 +111,7 @@ const IndexPage = ({ data }) => {
 								target="_blank"
 								className="btn btn-primary btn-icon"
 							>
-								{/* <img src="https://cdn.descola.org/app/assets/images/instagram.svg" alt="instagram" className="instagram__icon"> */}
+								<BsInstagram />
 							</a>
 							<a
 								href="https://www.facebook.com/descolasp"
@@ -152,7 +119,7 @@ const IndexPage = ({ data }) => {
 								target="_blank"
 								className="btn btn-primary btn-icon"
 							>
-								{/* <img src="https://cdn.descola.org/app/assets/images/facebook.svg" alt="facebook" className="facebook__icon"> */}
+								<FaFacebookF />
 							</a>
 						</div>
 					</div>
@@ -164,9 +131,7 @@ const IndexPage = ({ data }) => {
 							target="_blank"
 							className="footer__card"
 						>
-							<div>
-								{/* <img src="https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/06/05151250/image-15-150x150.png" alt=""> */}
-							</div>
+							<div></div>
 							<div>
 								<h4>
 									10 hábitos de Gestão Emocional para aplicar no seu dia a dia
@@ -185,9 +150,7 @@ const IndexPage = ({ data }) => {
 							target="_blank"
 							className="footer__card"
 						>
-							<div>
-								{/* <img src="https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/05/14131754/descola_sala-150x150.png" alt=""> */}
-							</div>
+							<div></div>
 							<div>
 								<h4>
 									POWER SKILLS &amp;#8211; As habilidades que vão te fazer
@@ -205,9 +168,7 @@ const IndexPage = ({ data }) => {
 							target="_blank"
 							className="footer__card"
 						>
-							<div className="footer__card__img">
-								{/* <img src="https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/02/20142944/agile_post-150x150.png" alt=""> */}
-							</div>
+							<div className="footer__card__img"></div>
 							<div className="footer__card__content">
 								<h4>
 									Mentalidade Ágil: Um novo jeito de enxergar oportunidades de
