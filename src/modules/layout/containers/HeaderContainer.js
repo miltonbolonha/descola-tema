@@ -11,7 +11,8 @@ const HeaderContainer = ({ logo, opt }) => {
 	}
 	return (
 		<Header
-			logo={logo}
+			// logo={logo}
+			logoSvg={opt.logoSvg}
 			refState={refState}
 			handleRefState={handleRefState}
 			logoComponent={logoHeader}

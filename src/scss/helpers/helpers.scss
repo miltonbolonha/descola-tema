@@ -790,11 +790,20 @@ a {
 				align-items: center;
 				list-style: none;
 				display: flex;
-				line-height: 50px;
 				li{
+					line-height: 60px;
+					&.menu-shop-bag{
+						font-size: 30px;
+						svg{
+							position: relative;
+							top: 5px;
+							margin: 0 40px;
+						}
+					}
+
 					a{
 						font-size: 16.5px;
-						padding: 16px 30px;
+						padding: 19px 30px 17px;
 						font-family: $main__font;
 						font-weight: 300;
 						&:hover{
@@ -803,10 +812,38 @@ a {
 						}
 					}
 				}
+				.main-menu-search{
+					display: flex;
+					align-items: center;
+					input{
+						border: 0;
+						background-color: transparent;
+						// padding: 8px 0 0;
+						height: 45px;
+						color: #8c9199;
+						width: 100%;
+						max-width: 212px;
+						height: 30px;
+						background-color: transparent;
+						border: transparent;
+						border-bottom: 1px solid #8c9199;
+						font-family: $main__font;
+						font-size: 16px;
+					}
+					svg{
+						font-size: 18px;color: #626262;
+					}
+					a{
+						padding: 0;
+						&:hover{
+							border: 0
+						}
+					}
+				}
 			}
 		}
 	}
-	svg{
+	.logo-link svg{
 		padding-top: 5px;
     // height: 60px;
 		padding-bottom: 20px;
@@ -815,4 +852,22 @@ a {
 
 .main-nav{
 	min-width: 70%;
+}
+.main-ul{
+	height: 60px;
+}
+
+.hidden{display: none;}
+
+.main-menu-search-input{
+	border: 0;
+	background-color: transparent;
+}
+
+
+.main-menu-form{
+	min-width: 246px;
+	button{
+		cursor: pointer;
+	}
 }
