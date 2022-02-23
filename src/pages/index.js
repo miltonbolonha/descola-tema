@@ -7,6 +7,7 @@ import { graphql, Link } from 'gatsby'
 // import { Layout } from 'gatsby-layout-builder'
 // import PoupaLuz from '../modules/PoupaLuz'
 import DescolaLogo from '../../static/images/descola-logo.svg'
+import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
 // import MainWrapper from '../modules/block-builder/MainWrapper'
@@ -49,11 +50,13 @@ const IndexPage = ({ data }) => {
 							conteúdos para que você desenvolva Power Skills.
 						</p>
 						<p>Descola Cursos Inovadores LTDA EPP 17.996.625/0001-58</p>
-						<span className="contato__telefone">
+
+						<p>
 							<BsHeadset />
 							<a href="tel:+551130420043">+55 (11) 3042-0043</a>
-						</span>
-						<div className="logo"></div>
+						</p>
+
+						<DescolaLogoDark />
 					</div>
 					<div className="tag-list-wrapper">
 						<h3>Habilidades em destaque</h3>
