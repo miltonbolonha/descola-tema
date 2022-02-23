@@ -35,6 +35,7 @@ export default function FormContainer({ opt }) {
 		setEmail(emailTyping)
 	}
 	const handleHoneypotChange = (honeyTyping) => {
+		console.log('honeypot')
 		setHoney(honeyTyping)
 	}
 	const theFunction = (param) => {
@@ -64,7 +65,7 @@ export default function FormContainer({ opt }) {
 	}
 	const msgStyle =
 		success === 'success' ? config.success_class : config.nope_class
-	console.log(opt.placeholder)
+
 	return (
 		<Form
 			handleSubmit={handleSubmit}

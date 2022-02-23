@@ -63,7 +63,7 @@ export default function Form({
 	<RiSearchLine />
 </a>
 */}
-						{honey || email === '' ? null : (
+						{honey !== '' ? null : (
 							<>
 								<button
 									type="submit"
