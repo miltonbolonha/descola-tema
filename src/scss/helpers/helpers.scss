@@ -968,13 +968,17 @@ a {
 			gap: 0 15px;
 			max-width: 960px;
 			@media(min-width: 1025px){
-			max-width: $widescreen__size;
+				max-width: $widescreen__size;
 			}
 			@media(max-width: 960px){
 				grid-template-columns: repeat(2, 1fr)!important; //over numColumns
 				max-width: 720px;
 			}
-
+			@media(max-width: 574px){
+				grid-template-columns: repeat(1, 1fr)!important; //over numColumns
+				max-width: 525px;
+			}
+// 574
     // overflow-wrap: break-word;
 			.boxed-column-child>div{
 				width: 210px;
@@ -1012,7 +1016,7 @@ a {
 		}
 	}
 }
-@media(min-width: 960px){
+@media(max-width: 960px){
 	.footer-infos{order:1}
 	.tag-list-wrapper{order:3}
 	.footer-column-blog{order:4}
