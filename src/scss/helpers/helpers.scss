@@ -806,6 +806,7 @@ a {
 						padding: 19px 30px 17px;
 						font-family: $main__font;
 						font-weight: 300;
+						white-space: nowrap;
 						&:hover{
 							color: $cta__color;
 							border-bottom: 3px solid $cta__color;
@@ -912,6 +913,7 @@ a {
     grid-template-columns: 0.5fr 1fr;
 		.gatsby-image-wrapper{
 			max-height: 76px;
+			min-width: 76px;
 			margin-right: 7px;
 		}
 		h4{
@@ -919,6 +921,7 @@ a {
 		}
 		p{
 			margin: 0;
+			font-size: 12px;
 		}
 	}
 }
@@ -926,6 +929,10 @@ a {
 	font-family: $main__font;
 	font-size: 14px;
 	font-weight: 300;
+	// width: auto!important; // over columns width
+}
+.footer-infos{
+	padding-left: 5px;
 }
 .footer .tag{
 	font-size: 11px;
@@ -944,6 +951,7 @@ a {
 	}
 }
 .footer{
+	padding-bottom: 20px;
 	&.full-width-row{
 		margin-top: 50px;
     padding-top: 60px;
@@ -951,7 +959,8 @@ a {
 			gap: 0 15px;
     // overflow-wrap: break-word;
 			.boxed-column-child>div{
-				width: 258px;
+				width: 210px;
+				padding: 0 15px;
 				// padding: 0 15px;
 			}
 		}

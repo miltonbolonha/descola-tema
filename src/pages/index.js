@@ -56,7 +56,7 @@ const IndexPage = ({ data }) => {
 					type="ROW"
 					opt={{ isBoxed: true, numColumns: 4, classes: 'footer-columns' }}
 				>
-					<div>
+					<div className="footer-infos">
 						<h3>Sobre a escola</h3>
 						<p>
 							A Descola é uma escola de cursos online que cria grandes
