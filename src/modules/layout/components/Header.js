@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 // import MenuHamburgerIcon from '../../../../static/images/menu-hamburger.svg'
 import MenuContainer from '../containers/MenuContainer'
 import Layout from '..'
-import { RiShoppingBag3Line, RiSearchLine } from 'react-icons/ri'
+import { RiShoppingBag3Line } from 'react-icons/ri'
 import { GiHamburgerMenu } from 'react-icons/gi'
 const Header = ({
 	refState,

@@ -1,36 +1,16 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
-// import { graphql } from 'gatsby'
-// import PoupaLuz from '../modules/PoupaLuz'
-// import GatsbyLoginForm from '../modules/gatsby-login-form'
+import { graphql } from 'gatsby'
 
-// import { Layout } from 'gatsby-layout-builder'
-// import PoupaLuz from '../modules/PoupaLuz'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
-// import MainWrapper from '../modules/block-builder/MainWrapper'
-// import HeaderBlock from '../modules/block-builder/HeaderBlock'
-// import { FiSearch } from 'react-icons/fi'
-// import { RiShoppingBag3Line, RiSearchLine } from 'react-icons/ri'
-
 import excerpt from '../tools/excerpt'
 
 import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
 const IndexPage = ({ data }) => {
-	const truncate = (str, max, suffix) =>
-		str.length < max
-			? str
-			: `${str.substr(
-					0,
-					str.substr(0, max - suffix.length).lastIndexOf(' ')
-			  )}${suffix}`
-
-	// Example
-
 	const stringOne =
 		'É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A	Inteligência Emocional pode sim ser ensinada e aprendida por	qualquer pessoa. É como se ela fosse um músculo que pode'
 	return (

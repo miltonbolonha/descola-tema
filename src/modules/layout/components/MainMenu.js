@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 const MainMenu = ({ wrapperRef, isVisibleClass }) => (
 	<nav ref={wrapperRef} className={' main-nav menu-state-' + isVisibleClass}>
-		<ul className="nav-menus">
+		<ul className="">
 			<li>
 				<p>Login / Registre-se</p>
 			</li>
