@@ -986,19 +986,14 @@ a {
 				grid-template-columns: repeat(1, 1fr)!important; //over numColumns
 				max-width: 525px;
 			}
-// 574
-    // overflow-wrap: break-word;
 			.boxed-column-child>div{
 				width: 210px;
 				padding: 0 15px;
-				// padding: 0 15px;
 			}
 		}
 	}
 	}
 }
-
-
 
 .tag-list-wrapper{
 	display: inline-block;
