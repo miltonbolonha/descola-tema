@@ -9,28 +9,28 @@ import slugify from '../../../tools/slugify'
 export default function FormContainer({ opt }) {
 	const [email, setEmail] = useState('')
 	const [honey, setHoney] = useState('')
-	const [mcRes, setMcRes] = useState('')
+	// const [mcRes, setMcRes] = useState('')
 	// console.log(mcRes)
-	const [msg, setMsg] = useState('')
-	const [success, setSuccess] = useState('')
-	const handleMcRes = (msgReceived, resReceived) => {
-		setMcRes(resReceived)
-		handleMsg(msgReceived, resReceived)
-		handleSuccess(resReceived)
-	}
-	const handleMsg = (msgNow, resReceived) => {
-		let msgNull = null
-		if (resReceived === 'error') {
-			msgNull = config.nope_msg
-		}
-		if (resReceived === 'success') {
-			msgNull = config.success_msg
-		}
-		setMsg(msgNull)
-	}
-	const handleSuccess = (successNow) => {
-		setSuccess(successNow)
-	}
+	// const [msg, setMsg] = useState('')
+	// const [success, setSuccess] = useState('')
+	// const handleMcRes = (msgReceived, resReceived) => {
+	// 	setMcRes(resReceived)
+	// 	handleMsg(msgReceived, resReceived)
+	// 	handleSuccess(resReceived)
+	// }
+	// const handleMsg = (msgNow, resReceived) => {
+	// 	let msgNull = null
+	// 	if (resReceived === 'error') {
+	// 		msgNull = config.nope_msg
+	// 	}
+	// 	if (resReceived === 'success') {
+	// 		msgNull = config.success_msg
+	// 	}
+	// 	setMsg(msgNull)
+	// }
+	// const handleSuccess = (successNow) => {
+	// 	setSuccess(successNow)
+	// }
 	const handleEmailChange = (emailTyping) => {
 		setEmail(emailTyping)
 	}
@@ -63,8 +63,8 @@ export default function FormContainer({ opt }) {
 		// return console.log('logo')
 		// }
 	}
-	const msgStyle =
-		success === 'success' ? config.success_class : config.nope_class
+	// const msgStyle =
+	// 	success === 'success' ? config.success_class : config.nope_class
 
 	return (
 		<Form
@@ -72,9 +72,9 @@ export default function FormContainer({ opt }) {
 			honeypotStateChanger={handleHoneypotChange}
 			emailStateChanger={handleEmailChange}
 			email={email}
-			msg={msg}
-			msgStyle={msgStyle}
-			success={success}
+			// msg={msg}
+			// msgStyle={msgStyle}
+			// success={success}
 			honey={honey}
 			bot_msg={config.bot_msg}
 			form_class={config.form_class}

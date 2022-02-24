@@ -59,7 +59,7 @@ const InsertHTML = ({ type, params, opt, children, bgOpt, bgImg }) => {
 				themeColor,
 				bgImg,
 			}) => {
-				const basis = 100 / params.numColumns
+				// const basis = 100 / params.numColumns
 
 				switch (element) {
 					case 'list':
