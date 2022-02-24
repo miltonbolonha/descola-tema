@@ -102,8 +102,8 @@ header {
 					font-family: $main__font;
 					// font-family: 'Cantata One';
 					text-transform: uppercase;
-					color: $btn_brown__not_active;
-					font-size: $xs__fontSize;
+					color: white;
+					font-size: 28px;
 
 					// &:hover {
 					// color: $secondary_golden_rod__color;
@@ -147,6 +147,9 @@ body.dark {
 
 
 .mobile-header{
+	&.full-width-row{
+		height: 62px;
+	}
 	.logo-link{
 		display: flex;
 	}

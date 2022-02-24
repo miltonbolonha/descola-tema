@@ -4,6 +4,9 @@ const MainMenu = ({ wrapperRef, isVisibleClass }) => (
 	<nav ref={wrapperRef} className={' main-nav menu-state-' + isVisibleClass}>
 		<ul className="nav-menus">
 			<li>
+				<p>Login / Registre-se</p>
+			</li>
+			<li>
 				<a href="https://descola.org/cursos">Cursos</a>
 			</li>
 			<li>

@@ -428,15 +428,23 @@ body {
 }
 
 .menu-bar-icon {
-	background: #e1e8ed;
+	background: $cta__color;
 	display: flex;
 	align-items: center;
 	width: 20px;
 	height: 20px;
 	padding: 8px;
-	border-radius: 8px;
+	// border-radius: 8px;
+	border: 3px solid #e9e9ed;
+	&:hover{
+		border: 3px solid #ffa485;
+	}
 }
-
+.active{
+.menu-bar-icon {
+	border: 3px solid #ffa485;
+}
+}
 .modal-group-buttons {
 	display: flex;
 	flex-wrap: wrap;
@@ -1032,7 +1040,10 @@ a {
 
 .mobile-header .main-header .main-nav{
 	position: absolute;
-	left: 0;
+	// left: 0;
+	right: 0;
+	top: 78px;
+	justify-content: right;
 }
 
 .mobile-header {
@@ -1043,6 +1054,7 @@ a {
 		max-width: 690px;
     margin: 0 auto;
 		width: 100%;
+		position: relative;
 	}
 	.logo-link svg{
 		width: 60px;
@@ -1055,5 +1067,15 @@ a {
     display: flex;
 		align-items: center;
 
+	}
+}
+
+
+.nav-menus{
+
+	a{
+		font-weight: 300;
+		font-family: $main__font;
+		font-size: 15px;
 	}
 }
