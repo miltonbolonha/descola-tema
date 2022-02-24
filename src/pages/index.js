@@ -7,16 +7,32 @@ import { graphql, Link } from 'gatsby'
 // import { Layout } from 'gatsby-layout-builder'
 // import PoupaLuz from '../modules/PoupaLuz'
 import DescolaLogo from '../../static/images/descola-logo.svg'
+import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
 // import MainWrapper from '../modules/block-builder/MainWrapper'
 // import HeaderBlock from '../modules/block-builder/HeaderBlock'
 // import { FiSearch } from 'react-icons/fi'
 // import { RiShoppingBag3Line, RiSearchLine } from 'react-icons/ri'
+
+import excerpt from '../tools/excerpt'
+
 import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
 const IndexPage = ({ data }) => {
+	const truncate = (str, max, suffix) =>
+		str.length < max
+			? str
+			: `${str.substr(
+					0,
+					str.substr(0, max - suffix.length).lastIndexOf(' ')
+			  )}${suffix}`
+
+	// Example
+
+	const stringOne =
+		'É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A	Inteligência Emocional pode sim ser ensinada e aprendida por	qualquer pessoa. É como se ela fosse um músculo que pode'
 	return (
 		<Layout
 			type="BODY"
@@ -49,11 +65,13 @@ const IndexPage = ({ data }) => {
 							conteúdos para que você desenvolva Power Skills.
 						</p>
 						<p>Descola Cursos Inovadores LTDA EPP 17.996.625/0001-58</p>
-						<span className="contato__telefone">
+
+						<p>
 							<BsHeadset />
 							<a href="tel:+551130420043">+55 (11) 3042-0043</a>
-						</span>
-						<div className="logo"></div>
+						</p>
+
+						<DescolaLogoDark />
 					</div>
 					<div className="tag-list-wrapper">
 						<h3>Habilidades em destaque</h3>
@@ -123,7 +141,7 @@ const IndexPage = ({ data }) => {
 							</a>
 						</div>
 					</div>
-					<div>
+					<div className="footer-column-blog">
 						<h3>Blog da escola</h3>
 						<a
 							href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
@@ -131,58 +149,44 @@ const IndexPage = ({ data }) => {
 							target="_blank"
 							className="footer__card"
 						>
-							<div></div>
+							<Layout type="BLOCK_IMAGE" opt={{ queryCard: data.imgHolder }} />
 							<div>
 								<h4>
 									10 hábitos de Gestão Emocional para aplicar no seu dia a dia
-								</h4>{' '}
-								<p>
-									É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A
-									Inteligência Emocional pode sim ser ensinada e aprendida por
-									qualquer pessoa. É como se ela fosse um músculo que pode
-									&amp;#8230;&lt;/p&gt;
-								</p>
+								</h4>
+								<p>{excerpt(stringOne, 50, '...')}</p>
 							</div>
 						</a>
 						<a
-							href="https://blog.descola.org/power-skills-as-habilidades-que-vao-te-fazer-chegar-mais-longe/"
+							href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
 							rel="noopener noreferrer"
 							target="_blank"
 							className="footer__card"
 						>
-							<div></div>
+							<Layout type="BLOCK_IMAGE" opt={{ queryCard: data.imgHolder }} />
 							<div>
 								<h4>
-									POWER SKILLS &amp;#8211; As habilidades que vão te fazer
-									chegar mais longe
-								</h4>{' '}
-								<p>
-									Como Power Skills devem ser levadas em conta no mundo de
-									hoje.&lt;/p&gt;
-								</p>
+									10 hábitos de Gestão Emocional para aplicar no seu dia a dia
+								</h4>
+								<p>{excerpt(stringOne, 50, '...')}</p>
 							</div>
 						</a>
 						<a
-							href="https://blog.descola.org/mentalidade-agil-um-novo-jeito-de-enxergar-oportunidades-de-crescimento/"
+							href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
 							rel="noopener noreferrer"
 							target="_blank"
 							className="footer__card"
 						>
-							<div className="footer__card__img"></div>
-							<div className="footer__card__content">
+							<Layout type="BLOCK_IMAGE" opt={{ queryCard: data.imgHolder }} />
+							<div>
 								<h4>
-									Mentalidade Ágil: Um novo jeito de enxergar oportunidades de
-									crescimento
-								</h4>{' '}
-								<p>
-									Lembra quando você estava aprendendo a ler e ficava lendo
-									todas as placas que via pela rua? Ou quando você descobriu a
-									química e olhou para a água fervendo na &amp;#8230;&lt;/p&gt;
-								</p>
+									10 hábitos de Gestão Emocional para aplicar no seu dia a dia
+								</h4>
+								<p>{excerpt(stringOne, 50, '...')}</p>
 							</div>
 						</a>
 					</div>
-					<div>
+					<div className="footer-column-nav">
 						<h3>Navegue</h3>
 						<nav>
 							<ul>
@@ -236,6 +240,18 @@ export const queryAtividade = graphql`
 					twitter
 					youtube
 				}
+			}
+		}
+
+		bgroom: file(relativePath: { eq: "bg-app-room.jpg" }) {
+			childrenImageSharp {
+				gatsbyImageData(width: 301, placeholder: DOMINANT_COLOR, quality: 100)
+			}
+		}
+
+		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}
 		}
 	}

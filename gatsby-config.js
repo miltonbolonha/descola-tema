@@ -12,7 +12,7 @@ module.exports = {
 		description: businessInfos.description,
 		author: businessInfos.author,
 		siteUrl: businessInfos.siteUrl,
-		image: `${__dirname}/static/images/diabetes-brasil-logo.png`,
+		image: `${__dirname}/static/images/descola-logo.svg`,
 		coauthor: {
 			name: businessInfos.coauthor,
 			minibio: businessInfos.coauthordesc,
@@ -20,7 +20,7 @@ module.exports = {
 		organization: {
 			name: businessInfos.clientOrg,
 			url: businessInfos.clientSite,
-			logo: `${__dirname}/static/images/diabetes-brasil-logo.png`,
+			logo: `${__dirname}/static/images/descola-logo.svg`,
 		},
 		social: {
 			instagram: businessInfos.clientSocial.instagram,
