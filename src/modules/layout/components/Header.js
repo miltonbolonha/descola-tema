@@ -37,7 +37,7 @@ const Header = ({
 					<Link to="/" className="logo-link">
 						{logoSvg}
 					</Link>
-					<nav className="main-nav">
+					<nav className="main-nav desktop-only">
 						<ul className="main-ul">
 							<li>
 								<a href="https://descola.org/cursos">Cursos</a>
