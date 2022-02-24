@@ -6,17 +6,17 @@ header {
 	width: 100%;
 	border-top: $heading__border solid $ribbon_top__color;
 	div.main-header {
-		flex-direction: row;
-		flex-wrap: wrap;
-		height: 50px;
-		padding-top: 55px;
-		padding-bottom: 32px;
-		display: flex;
-		width: 96%;
-		align-content: center;
-		justify-content: space-between;
-		margin: 0 auto;
-		max-width: 870px;
+		// flex-direction: row;
+		// flex-wrap: wrap;
+		// height: 50px;
+		// padding-top: 55px;
+		// padding-bottom: 32px;
+		// display: flex;
+		// width: 96%;
+		// align-content: center;
+		// justify-content: space-between;
+		// margin: 0 auto;
+		// max-width: 870px;
 		@media (max-width: $tablet__size) {
 			width: 100%;
 			&.main-header-visible {
@@ -37,17 +37,11 @@ header {
 					clear: both;
 					display: block;
 					margin: 0;
-					position: absolute;
-					left: 0;
+					// position: absolute;
+					// left: 0;
 				}
 			}
-			&.toggle-menu {
-				display: contents;
-				position: absolute;
-				right: 15px;
-				width: 100%;
-				display: inherit;
-			}
+
 			p strong {
 				color: $cta__color;
 			}
@@ -80,8 +74,8 @@ header {
 
 		& > .toggle-menu {
 			&.toggle-menu {
-				position: absolute;
-				right: 15px;
+				// position: absolute;
+				// right: 15px;
 
 				.active {
 					.icon-text {
@@ -148,5 +142,12 @@ body.dark {
 	}
 	header div.main-header > .header-columns .logo-link h1 {
 		color: $brand_white__color;
+	}
+}
+
+
+.mobile-header{
+	.logo-link{
+		display: flex;
 	}
 }

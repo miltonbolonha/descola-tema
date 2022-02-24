@@ -1022,3 +1022,38 @@ a {
 	.footer-column-blog{order:4}
 	.footer-column-nav{order:2}
 }
+
+
+.menu-state-not-visible {
+	opacity: 0;
+	visibility: hidden;
+}
+
+
+.mobile-header .main-header .main-nav{
+	position: absolute;
+	left: 0;
+}
+
+.mobile-header {
+	&.full-width-row-child{
+		display: flex!important; //over numColumns
+    justify-content: space-between;
+    padding: 0;
+		max-width: 690px;
+    margin: 0 auto;
+		width: 100%;
+	}
+	.logo-link svg{
+		width: 60px;
+	height: 42px;
+}
+}
+.full-width-row {
+	&.mobile-header{
+		height: 62px;
+    display: flex;
+		align-items: center;
+
+	}
+}
