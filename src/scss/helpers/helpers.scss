@@ -923,8 +923,8 @@ a {
 		display: grid;
     grid-template-columns: 0.5fr 1fr;
 		.gatsby-image-wrapper{
-			max-height: 76px;
-			min-width: 76px;
+			height: 76px;
+			width: 76px;
 			margin-right: 7px;
 		}
 		h4{
