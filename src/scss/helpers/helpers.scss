@@ -885,7 +885,6 @@ a {
 }
 
 
-
 .footer h3,.footer a, .footer p,.footer h4,.footer svg{
 	color: white
 }
@@ -966,7 +965,8 @@ a {
 }
 .footer{
 	padding-bottom: 20px;
-	&.full-width-row{
+&.full-width-row{
+		padding: 60px 15px 20px;
 		margin-top: 50px;
     padding-top: 60px;
 		.boxed-column{
@@ -989,6 +989,14 @@ a {
 			.boxed-column-child>div{
 				width: 210px;
 				padding: 0 15px;
+			}
+			.footer-menu{
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				margin-bottom: 20px;
+			}
+			p.footer-logo svg{
+				margin-bottom: 10px;
 			}
 		}
 	}

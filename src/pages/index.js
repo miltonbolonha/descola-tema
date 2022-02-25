@@ -226,8 +226,9 @@ const IndexPage = ({ data }) => {
 							<BsHeadset />
 							<a href="tel:+551130420043">+55 (11) 3042-0043</a>
 						</p>
-
-						<DescolaLogoDark />
+						<p className="footer-logo">
+							<DescolaLogoDark />
+						</p>
 					</div>
 					<div className="tag-list-wrapper">
 						<h3>Habilidades em destaque</h3>
@@ -345,7 +346,7 @@ const IndexPage = ({ data }) => {
 					<div className="footer-column-nav">
 						<h3>Navegue</h3>
 						<nav>
-							<ul>
+							<ul className="footer-menu">
 								<li>
 									<a href="https://descola.org/cursos">Cursos</a>
 								</li>
