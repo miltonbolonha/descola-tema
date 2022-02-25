@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
@@ -31,6 +31,23 @@ const IndexPage = ({ data }) => {
 			<Layout type="ROW" opt={{ isBoxed: true }}>
 				<main className="main-container">
 					<h1>Posts</h1>
+					<div className="post-cards-wrapper">
+						<div className="post-card">
+							<Layout
+								type="BLOCK_IMAGE"
+								opt={{ queryCard: data.blogImgHolder }}
+							/>
+							<h2>Lorem ipsum</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+								tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+								laudantium porro perferendis quod excepturi, suscipit adipisci!{' '}
+							</p>
+							<p>
+								<Link to="/">Leia Mais</Link>
+							</p>
+						</div>
+					</div>
 				</main>
 			</Layout>
 			<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
@@ -234,6 +251,17 @@ export const queryAtividade = graphql`
 		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
 			childrenImageSharp {
 				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
+			}
+		}
+
+		blogImgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(
+					width: 350
+					height: 224
+					placeholder: NONE
+					quality: 100
+				)
 			}
 		}
 	}
