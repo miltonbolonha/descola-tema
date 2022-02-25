@@ -71,6 +71,7 @@ const RowContainer = ({
 		boxed: opt.isBoxed || false,
 		bgColor: theme__color,
 		numColumns: opt.numColumns || 1,
+		widthColumns: opt.widthColumns || '1fr',
 		alignTo: opt.alignTo || 'left',
 		title: opt.title || opt.classes,
 	}

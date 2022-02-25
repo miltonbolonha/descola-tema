@@ -34,7 +34,11 @@ const IndexPage = ({ data }) => {
 					<div className="post-cards-wrapper">
 						<Layout
 							type="ROW"
-							opt={{ numColumns: 3, classes: 'post-cards-row' }}
+							opt={{
+								numColumns: 'auto-fit',
+								classes: 'post-cards-row',
+								widthColumns: 'minmax(290px, 1fr)',
+							}}
 						>
 							<div className="post-card">
 								<Layout

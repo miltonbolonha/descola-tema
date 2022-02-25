@@ -75,7 +75,7 @@ const InsertHTML = ({ type, params, opt, children, bgOpt, bgImg }) => {
 											: null,
 									backgroundImage: bgImg,
 									display: 'grid',
-									gridTemplateColumns: `repeat(${opt.numColumns}, 1fr)`,
+									gridTemplateColumns: `repeat(${opt.numColumns}, ${opt.widthColumns})`,
 								}}
 							>
 								{children}

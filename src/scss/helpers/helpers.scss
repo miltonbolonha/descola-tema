@@ -1047,6 +1047,7 @@ a {
     margin: 0 auto;
 		width: 100%;
 		position: relative;
+		padding: 0 40px;
 		ul{
 			display: flex;
 			flex-direction: column;
@@ -1123,6 +1124,10 @@ a {
 	}
 	.full-width-row-child.post-cards-row{
 		gap: 60px 30px;
+		.post-card{
+			max-width: 350px;
+    	margin: 0 auto;
+		}
 	}
 }
 
