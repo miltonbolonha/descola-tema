@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 // import MenuHamburgerIcon from '../../../../static/images/menu-hamburger.svg'
 import MenuContainer from '../containers/MenuContainer'
 import Layout from '..'
+import { FiUser } from 'react-icons/fi'
 import { RiShoppingBag3Line } from 'react-icons/ri'
 import { GiHamburgerMenu } from 'react-icons/gi'
 const Header = ({
@@ -34,6 +35,12 @@ const Header = ({
 
 					{/* {mainMenu ? ( */}
 					<div className="header-columns toggle-menu">
+						<p className="menu-shop-bag-mobile">
+							<FiUser />
+						</p>
+						<p className="menu-shop-bag-mobile">
+							<RiShoppingBag3Line />
+						</p>
 						<input
 							type="checkbox"
 							id="check-toggle-icon"

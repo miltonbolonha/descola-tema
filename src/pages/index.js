@@ -29,7 +29,9 @@ const IndexPage = ({ data }) => {
 			/>
 			{/* <HeaderBlock title="Descola" logotipoSvg={<DescolaLogo />} /> */}
 			<Layout type="ROW" opt={{ isBoxed: true }}>
-				<h1>zin</h1>
+				<main className="main-container">
+					<h1>Posts</h1>
+				</main>
 			</Layout>
 			<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
 				<Layout
