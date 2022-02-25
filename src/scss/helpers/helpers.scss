@@ -1089,6 +1089,7 @@ a {
 					font-weight: 300;
 					font-family: $main__font;
 					font-size: 16px;
+
 				}
 			}
 		}
@@ -1112,6 +1113,7 @@ a {
 	max-width: 1110px;
 	width: 100%;
 	margin: 32px auto;
+
 	h1{
 		color: $cta__color;
 		font-family: $second__font;
@@ -1127,8 +1129,40 @@ a {
 		.post-card{
 			max-width: 350px;
     	margin: 0 auto;
+			background-color: #f6f7fa;
+			.post-card-content{
+				margin: 20px ;
+				h2{
+					font-size: 20px;
+					font-family: $second__font;
+					margin-bottom: 20px;
+					& a:hover{
+						color: $cta__color;
+					}
+				}
+				p{
+					a{font-family: $main__font;
+					font-size: 18px;
+					font-weight: 300;
+					color: #8c9199;
+				}
+				margin-bottom: 16px;
+				}
+				a.card-posts-link{
+					background-color: #222;
+					font-size: 14px;
+					color: white;
+					font-weight: 700;
+					padding: 10px 20px;
+					display: inline-block;
+					&:hover {
+						background-color: $cta__color;
+					}
+				}
+			}
 		}
 	}
 }
 
 
+.boxed-column-child.main-container-wrapper{padding: 0 15px;}

@@ -28,7 +28,10 @@ const IndexPage = ({ data }) => {
 				}}
 			/>
 			{/* <HeaderBlock title="Descola" logotipoSvg={<DescolaLogo />} /> */}
-			<Layout type="ROW" opt={{ isBoxed: true }}>
+			<Layout
+				type="ROW"
+				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
+			>
 				<main className="main-container">
 					<h1>Posts</h1>
 					<div className="post-cards-wrapper">
@@ -43,82 +46,162 @@ const IndexPage = ({ data }) => {
 							<div className="post-card">
 								<Layout
 									type="BLOCK_IMAGE"
-									opt={{ queryCard: data.blogImgHolder }}
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
 								/>
-								<h2>Lorem ipsum</h2>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-									laudantium porro perferendis quod excepturi, suscipit
-									adipisci!{' '}
-								</p>
-								<p>
-									<Link to="/">Leia Mais</Link>
-								</p>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+											Eos, tempora! Tenetro perferendis quod excepturi, suscipit
+											adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
 							</div>
 							<div className="post-card">
 								<Layout
 									type="BLOCK_IMAGE"
-									opt={{ queryCard: data.blogImgHolder }}
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
 								/>
-								<h2>Lorem ipsum</h2>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-									laudantium porro perferendis quod excepturi, suscipit
-									adipisci!{' '}
-								</p>
-								<p>
-									<Link to="/">Leia Mais</Link>
-								</p>
-							</div>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+											Eos, tempora! Tenetur in, ipsum, repudiandae aspernatur
+											illo harum laudantium porro perferendis quod excepturi,
+											suscipit adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
+							</div>{' '}
 							<div className="post-card">
 								<Layout
 									type="BLOCK_IMAGE"
-									opt={{ queryCard: data.blogImgHolder }}
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
 								/>
-								<h2>Lorem ipsum</h2>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-									laudantium porro perferendis quod excepturi, suscipit
-									adipisci!{' '}
-								</p>
-								<p>
-									<Link to="/">Leia Mais</Link>
-								</p>
-							</div>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum dolor si porro perferendis quod excepturi,
+											suscipit adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
+							</div>{' '}
 							<div className="post-card">
 								<Layout
 									type="BLOCK_IMAGE"
-									opt={{ queryCard: data.blogImgHolder }}
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
 								/>
-								<h2>Lorem ipsum</h2>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-									laudantium porro perferendis quod excepturi, suscipit
-									adipisci!{' '}
-								</p>
-								<p>
-									<Link to="/">Leia Mais</Link>
-								</p>
-							</div>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum doium porro perferendis quod excepturi,
+											suscipit adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
+							</div>{' '}
 							<div className="post-card">
 								<Layout
 									type="BLOCK_IMAGE"
-									opt={{ queryCard: data.blogImgHolder }}
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
 								/>
-								<h2>Lorem ipsum</h2>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-									laudantium porro perferendis quod excepturi, suscipit
-									adipisci!{' '}
-								</p>
-								<p>
-									<Link to="/">Leia Mais</Link>
-								</p>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+											Eos, tempora! Tenetri, suscipit adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
+							</div>{' '}
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{
+										queryCard: data.blogImgHolder,
+										hasLink: true,
+										link: '/',
+									}}
+								/>
+								<div className="post-card-content">
+									<h2>
+										<Link to="/">Lorem ipsum</Link>
+									</h2>
+									<p>
+										<Link to="/">
+											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+											Eos, tempora! Tenetur in, ipsus quod excepturi, suscipit
+											adipisci!
+										</Link>
+									</p>
+									<p>
+										<Link to="/" className="card-posts-link">
+											Leia Mais
+										</Link>
+									</p>
+								</div>
 							</div>
 						</Layout>
 					</div>
