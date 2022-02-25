@@ -32,21 +32,91 @@ const IndexPage = ({ data }) => {
 				<main className="main-container">
 					<h1>Posts</h1>
 					<div className="post-cards-wrapper">
-						<div className="post-card">
-							<Layout
-								type="BLOCK_IMAGE"
-								opt={{ queryCard: data.blogImgHolder }}
-							/>
-							<h2>Lorem ipsum</h2>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-								tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
-								laudantium porro perferendis quod excepturi, suscipit adipisci!{' '}
-							</p>
-							<p>
-								<Link to="/">Leia Mais</Link>
-							</p>
-						</div>
+						<Layout
+							type="ROW"
+							opt={{ numColumns: 3, classes: 'post-cards-row' }}
+						>
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{ queryCard: data.blogImgHolder }}
+								/>
+								<h2>Lorem ipsum</h2>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+									laudantium porro perferendis quod excepturi, suscipit
+									adipisci!{' '}
+								</p>
+								<p>
+									<Link to="/">Leia Mais</Link>
+								</p>
+							</div>
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{ queryCard: data.blogImgHolder }}
+								/>
+								<h2>Lorem ipsum</h2>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+									laudantium porro perferendis quod excepturi, suscipit
+									adipisci!{' '}
+								</p>
+								<p>
+									<Link to="/">Leia Mais</Link>
+								</p>
+							</div>
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{ queryCard: data.blogImgHolder }}
+								/>
+								<h2>Lorem ipsum</h2>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+									laudantium porro perferendis quod excepturi, suscipit
+									adipisci!{' '}
+								</p>
+								<p>
+									<Link to="/">Leia Mais</Link>
+								</p>
+							</div>
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{ queryCard: data.blogImgHolder }}
+								/>
+								<h2>Lorem ipsum</h2>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+									laudantium porro perferendis quod excepturi, suscipit
+									adipisci!{' '}
+								</p>
+								<p>
+									<Link to="/">Leia Mais</Link>
+								</p>
+							</div>
+							<div className="post-card">
+								<Layout
+									type="BLOCK_IMAGE"
+									opt={{ queryCard: data.blogImgHolder }}
+								/>
+								<h2>Lorem ipsum</h2>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
+									tempora! Tenetur in, ipsum, repudiandae aspernatur illo harum
+									laudantium porro perferendis quod excepturi, suscipit
+									adipisci!{' '}
+								</p>
+								<p>
+									<Link to="/">Leia Mais</Link>
+								</p>
+							</div>
+						</Layout>
 					</div>
 				</main>
 			</Layout>
