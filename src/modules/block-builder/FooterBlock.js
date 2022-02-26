@@ -1,91 +1,185 @@
 import React from 'react'
 import Layout from '../layout'
-import { graphql, Link } from 'gatsby'
-import Player from './AudioPlayer'
-import { BiShoppingBag } from 'react-icons/bi'
-import { CgReadme } from 'react-icons/cg'
-import { GiBurningBook, GiPunchBlast, GiGamepadCross } from 'react-icons/gi'
-import { RiContactsBookFill } from 'react-icons/ri'
-import { BsBookmarkCheck } from 'react-icons/bs'
-import { GoBook } from 'react-icons/go'
-import { RiWhatsappFill, RiEyeFill } from 'react-icons/ri'
-const FooterBlock = ({ social }) => {
+
+import excerpt from '../../tools/excerpt'
+
+import { BsHeadset, BsInstagram } from 'react-icons/bs'
+import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
+
+const FooterBlock = ({ footerLogo, placeholderImg }) => {
+	const stringOne =
+		'É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A	Inteligência Emocional pode sim ser ensinada e aprendida por	qualquer pessoa. É como se ela fosse um músculo que pode'
 	return (
-		<>
+		<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
 			<Layout
 				type="ROW"
-				opt={{
-					isBoxed: true,
-					classes: 'footer-gray',
-					alignTo: 'center',
-					bgColor: '#121212',
-				}}
+				opt={{ isBoxed: true, numColumns: 4, classes: 'footer-columns' }}
 			>
-				<Layout type="FOOTER" opt={{ social: social }}>
-					<p>Copyright 2022, todos os direitos reservados.</p>
-					<p>Milton Bolonha - O autor</p>
+				<div className="footer-infos">
+					<h3>Sobre a escola</h3>
 					<p>
-						É vedada a publicação do conteúdo deste site, no todo ou em parte,
-						sem prévia autorização por escrito do autor.
+						A Descola é uma escola de cursos online que cria grandes
+						experiências de aprendizagem para transformar as pessoas ao longo de
+						suas vidas. Selecionamos temas e professores e construímos conteúdos
+						para que você desenvolva Power Skills.
 					</p>
-					<p>Solicite autorização pelo e-mail: </p>
+					<p>Descola Cursos Inovadores LTDA EPP 17.996.625/0001-58</p>
+
 					<p>
-						<span>
-							<a href="mailto:miltonbolonha@gmail.com" className="footer-link">
-								miltonbolonha@gmail.com
-							</a>
-						</span>
+						<BsHeadset />
+						<a href="tel:+551130420043">+55 (11) 3042-0043</a>
 					</p>
-				</Layout>
+					<p className="footer-logo">{footerLogo}</p>
+				</div>
+				<div className="tag-list-wrapper">
+					<h3>Habilidades em destaque</h3>
+					{/* <div> */}
+					<a href="https://descola.org/cursos" className="tag">
+						Gestão
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Empregabilidade
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Colaboração
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Inovação
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Design Thinking
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Relacionamentos
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Comunicação Interpessoal
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Engajamento
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Produtividade
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						RH
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Liderança
+					</a>
+					<a href="https://descola.org/cursos" className="tag">
+						Trabalho
+					</a>
+					{/* </div> */}
+					<div className="footer-social-icons">
+						<h3>Redes sociais</h3>
+						<a
+							href="https://br.linkedin.com/school/descola"
+							rel="noopener noreferrer"
+							target="_blank"
+							className="btn btn-primary btn-icon"
+						>
+							<FaLinkedinIn />
+						</a>
+						<a
+							href="https://www.instagram.com/descolagram"
+							rel="noopener noreferrer"
+							target="_blank"
+							className="btn btn-primary btn-icon"
+						>
+							<BsInstagram />
+						</a>
+						<a
+							href="https://www.facebook.com/descolasp"
+							rel="noopener noreferrer"
+							target="_blank"
+							className="btn btn-primary btn-icon"
+						>
+							<FaFacebookF />
+						</a>
+					</div>
+				</div>
+				<div className="footer-column-blog">
+					<h3>Blog da escola</h3>
+					<a
+						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
+						rel="noopener noreferrer"
+						target="_blank"
+						className="footer__card"
+					>
+						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<div>
+							<h4>
+								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
+							</h4>
+							<p>{excerpt(stringOne, 50, '...')}</p>
+						</div>
+					</a>
+					<a
+						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
+						rel="noopener noreferrer"
+						target="_blank"
+						className="footer__card"
+					>
+						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<div>
+							<h4>
+								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
+							</h4>
+							<p>{excerpt(stringOne, 50, '...')}</p>
+						</div>
+					</a>
+					<a
+						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
+						rel="noopener noreferrer"
+						target="_blank"
+						className="footer__card"
+					>
+						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<div>
+							<h4>
+								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
+							</h4>
+							<p>{excerpt(stringOne, 50, '...')}</p>
+						</div>
+					</a>
+				</div>
+				<div className="footer-column-nav">
+					<h3>Navegue</h3>
+					<nav>
+						<ul className="footer-menu">
+							<li>
+								<a href="https://descola.org/cursos">Cursos</a>
+							</li>
+							<li>
+								<a
+									href="https://blog.descola.org/"
+									rel="noopener noreferrer"
+									target="_blank"
+								>
+									Blog
+								</a>
+							</li>
+							<li>
+								<a href="https://descola.org/empresas">Para empresas</a>
+							</li>
+							<li>
+								<a href="https://descola.org/contato">Contato</a>
+							</li>
+							<li>
+								<a href="https://descola.org/faq">FAQ</a>
+							</li>
+							<li>
+								<a href="https://descola.org/imprensa">Imprensa</a>
+							</li>
+							<li>
+								<a href="https://descola.org/termos-de-uso">Termos de Uso</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
 			</Layout>
-			<Layout
-				type="ROW"
-				opt={{
-					isBoxed: true,
-					bgColor: '#03a9f4',
-					classes: 'post-footer-btns',
-				}}
-			>
-				<ul>
-					<li>
-						<Link to="/livro-eugenia-3-0">
-							<GoBook />
-							Livro
-						</Link>
-					</li>
-					{/* <li><Link to='/'>Personagens</li</Link>> */}
-					{/* <li><Link to='/'>Glossário</li</Link>> */}
-					{/* <li><Link to='/'>Armas e Golpes</li</Link>> */}
-					<li>
-						<Link to="/autor-milton-bolonha">
-							<RiContactsBookFill />
-							Autor
-						</Link>
-					</li>
-					<li>
-						<Link to="/jogos">
-							<GiGamepadCross />
-							Jogos
-						</Link>
-					</li>
-					<li>
-						<Link to="/">
-							<BiShoppingBag />
-							Comprar
-						</Link>
-					</li>
-					<li>
-						<Link to="/">
-							<CgReadme />
-							Leia
-						</Link>
-					</li>
-				</ul>
-			</Layout>
-			<Layout type="ROW" opt={{ isBoxed: true, classes: 'audioplayer' }}>
-				<Player />
-			</Layout>
-		</>
+		</Layout>
 	)
 }
 

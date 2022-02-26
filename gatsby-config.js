@@ -55,10 +55,52 @@ module.exports = {
 		},
 		`gatsby-plugin-catch-links`,
 		{
+			resolve: `gatsby-transformer-remark`,
+			options: {
+				plugins: [
+					{
+						resolve: `gatsby-remark-relative-images`,
+						options: {
+							name: `uploads`,
+						},
+					},
+					{
+						resolve: `gatsby-remark-images`,
+						options: {
+							maxWidth: 695,
+							linkImagesToOriginal: false,
+						},
+					},
+					`gatsby-remark-lazy-load`,
+				],
+			},
+		},
+		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
 				name: `images`,
 				path: `${__dirname}/static/images/`,
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `posts`,
+				path: `${__dirname}/posts`,
+			},
+		},
+		{
+			resolve: `gatsby-plugin-mdx`,
+			options: {
+				gatsbyRemarkPlugins: [
+					{
+						resolve: `gatsby-remark-images`,
+						options: {
+							maxWidth: 1035,
+							sizeByPixelDensity: true,
+						},
+					},
+				],
 			},
 		},
 		{
@@ -104,5 +146,16 @@ module.exports = {
 				display: 'swap',
 			},
 		},
+		{
+			resolve: `gatsby-plugin-netlify`,
+			options: {
+				mergeSecurityHeaders: true, // boolean to turn off the default security headers
+				mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
+				mergeCachingHeaders: true, // boolean to turn off the default caching headers
+				transformHeaders: (headers, path) => headers, // optional transform for manipulating headers under each path (e.g.sorting), etc.
+				generateMatchPathRewrites: true, // boolean to turn off automatic creation of redirect rules for client only paths
+			},
+		},
+		`gatsby-plugin-netlify-cms`,
 	],
 }
