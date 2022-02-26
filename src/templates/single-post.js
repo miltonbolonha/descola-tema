@@ -20,6 +20,7 @@ const SinglePost = ({ data }) => {
 			type="BODY"
 			opt={{
 				titleSeo: `Descola`,
+				classes: 'single-post',
 			}}
 		>
 			<Layout
@@ -31,19 +32,27 @@ const SinglePost = ({ data }) => {
 			/>
 			<Layout
 				type="ROW"
-				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
+				opt={{
+					isBoxed: false,
+					classes: 'post-header',
+					bgColor: '#111e24',
+				}}
 			>
-				<main className="main-container">
-					<p>
-						<p>{post.frontmatter.title}</p>
+				<header>
+					<Layout type="ROW" opt={{ isBoxed: true, classes: 'post' }}>
+						<h1>{post.frontmatter.title}</h1>
+					</Layout>
+				</header>
+			</Layout>
+			<Layout type="ROW" opt={{ isBoxed: true, classes: 'main-post' }}>
+				<main>
+					<div className="container">
 						<p>{post.frontmatter.date}</p>
-					</p>
-					<p>
-						<div dangerouslySetInnerHTML={{ __html: post.html }}></div>
-					</p>
+						<p>{post.frontmatter.author}</p>
+						<article dangerouslySetInnerHTML={{ __html: post.html }}></article>
+					</div>
 				</main>
 			</Layout>
-
 			<FooterBlock
 				placeholderImg={data.imgHolder}
 				footerLogo={DescolaLogoDark}

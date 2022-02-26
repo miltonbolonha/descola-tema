@@ -107,7 +107,10 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 						target="_blank"
 						className="footer__card"
 					>
-						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<Layout
+							type="BLOCK_IMAGE"
+							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
+						/>
 						<div>
 							<h4>
 								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
@@ -121,7 +124,10 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 						target="_blank"
 						className="footer__card"
 					>
-						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<Layout
+							type="BLOCK_IMAGE"
+							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
+						/>
 						<div>
 							<h4>
 								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
@@ -135,7 +141,10 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 						target="_blank"
 						className="footer__card"
 					>
-						<Layout type="BLOCK_IMAGE" opt={{ queryCard: placeholderImg }} />
+						<Layout
+							type="BLOCK_IMAGE"
+							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
+						/>
 						<div>
 							<h4>
 								10 hábitos de Gestão Emocional para aplicar no seu dia a dia

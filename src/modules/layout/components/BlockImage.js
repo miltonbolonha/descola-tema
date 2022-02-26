@@ -1,9 +1,19 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
+import { StaticImage } from 'gatsby-plugin-image'
 
 const BlockImage = ({ opt }) => {
-	const image = getImage(opt.queryCard.childrenImageSharp[0])
+	const image =
+		opt.queryCard && opt.queryCard.childrenImageSharp
+			? getImage(opt.queryCard.childrenImageSharp[0])
+			: !opt.queryCard
+			? console.log('uaiiii')
+			: getImage(opt.queryCard)
+	console.log(image)
+	if (!image) {
+		return null
+	}
 	return (
 		<>
 			{opt.hasLink ? (
@@ -11,7 +21,7 @@ const BlockImage = ({ opt }) => {
 					<Link to={opt.link}>
 						<GatsbyImage
 							image={image}
-							alt="Card"
+							alt={opt.alt}
 							placeholder="NONE"
 							critical="true"
 							className={opt.classes}
@@ -21,7 +31,7 @@ const BlockImage = ({ opt }) => {
 			) : (
 				<GatsbyImage
 					image={image}
-					alt="Card"
+					alt={opt.alt}
 					placeholder="NONE"
 					critical="true"
 					className={opt.classes}

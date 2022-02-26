@@ -14,6 +14,7 @@ const IndexPage = ({ data }) => {
 			type="BODY"
 			opt={{
 				titleSeo: `Descola`,
+				classes: 'blog-list',
 			}}
 		>
 			<Layout
