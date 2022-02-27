@@ -66,10 +66,10 @@ const BlogList = (props) => {
 											: !imgFeature && typeof imgFeature === 'string'
 											? 'string'
 											: false
-									if (!urlImageObj) {
-										imgFeature = featuredImage.slice(12)
-									}
-									console.log(imgFeature)
+									// if (!urlImageObj) {
+									// 	imgFeature = featuredImage.slice(12)
+									// }
+									// console.log(imgFeature)
 									return (
 										<PostCard
 											postImage={imgFeature}
@@ -113,7 +113,7 @@ export const query = graphql`
 					frontmatter {
 						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
 						title
-						featuredImage{
+						featuredImage {
 							childrenImageSharp {
 								gatsbyImageData(
 									width: 350
