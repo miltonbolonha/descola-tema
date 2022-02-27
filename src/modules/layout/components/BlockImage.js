@@ -8,9 +8,8 @@ const BlockImage = ({ opt }) => {
 		opt.queryCard && typeof opt.queryCard === 'object'
 			? getImage(opt.queryCard.childrenImageSharp[0])
 			: !opt.queryCard
-			? console.log('uaiiii')
+			? null
 			: getImage(opt.queryCard)
-	console.log(image)
 	if (!image) {
 		return null
 	}
