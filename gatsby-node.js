@@ -40,7 +40,16 @@ exports.createPages = ({ graphql, actions }) => {
 							featuredpost
 							templatekey
 							tags
-							featuredimage
+							featuredImage{
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 350
+									height: 224
+									placeholder: NONE
+									quality: 100
+								)
+							}
+						}
 						}
 					}
 				}

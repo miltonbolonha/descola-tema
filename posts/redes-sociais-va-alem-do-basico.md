@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/redes-sociais-alem-do-basico.png
+featuredImage: ../static/images/redes-sociais-alem-do-basico.png
 ---
 
 Hoje, a presença nas redes sociais é essencial para qualquer marca gerenciar sua reputação. Muitas possibilidades foram criadas em relação ao marketing e relacionamento com o cliente ou público-alvo. Divulgação de conteúdo e SAC 2.0 (feito por meio da web, em redes sociais) são ferramentas que levaram a comunicação das empresas a outro patamar – sendo impossível remar contra essa corrente e ter bons resultados.

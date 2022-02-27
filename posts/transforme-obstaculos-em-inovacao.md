@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/OBSTACULOS.001.jpeg
+featuredImage: ../static/images/OBSTACULOS.001.jpeg
 ---
 
 <span style="font-family: Helvetica, sans-serif;">Selecionamos quatro métodos, simples de aplicar, que ajudam a reverter obstáculos em combustível para ideias inovadoras. São dicas de um empreendedor, uma inventora, um filósofo e um executivo.</span>

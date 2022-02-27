@@ -15,7 +15,7 @@ tags:
   - 'jussara romão'
   - moda
   - start
-featuredimage: static/assets/images/jussara_romao.png
+featuredImage: ../static/images/jussara_romao.png
 ---
 
 <span class="s1">Jussara tem mais de 20 anos de experiência no mercado de Moda. Entre muitos projetos, foi editora de moda na revista revista ELLE, é palestrante e professora sobre moda e Publisher e diretora criativa das revistas customizadas, catálogos e conteúdo de moda on e offline das Lojas Renner.</span>

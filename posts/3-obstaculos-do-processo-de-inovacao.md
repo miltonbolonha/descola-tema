@@ -5,7 +5,7 @@ date: 2015-07-20T12:56:43+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredimage: static/assets/images/inovacao_descola_obstaculos.png
+featuredImage: ../static/images/inovacao_descola_obstaculos.png
 tags:
   - Bloqueio de criatividade
   - Falta de apoio da liderança

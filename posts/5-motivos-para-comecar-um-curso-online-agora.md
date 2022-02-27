@@ -10,7 +10,7 @@ tags:
   - 'cursos descola'
   - 'cursos online'
   - 'motivos para começar um curso online'
-featuredimage: static/assets/images/comece_agora.png
+featuredImage: ../static/images/comece_agora.png
 ---
 
 Ganhar qualificações, além de trazer um grande diferencial ao currículo, ficou mais fácil do que parece.

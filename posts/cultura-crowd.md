@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/capa_drops_cultura_crowd-1.jpg
+featuredImage: ../static/images/capa_drops_cultura_crowd-1.jpg
 ---
 
 <span style="font-weight: 400;">Você já deve ter esbarrado nessa palavra mais vezes do que consegue contar. Para quem está antenado nos movimentos que vêm surgindo nos últimos tempos, é como se sempre que a gente virasse a esquina, um “crowd” aparecesse em algum lugar. </span>[**Crowd**](https://descola.org/curso/crowdfunding)<span style="font-weight: 400;">[funding](https://descola.org/curso/crowdfunding), </span>**crowd**<span style="font-weight: 400;">learning, </span>**crowd**<span style="font-weight: 400;">sourcing… parece até que tudo está virando “crowd”.</span>

@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - criatividade
   - inovação
-featuredimage: static/assets/images/criatividade-e-empreendedorismo.png
+featuredImage: ../static/images/criatividade-e-empreendedorismo.png
 ---
 
 Geralmente, não damos atenção a uma das principais características que podem fazer a diferença em nossa vida pessoal e no nosso ambiente de trabalho. Estou me referindo à criatividade. Todos sabemos que ações criativas fazem a diferença e conferem uma posição de destaque, porém, nos acostumamos a simplesmente aceitar que não somos tão aptos a usá-la e acabamos por não aprimorar nosso processo criativo.

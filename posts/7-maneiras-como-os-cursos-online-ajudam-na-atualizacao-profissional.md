@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'cursos online'
   - trabalho
-featuredimage: static/assets/images/tumblr_ndyfjn8KRp1tubinno1_1280.jpg
+featuredImage: ../static/images/tumblr_ndyfjn8KRp1tubinno1_1280.jpg
 ---
 
 Quanto tempo por dia você passa conectado? E se você dedicasse algumas dessas horas para investir na sua carreira? Os cursos online ampliaram as possibilidades no cenário da educação, tornando mais acessível a especialização e a atualização de quem está no mercado de trabalho e tem pouco tempo para se dedicar aos estudos.

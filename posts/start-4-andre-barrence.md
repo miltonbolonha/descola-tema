@@ -15,7 +15,7 @@ tags:
   - empreendedorismo
   - seed
   - start
-featuredimage: static/assets/images/andre_barrence.png
+featuredImage: ../static/images/andre_barrence.png
 ---
 
 **<span class="s1">Empreender ou como solucionar problemas</span>**

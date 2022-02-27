@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'diferença entre'
   - 'sustentabilidade e desenvolvimento sustentável'
-featuredimage: static/assets/images/Y1hediOeRoya666XCjYg_forest-1138x640.jpg
+featuredImage: ../static/images/Y1hediOeRoya666XCjYg_forest-1138x640.jpg
 ---
 
 Nosso meio ambiente enfrenta uma crise sem precedentes, e a preocupação em tornar-se mais ecológico está cada vez mais presente na sociedade de hoje. A ação do homem, especialmente na segunda metade do século XX, colocou nosso habitat em risco, extinguiu espécies de plantas e animais e colocou o planeta á beira de um colapso. Anualmente, são realizados encontros internacionais para discutir e compreender as consequências da influência humana na natureza e tentar pavimentar mudanças de atitude e consciência na vida das pessoas.

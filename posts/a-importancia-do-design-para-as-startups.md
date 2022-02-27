@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'design para as startups'
   - 'importância do design'
-featuredimage: static/assets/images/photo-1416339134316-0e91dc9ded92.jpg
+featuredImage: ../static/images/photo-1416339134316-0e91dc9ded92.jpg
 ---
 
 O sucesso de toda empresa, principalmente das startups, depende do seu poder de sedução junto ao público, que deverá se identificar e apostar na ideia apresentada. Entretanto, hoje não basta apenas uma ideia bacana, um produto útil e inovador e uma campanha de marketing impecável: é preciso ter um design funcional e muito atrativo.

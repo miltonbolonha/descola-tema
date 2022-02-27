@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/realidade-virtual-2.png
+featuredImage: ../static/images/realidade-virtual-2.png
 ---
 
 Você sabe o que é realidade virtual e aumentada? Essa tecnologia emergente tem se tornado cada vez mais comum no dia a dia das pessoas e já saiu do mundo das ideias para invadir o mercado. Através do desenvolvimento na área de realidade virtual e aumentada, já podemos tirar esses conceitos dos filmes de ficção e trazê-los para mais próximos de nós. Vamos conhecer um pouco mais essa tecnologia, as novidades e os produtos que já estão disponíveis no mercado.

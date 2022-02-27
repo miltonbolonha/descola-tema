@@ -10,7 +10,7 @@ tags:
   - inovação
   - 'inovação em pequenas empresas'
   - 'pequenas empresas inovadoras'
-featuredimage: static/assets/images/cincostartupsmuitoinovadoras.png
+featuredImage: ../static/images/cincostartupsmuitoinovadoras.png
 ---
 
 A cada dia nascem novas empresas trazendo propostas de valor inovadoras, o que gera como efeito um crescimento rápido (e muitas vezes desordenado). Mas, nada que bons planejamentos e gestores não consigam resolver.

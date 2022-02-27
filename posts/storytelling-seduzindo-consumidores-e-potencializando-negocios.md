@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - storytelling
-featuredimage: static/assets/images/poder-do-storytelling.jpg
+featuredImage: ../static/images/poder-do-storytelling.jpg
 ---
 
 Contar uma história e torná-la atrativa por meio de palavras, imagens e sons, nas mais diferentes plataformas: assim pode ser resumida a principal função do _storytelling_. O termo sempre esteve presente na sociedade. Afinal, a contação de histórias é uma forma que sempre utilizamos para transmitir conhecimento através de gerações. Por isto, é difícil estabelecer uma data precisa para a criação do _storytelling_, mas coloque aí bons milhares de anos, um período anterior à existência da linguagem escrita.

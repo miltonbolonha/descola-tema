@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'aproveite cursos online'
   - 'cursos online'
-featuredimage: static/assets/images/cursos-online.png
+featuredImage: ../static/images/cursos-online.png
 ---
 
 O estudo vem sendo cada vez mais importante em um mercado competitivo, entender sobre esse ponto é crucial para o fortalecimento profissional.

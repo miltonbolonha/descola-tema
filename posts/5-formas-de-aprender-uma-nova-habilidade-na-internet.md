@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'aprender uma nova habilidade na internet'
   - 'nova habilidade na internet'
-featuredimage: static/assets/images/Depositphotos_34690303_s.jpg
+featuredImage: ../static/images/Depositphotos_34690303_s.jpg
 ---
 
 Quantas vezes você já deu play no último meme da internet? Curtiu ou compartilhou a piada da vez? Temos muito que agradecer à internet por proporcionar esse conteúdo tão rápido e tão diverso, que faz com que nosso dia a dia seja mais leve. Mas e se você também aproveitasse as vantagens da web para colocar suas ideias em prática?

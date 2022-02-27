@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/falar_em_publico_descola.png
+featuredImage: ../static/images/falar_em_publico_descola.png
 ---
 
 Falar bem em público é um desafio para todos, e os executivos de grandes empresas não fogem dessa regra. Segundo pesquisa do jornal britânico “Sunday Times”, falar em público é um dos principais medos das pessoas. Isso porque, entre 3 mil entrevistados, esse medo acomete 41% das pessoas, e fica à frente de medos como de conviver com problemas financeiros (22%), e da morte (19%). E o mais preocupante de toda essa questão é: universidades, escolas e instituições de ensino não estão preparando os formando para esse momento que estará presente em toda a vida pessoal e profissional.

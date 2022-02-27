@@ -5,7 +5,7 @@ author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/henriford.png
+featuredImage: ../static/images/henriford.png
 ---
 
 Todos os dias podemos observar novos negócios e empresas sendo criadas, revolucionando mercados e mudando a maneira que tomamos decisões básicas do dia a dia.

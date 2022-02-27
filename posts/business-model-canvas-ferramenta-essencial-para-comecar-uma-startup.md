@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'business model'
   - 'modelo de negócios'
-featuredimage: static/assets/images/business-model-canvas.png
+featuredImage: ../static/images/business-model-canvas.png
 ---
 
 Para os especialistas que debateram o panorama das statups brasileiras no festival de tecnologia e inovação South by Southwest Interactive 2015 no Texas (EUA), apesar de o Brasil ser um país promissor em possibilidades de negócios e com um imenso mercado, ainda há carência de statups eficientes.

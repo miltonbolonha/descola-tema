@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/lifelong_learinig_descoladrops.png
+featuredImage: ../static/images/lifelong_learinig_descoladrops.png
 ---
 
 Todo mundo já deu uma moscada em sala de aula, nem sempre estamos envolvidos com a matéria, quem dera a sala de aula fosse tão envolvente como uma conversa de boteco. Às vezes a gente aprende mais com um copo de cerveja na mão do que quando estávamos em sala de aula. O que prova que nossa aprendizagem não é determinada, ela não ocorre mais somente durante a nossa formação escolar.

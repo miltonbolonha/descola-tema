@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/gestao_do_futuro.png
+featuredImage: ../static/images/gestao_do_futuro.png
 ---
 
 Imagine se tudo ao seu redor fosse conectado.

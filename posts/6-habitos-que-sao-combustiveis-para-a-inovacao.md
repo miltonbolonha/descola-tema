@@ -9,7 +9,7 @@ tags:
   - 'hábitos inovadores'
   - 'hábitos propícios para a inovação'
   - 'hábitos que são combustíveis para a inovação'
-featuredimage: static/assets/images/habitos-inovacao.png
+featuredImage: ../static/images/habitos-inovacao.png
 ---
 
 Inovar é crucial e é a chave para o sucesso em um ambiente de trabalho. Mas, ser inovador não é tão fácil quanto se parece. Os desafios podem ser muitos, o esforço também: não é todo dia que com acordamos com uma ideia diferente, promissora e sagaz.

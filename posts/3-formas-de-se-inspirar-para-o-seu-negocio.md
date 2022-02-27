@@ -5,7 +5,7 @@ date: 2014-12-17T12:33:38+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredimage: static/assets/images/descola_ideias.jpg
+featuredImage: ../static/images/descola_ideias.jpg
 tags:
   - filmes inspiradores
   - livros inspiradores

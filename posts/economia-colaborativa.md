@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - 'economia colaborativa'
-featuredimage: static/assets/images/colaboracao.png
+featuredImage: ../static/images/colaboracao.png
 ---
 
 Você provavelmente já ouviu falar da **economia colaborativa** ou **compartilhada**. Melhor, talvez já tenha usado um serviço ou produto desse modernoso e promissor setor da economia sem ter se dado conta. Vamos falar um pouco mais sobre esse segmento econômico que é o futuro dos negócios.

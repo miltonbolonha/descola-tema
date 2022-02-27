@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/bullet.png
+featuredImage: ../static/images/bullet.png
 ---
 
 A nova febre que surgiu no começo deste ano foram os **Bullet Journals**, um híbrido de diário, agenda e planejador. Os Bullet Journals foram criados por **Ryder Carroll**, digital product designer com dificuldade em aprendizado, que teve de desenvolver outras formas de se concentrar e ser produtivo. Aqui temos Ryder explicando a sua ideia:

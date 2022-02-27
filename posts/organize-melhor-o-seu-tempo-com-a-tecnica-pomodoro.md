@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/pomodoro.jpg
+featuredImage: ../static/images/pomodoro.jpg
 ---
 
 Acarretado pelo excesso de informações às quais temos acesso, um dos males do século 21 é a **procrastinação**. Você já deve ter ouvido essa palavra: procrastinar é adiar uma ou mais ações. É literalmente dar aquela enrolada no trabalho que você tem pra fazer, seja ele acadêmico, pessoal ou até mesmo um job.

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/REVOLUCAOMAKER.001.jpeg
+featuredImage: ../static/images/REVOLUCAOMAKER.001.jpeg
 ---
 
 <span class="s1">Se você é uma pessoa ligada em tecnologia, inovação ou economia, provavelmente já deve ter visto alguma coisa sobre a 4ª Revolução Industrial. O conceito ganhou um grande destaque agora em 2016, como grande tema do Fórum Econômico Mundial de Davos, na Suíça. Mas foi criado em 2011, por empresários e pesquisadores alemães para entender melhor o impacto que novas tenologias e interfaces entre o físico e o digital podem causar na produção industrial e no mercado. </span>

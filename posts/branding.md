@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/capa_bilhete-3.png
+featuredImage: ../static/images/capa_bilhete-3.png
 ---
 
 O que você tem guardado? Numa caixa no topo do seu armário. Ou debaixo da cama. Cobertores, uma barraca, malas de viagem, botas de inverno daquela uma vez que você foi para Nova Iorque e esqueceu que mora em um país tropical? E memórias, um livro com uma flor e uma cartinha dentro, dados pelo seu primeiro namorado, o último cartão de aniversário que a sua avó te escreveu, um desenho horrível que o seu sobrinho fez, mas que você não teve coragem de jogar fora e deixou preso na porta da sua geladeira por meses.

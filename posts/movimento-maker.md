@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/maker.png
+featuredImage: ../static/images/maker.png
 ---
 
 Falar sobre futuro não é tão legal quanto construí-lo. Ainda mais quando a gente sabe que pode fazer isso com as nossas próprias mãos.

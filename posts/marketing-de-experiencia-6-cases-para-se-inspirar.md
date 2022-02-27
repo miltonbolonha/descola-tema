@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/mkt-experiencia.png
+featuredImage: ../static/images/mkt-experiencia.png
 ---
 
 Todo mundo sabe e estamos sempre reforçando: a marca que é lembrada pelo consumidor é aquela que se faz presente, que envolve, que conta um história, que inspira uma emoção. É aquela que se conecta com o público de forma sutil e se faz lembrar sempre.

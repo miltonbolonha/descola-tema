@@ -52,17 +52,27 @@ const BlogList = (props) => {
 								(
 									{
 										node: {
-											frontmatter: { title, featuredimage },
+											frontmatter: { title, featuredImage },
 											fields: { slug },
 											excerpt,
 										},
 									},
 									i
 								) => {
-									console.log(featuredimage)
+									let imgFeature = featuredImage
+									const urlImageObj =
+										imgFeature && typeof imgFeature === 'object'
+											? true
+											: !imgFeature && typeof imgFeature === 'string'
+											? 'string'
+											: false
+									if (!urlImageObj) {
+										imgFeature = featuredImage.slice(12)
+									}
+									console.log(imgFeature)
 									return (
 										<PostCard
-											postImage={featuredimage}
+											postImage={imgFeature}
 											linkUrl={slug}
 											title={title}
 											excerpt={excerpt}
@@ -103,7 +113,16 @@ export const query = graphql`
 					frontmatter {
 						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
 						title
-						featuredimage
+						featuredImage{
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 350
+									height: 224
+									placeholder: NONE
+									quality: 100
+								)
+							}
+						}
 					}
 					excerpt(pruneLength: 300)
 				}

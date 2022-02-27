@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/IoT.png
+featuredImage: ../static/images/IoT.png
 ---
 
 Se você ainda não ouviu falar ou não sabe o que é a Internet das Coisas, prepare-se para adentrar a um novo mundo em breve: segundo um estudo da Bitdefender, o número de dispositivos conectados à Internet das Coisas deve triplicar até 2020, movimentando US$11 trilhões na economia até 2025.

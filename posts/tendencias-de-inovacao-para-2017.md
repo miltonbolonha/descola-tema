@@ -10,7 +10,7 @@ tags:
   - negócios
   - tecnologia
   - tendencia
-featuredimage: static/assets/images/2017.jpg
+featuredImage: ../static/images/2017.jpg
 ---
 
 Nos últimos anos, vemos como a inovação vem ocupando papel fundamental nas grandes organizações e startups. Muitas são as alternativas inovadoras que surgem com o passar do tempo, e os próximos anos só tendem a dar continuidade aos empreendimentos e soluções modernas no mercado.

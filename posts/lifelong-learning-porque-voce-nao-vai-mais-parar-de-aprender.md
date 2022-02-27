@@ -5,7 +5,7 @@ author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/lifelonglearning_descola.png
+featuredImage: ../static/images/lifelonglearning_descola.png
 ---
 
 **O que você vai ser quando crescer?** Em algum momento da sua infância você teve que responder a essa pergunta.

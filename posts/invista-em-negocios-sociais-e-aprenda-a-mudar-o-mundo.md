@@ -10,7 +10,7 @@ tags:
   - 'Empreendedorismo social'
   - 'inovação social'
   - 'negócios sociais'
-featuredimage: static/assets/images/negocios_sociaois.png
+featuredImage: ../static/images/negocios_sociaois.png
 ---
 
 Negócios sociais são como são chamadas as iniciativas empresariais que não só geram lucro, mas também solucionam alguma questão social importante.

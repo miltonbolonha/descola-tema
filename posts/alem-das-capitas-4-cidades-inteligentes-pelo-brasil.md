@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/smart-cities.png
+featuredImage: ../static/images/smart-cities.png
 ---
 
 O conceito de cidades inteligentes ainda é pouco difundido em terras brasileiras. Ainda assim, muitas cidades Brasil afora já implantaram as tecnologias necessárias e estão fazendo história quando o assunto são Smart Cities.

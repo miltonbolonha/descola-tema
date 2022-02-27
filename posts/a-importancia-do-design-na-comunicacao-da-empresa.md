@@ -8,7 +8,7 @@ tags:
   - 'curso descola'
   - design
   - 'design para novos contextos'
-featuredimage: static/assets/images/importancia_design_descola.png
+featuredImage: ../static/images/importancia_design_descola.png
 ---
 
 Você já parou para pensar qual é a identidade visual da empresa em que trabalhar? Na forma como ela se comunica visualmente com o seu público alvo, em como ele se sente ao ver a sua marca, o que ele associa quando vê o seu logo?

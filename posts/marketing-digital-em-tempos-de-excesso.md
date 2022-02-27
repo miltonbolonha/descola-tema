@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/mkt.png
+featuredImage: ../static/images/mkt.png
 ---
 
 Com tanta informação à nossa disposição, sua marca precisa ser vista para fazer diferença na vida do consumidor. Um mar de opções e oportunidades surge a todo momento, e a cada vez que você atualiza a página do navegador ou de sua rede social, mais um monte de novos conteúdos aparecem. Para não se tornar somente mais um em seu segmento, é preciso que você acompanhe a evolução das ferramentas de marketing.

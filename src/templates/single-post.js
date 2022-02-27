@@ -70,7 +70,16 @@ export const query = graphql`
 				author
 				tags
 				featuredpost
-				featuredimage
+				featuredImage{
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 350
+									height: 224
+									placeholder: NONE
+									quality: 100
+								)
+							}
+						}
 			}
 			html
 			fields {

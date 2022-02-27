@@ -8,7 +8,7 @@ tags:
   - 'apresentação de slide'
   - 'arquitetura de conteúdo'
   - slide
-featuredimage: static/assets/images/apresentacao_Descola.png
+featuredImage: ../static/images/apresentacao_Descola.png
 ---
 
 Que atire a primeira pedra quem nunca cochilou durante uma apresentação slides. O cenário é mais do que apropriado: sala com luzes reduzidas, cadeira relativamente confortável, uma penumbra convidativa e o ritmo continuo (quase hipnótico) de uma voz suave ao pé do ouvido. Desse jeito é difícil não dormir, não é mesmo?

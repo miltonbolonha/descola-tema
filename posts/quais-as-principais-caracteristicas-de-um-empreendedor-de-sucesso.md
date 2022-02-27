@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/jeitoempreendedor.jpeg
+featuredImage: ../static/images/jeitoempreendedor.jpeg
 ---
 
 Uma ótima ideia e dinheiro sobrando para iniciar o próprio negócio não são sinônimos de sucesso. Sem preparo, os aventureiros podem desperdiçar muito dinheiro e energia.

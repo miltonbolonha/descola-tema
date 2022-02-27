@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/teste-procrastinar.png
+featuredImage: ../static/images/teste-procrastinar.png
 ---
 
 Todo mundo tem ou já teve pelo menos uma vez algum problema com procrastinação: aquela tarefa tão complicada e extensa vai sempre ficando para depois, sendo substituída por outras atividades mais prazerosas. Mas você sabe a razão para que isso aconteça? Você conhece o seu perfil de procrastinador?

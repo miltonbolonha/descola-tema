@@ -8,7 +8,7 @@ tags:
   - descola
   - hackathon
   - 'o que é um hackathon'
-featuredimage: static/assets/images/hackathon_descola.png
+featuredImage: ../static/images/hackathon_descola.png
 ---
 
 Dizem que novas e intensas experiências só fazem bem às novas empresas/startups. Se é verdade, não temos como provar, mas que um Hackathon é algo para ficar na memória de quem participa, isso é fato.

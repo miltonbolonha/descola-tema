@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/Descola_umadica-3.png
+featuredImage: ../static/images/Descola_umadica-3.png
 ---
 
 A dica da semana é imprescindível para você que está criando o seu plano de negócios ou precisa atualizá-lo de acordo com as novidades do mercado. **Business Model Generation – Inovação em Modelos de Negócios** foi escrito por Alexander Osterwalder, o mesmo cara que criou o Business Model Canvas, ainda em 2010.

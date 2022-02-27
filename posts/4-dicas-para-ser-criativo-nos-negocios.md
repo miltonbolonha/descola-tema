@@ -5,7 +5,7 @@ date: 2015-02-23T17:45:20+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredimage: static/assets/images/photo-1416339306562-f3d12fefd36f.jpg
+featuredImage: ../static/images/photo-1416339306562-f3d12fefd36f.jpg
 tags:
   - criativo nos negócios
 ---

@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'design ajuda a trazer inovações'
   - 'inovações para as empresas'
-featuredimage: static/assets/images/photo-1416339684178-3a239570f315.jpg
+featuredImage: ../static/images/photo-1416339684178-3a239570f315.jpg
 ---
 
 Já faz bastante tempo que o design se tornou um elemento fundamental para o sucesso de empresas e para a conquista do público, embora alguns setores tenham percebido isso tardiamente. Mas sempre é tempo para acompanhar as tendências e buscar se adaptar às exigências do mercado.

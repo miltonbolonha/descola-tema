@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - design
   - 'design estratégico'
-featuredimage: static/assets/images/financialreform.jpg
+featuredImage: ../static/images/financialreform.jpg
 ---
 
 Vivemos em uma época em que o nível de complexidade, competitividade e eficiência de todos os setores do mercado é cada vez mais alto. Esse panorama demanda soluções mais criativas, rentáveis e baseadas em novas metodologias e ferramentas inovadoras. E o que o design estratégico tem a ver com isso?

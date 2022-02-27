@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/gamification.png
+featuredImage: ../static/images/gamification.png
 ---
 
 Já ouviu falar em Gamification?

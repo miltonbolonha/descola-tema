@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/limao.png
+featuredImage: ../static/images/limao.png
 ---
 
 É isso mesmo. Se a vida te der limões, não faça uma limonada.

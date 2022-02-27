@@ -8,7 +8,7 @@ tags:
   - 'aprender sempre'
   - 'motivos para não parar de aprender nunca'
   - 'não parar de aprender nunca'
-featuredimage: static/assets/images/Depositphotos_1436779_s.jpg
+featuredImage: ../static/images/Depositphotos_1436779_s.jpg
 ---
 
 Se você acha que o aprendizado termina com a graduação no ensino médio ou na faculdade, está enganado! Saiba que o processo de aprendizagem deve ser levado para a vida toda, mantendo as engrenagens do nosso cérebro em funcionamento constante. Precisa de outros motivos para não parar de estudar? Então, dê uma olhada no texto a seguir!

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/habilidades_futuro.jpg
+featuredImage: ../static/images/habilidades_futuro.jpg
 ---
 
 <div><div>Em algumas imersões em pensamentos, às vezes me pergunto como será o nosso futuro, embasado no avanço tecnológico, principalmente na automatização de tarefas aliada à inteligência artificial, tema este cada vez mais comum no nosso dia a dia. A evolução e os processos de mudanças pelos quais passamos tendem a substituir pessoas por máquinas gradativamente.

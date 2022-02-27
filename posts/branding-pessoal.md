@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/branding.png
+featuredImage: ../static/images/branding.png
 ---
 
 Com quantas marcas você já teve contato hoje? Quando acordou, foi ao banheiro, tomou café… Foi impactado por quantos nomes diferentes?

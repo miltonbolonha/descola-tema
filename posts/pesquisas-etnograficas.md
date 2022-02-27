@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/pesquisas.png
+featuredImage: ../static/images/pesquisas.png
 ---
 
 Estamos sempre falando sobre empatia e a necessidade de se colocar no lugar do outro. Quando pensamos nos negócios, é importante pensar no consumidor antes de qualquer outra coisa – na sua satisfação, seu grau de engajamento e de apreço pela marca. Primeiro porque essa é uma forma de você ter um bom resultado no final do mês. Segundo porque estamos aqui muito mais do que só para vender. Estamos aqui para atender necessidades, satisfazer desejos, realizar sonhos.

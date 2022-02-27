@@ -5,7 +5,7 @@ date: 2017-10-19T19:52:36+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredimage: static/assets/images/identidade-marca.png
+featuredImage: ../static/images/identidade-marca.png
 ---
 
 Se você tem o seu negócio ou está envolvido com um, provavelmente já ouviu falar sobre identidade de marca. Mesmo que você não esteja próximo às pessoas que lidam com isso na empresa ou que não tenha nenhuma afinidade com o assunto, você sabe que o poder de lembrança das marcas é decisivo na hora da compra e diz muito sobre o comportamento do consumidor.

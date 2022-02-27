@@ -5,7 +5,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const BlockImage = ({ opt }) => {
 	const image =
-		opt.queryCard && opt.queryCard.childrenImageSharp
+		opt.queryCard && typeof opt.queryCard === 'object'
 			? getImage(opt.queryCard.childrenImageSharp[0])
 			: !opt.queryCard
 			? console.log('uaiiii')

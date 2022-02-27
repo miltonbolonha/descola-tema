@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/Descola_umadica-1.png
+featuredImage: ../static/images/Descola_umadica-1.png
 ---
 
 Agora aqui no Descola Drops, toda semana você vai encontrar uma dica cultural: um livro, um filme ou uma série que fazem parte das nossas bibliografias, dicas dos professores e materiais bacanas que a gente esteja acompanhando. Acreditamos que muito mais do que conhecer sobre um tema, ter um repertório embasado em diferentes fontes é essencial para um entendimento sólido e duradouro.

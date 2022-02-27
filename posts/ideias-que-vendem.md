@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'arquitetura de conteúdo'
   - 'ideias que vendem'
-featuredimage: static/assets/images/ideias-que-vendem.png
+featuredImage: ../static/images/ideias-que-vendem.png
 ---
 
 Você já teve uma ótima ideia em seu trabalho ou negócio, mas não conseguiu vendê-la como esperava?

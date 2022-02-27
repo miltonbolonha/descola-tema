@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/educacao.png
+featuredImage: ../static/images/../static/images/educacao.png
 ---
 
 Um dos temas mais populares e movimentados quando falamos sobre o futuro é com certeza a **educação**. Você já deve ter notado que cada vez mais as apostas de [tendências inovadoras](https://descola.org/drops/tendencias-de-inovacao-para-2017/) englobam muitas vertentes e abordagens de aprendizado. Isso se dá porque, com o passar do tempo, as pessoas e o mercado vão percebendo o valor de uma educação de qualidade, não só para a formação de bons profissionais, mas também de seres humanos críticos e pouco acomodados.

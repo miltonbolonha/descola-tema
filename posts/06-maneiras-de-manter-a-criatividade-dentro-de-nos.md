@@ -5,7 +5,7 @@ author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/como_manter_a_criatividade.png
+featuredImage: ../static/images/como_manter_a_criatividade.png
 ---
 
 A criatividade é uma habilidade adquirida por pessoas que se dizem curiosas e, de certa forma, até inquietas, que buscam inspiração em informações e têm a sensibilidade de percebê-las de forma diferente.

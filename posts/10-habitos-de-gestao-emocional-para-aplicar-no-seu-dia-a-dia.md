@@ -14,7 +14,7 @@ tags:
   - hábitos
   - 'inteligencia emocional'
   - sentimentos
-featuredimage: static/assets/images/image-15.png
+featuredImage: ../static/images/image-15.png
 ---
 
 ### **<span class="has-inline-color has-vivid-purple-color">É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? </span>**

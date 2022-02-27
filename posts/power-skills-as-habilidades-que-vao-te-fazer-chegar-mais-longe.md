@@ -14,7 +14,7 @@ tags:
   - powerskill
   - 'profissional do futuro'
   - softskill
-featuredimage: static/assets/images/descola_sala.png
+featuredImage: ../static/images/descola_sala.png
 ---
 
 #### É hora de dar o real significado ao que chamamos de Soft Skills

@@ -5,7 +5,7 @@ author: 'Caio Casseb'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/3564073294_00d9e16e21_b.jpg
+featuredImage: ../static/images/3564073294_00d9e16e21_b.jpg
 ---
 
 Eu poderia começar esse meu primeiro post na Descola me apresentando de varias maneiras: contar de onde vim, qual minha profissão, o meu prato preferido, o game que eu mais joguei na vida. Mas prefiro fazer contando um história pessoal (que deve soar familiar para alguns de vocês).

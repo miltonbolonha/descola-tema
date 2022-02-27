@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - pesquisa
-featuredimage: static/assets/images/pesquisa.png
+featuredImage: ../static/images/pesquisa.png
 ---
 
 Nas últimas semanas me deparei algumas vezes com pessoas invocando gênios como Steve Jobs e Henry Ford para argumentar porque não acreditam em pesquisa.

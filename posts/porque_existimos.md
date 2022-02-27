@@ -23,7 +23,7 @@ hide_pag:
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/equipe_descola.jpeg
+featuredImage: ../static/images/equipe_descola.jpeg
 ---
 
 Nossa história começou em 2011, com a curiosidade típica de alguém de vinte e poucos anos que quer conhecer coisas novas, explorar novos temas que iam além da faculdade e pós-graduações mais ou menos enlatadas que estavam na praça. Você sabe, nós sabemos: vivemos em um mundo rodeado de informação e conhecimento e é sempre massa ter uma base maior sobre diversos temas que inspiram: de design a urbanismo, passando por programação e porque não, cerveja. Éramos moleques querendo aprender de tudo um pouco.

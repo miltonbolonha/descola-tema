@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/GESTAOCRIATIVA.001.jpeg
+featuredImage: ../static/images/GESTAOCRIATIVA.001.jpeg
 ---
 
 <span class="s1">Ser criativo em meio a deadlines, reuniões e tarefas diárias é um desafio e tanto. Mas com um modelo de gestão de criatividade bem estruturado, é possível ter constância e qualidade na hora de inventar. Confira a seguir uma seleção de sugestões para que a criatividade de uma equipe seja aproveitada ao máximo.</span>

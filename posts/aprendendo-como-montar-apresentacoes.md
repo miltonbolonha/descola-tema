@@ -11,7 +11,7 @@ aspect_ratio:
 featuredpost: false
 templatekey: blog-post
 tags: []
-featuredimage: static/assets/images/Screen-Shot-2016-02-29-at-12.27.59-.png
+featuredImage: ../static/images/Screen-Shot-2016-02-29-at-12.27.59-.png
 ---
 
 Assista um trecho do curso que lançamos sobre como montar apresentações melhores!
