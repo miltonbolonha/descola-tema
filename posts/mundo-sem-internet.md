@@ -4,7 +4,8 @@ date: '2017-12-15T20:33:02+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/mundo-internet.png
 ---
 

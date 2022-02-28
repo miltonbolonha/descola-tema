@@ -4,7 +4,8 @@ date: '2019-02-01T14:18:00+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_LINKEDIN.png
 ---
 

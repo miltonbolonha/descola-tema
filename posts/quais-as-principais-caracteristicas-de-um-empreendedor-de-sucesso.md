@@ -4,7 +4,8 @@ date: '2016-02-11T11:58:44+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/jeitoempreendedor.jpeg
 ---
 

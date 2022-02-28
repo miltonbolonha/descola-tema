@@ -4,7 +4,8 @@ date: '2016-03-22T14:22:43+00:00'
 author: 'Caio Casseb'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/VUCA.001.jpeg
 ---
 

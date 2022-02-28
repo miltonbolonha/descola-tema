@@ -4,7 +4,8 @@ date: '2017-05-25T23:25:34+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/teste-procrastinar.png
 ---
 

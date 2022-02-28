@@ -4,7 +4,8 @@ date: '2018-09-20T19:56:16+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/aprendizagem.png
 ---
 

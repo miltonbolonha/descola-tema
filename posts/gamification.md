@@ -4,7 +4,8 @@ date: '2018-06-15T19:55:43+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/gamification.png
 ---
 

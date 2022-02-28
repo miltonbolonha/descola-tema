@@ -10,7 +10,8 @@ aspect_ratio:
   - '1'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/Captura-de-Tela-2015-09-22-a%CC%80s-18.20.511.png
 ---
 

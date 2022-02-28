@@ -10,7 +10,8 @@ aspect_ratio:
   - '1'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/Screen-Shot-2016-02-29-at-12.27.59-.png
 ---
 

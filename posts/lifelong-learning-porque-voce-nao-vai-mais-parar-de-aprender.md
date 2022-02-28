@@ -4,7 +4,8 @@ date: '2020-01-28T21:59:34+00:00'
 author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/lifelonglearning_descola.png
 ---
 

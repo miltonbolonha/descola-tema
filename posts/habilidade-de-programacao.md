@@ -4,7 +4,8 @@ date: '2018-09-28T21:52:51+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/progrmar.png
 ---
 

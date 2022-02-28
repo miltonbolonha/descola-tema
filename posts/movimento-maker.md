@@ -4,7 +4,8 @@ date: '2018-09-13T18:18:47+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/maker.png
 ---
 

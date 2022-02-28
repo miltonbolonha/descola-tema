@@ -4,7 +4,8 @@ date: '2018-11-29T20:38:54+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_flow.png
 ---
 

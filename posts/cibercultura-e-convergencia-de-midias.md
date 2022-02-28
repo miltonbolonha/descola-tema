@@ -4,7 +4,8 @@ date: '2017-04-05T22:06:02+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/cibercultura.png
 ---
 

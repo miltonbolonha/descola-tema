@@ -4,7 +4,8 @@ date: '2018-12-13T12:36:51+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/Artboard-1.png
 ---
 

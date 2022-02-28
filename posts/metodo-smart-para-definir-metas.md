@@ -4,7 +4,8 @@ date: '2017-02-23T21:47:36+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/smart-2.png
 ---
 

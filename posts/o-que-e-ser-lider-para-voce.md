@@ -4,7 +4,8 @@ date: '2020-02-20T13:38:14+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/rubber-ducks-in-leadership-concept-356HSM8.jpg
 ---
 

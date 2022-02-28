@@ -4,7 +4,8 @@ date: '2018-08-23T20:47:51+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/branding.png
 ---
 

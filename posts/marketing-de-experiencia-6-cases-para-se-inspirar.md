@@ -4,7 +4,8 @@ date: '2017-08-24T22:04:15+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/mkt-experiencia.png
 ---
 

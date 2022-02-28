@@ -10,7 +10,8 @@ aspect_ratio:
   - '1'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/vania.png
 ---
 

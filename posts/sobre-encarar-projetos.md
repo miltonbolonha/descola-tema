@@ -4,7 +4,8 @@ date: '2019-01-11T13:13:46+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_LUCIA.png
 ---
 

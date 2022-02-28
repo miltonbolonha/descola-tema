@@ -4,7 +4,8 @@ date: '2018-03-14T18:25:18+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/blockchain_v3.png
 ---
 

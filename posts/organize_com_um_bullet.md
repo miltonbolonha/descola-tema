@@ -4,7 +4,8 @@ date: '2018-11-22T18:38:08+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/bullet.png
 ---
 

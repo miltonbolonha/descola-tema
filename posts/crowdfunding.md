@@ -4,7 +4,8 @@ date: '2017-06-07T20:22:51+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/crowdfunding.png
 ---
 

@@ -4,7 +4,8 @@ date: '2018-02-21T19:12:35+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/influencia.png
 ---
 

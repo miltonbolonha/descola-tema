@@ -4,7 +4,8 @@ date: '2017-01-11T16:13:54+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/tomada_decisao.png
 ---
 

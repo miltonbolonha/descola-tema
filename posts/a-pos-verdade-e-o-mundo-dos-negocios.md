@@ -4,7 +4,8 @@ date: '2017-09-15T21:25:12+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/pos-verdade.png
 ---
 

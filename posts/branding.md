@@ -4,7 +4,8 @@ date: '2018-10-25T22:15:51+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_bilhete-3.png
 ---
 

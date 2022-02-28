@@ -4,7 +4,8 @@ date: '2015-10-16T11:17:42+00:00'
 author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/henriford.png
 ---
 

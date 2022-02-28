@@ -4,7 +4,8 @@ date: '2016-12-01T15:49:29+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/scamper.png
 ---
 

@@ -4,7 +4,8 @@ date: '2016-07-07T14:44:37+00:00'
 author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/305H-1.png
 ---
 

@@ -4,7 +4,8 @@ date: '2017-06-23T08:11:09+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/Descola_umadica-11.png
 ---
 

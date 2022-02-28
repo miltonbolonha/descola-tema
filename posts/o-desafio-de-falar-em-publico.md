@@ -4,7 +4,8 @@ date: '2018-07-16T19:17:41+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/falar_em_publico_descola.png
 ---
 

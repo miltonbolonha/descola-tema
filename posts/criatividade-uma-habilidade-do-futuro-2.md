@@ -4,7 +4,8 @@ date: '2018-04-13T21:31:24+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/criatividade.png
 ---
 

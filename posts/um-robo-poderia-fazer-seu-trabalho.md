@@ -4,7 +4,8 @@ date: '2017-05-31T20:54:47+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/future-jobs.png
 ---
 

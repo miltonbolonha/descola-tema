@@ -1,5 +1,28 @@
 const path = require('path')
+const _ = require('lodash')
 const { createFilePath } = require(`gatsby-source-filesystem`)
+
+function slugify(string) {
+	if (!string) {
+		return null
+	}
+	const a =
+		'àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;'
+	const b =
+		'aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnooooooooprrsssssttuuuuuuuuuwxyyzzz------'
+	const p = new RegExp(a.split('').join('|'), 'g')
+
+	return string
+		.toString()
+		.toLowerCase()
+		.replace(/\s+/g, '-') // Replace spaces with -
+		.replace(p, (c) => b.charAt(a.indexOf(c))) // Replace special characters
+		.replace(/&/g, '-and-') // Replace & with 'and'
+		.replace(/[^\w\-]+/g, '') // Remove all non-word characters
+		.replace(/\-\-+/g, '-') // Replace multiple - with single -
+		.replace(/^-+/, '') // Trim - from start of text
+		.replace(/-+$/, '') // Trim - from end of text
+}
 
 // Adding slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -40,25 +63,36 @@ exports.createPages = ({ graphql, actions }) => {
 							featuredpost
 							templatekey
 							tags
-							featuredImage{
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 350
-									height: 224
-									placeholder: NONE
-									quality: 100
-								)
+							featuredImage {
+								childrenImageSharp {
+									gatsbyImageData(
+										width: 350
+										height: 224
+										placeholder: NONE
+										quality: 100
+									)
+								}
 							}
-						}
 						}
 					}
 				}
 			}
+			tagsGroup: allMarkdownRemark(limit: 2000) {
+				group(field: frontmatter___tags) {
+					fieldValue
+				}
+			}
 		}
 	`).then((result) => {
-		const posts = result.data.allMarkdownRemark.edges
+		// handle errors
+		if (result.errors) {
+			reporter.panicOnBuild(`Error while running GraphQL quersssy.`)
+			return
+		}
 
+		const posts = result.data.allMarkdownRemark.edges
 		posts.forEach(({ node }) => {
+			const tags = node.frontmatter.tags
 			createPage({
 				path: node.fields.slug,
 				component: path.resolve('./src/templates/single-post.js'),
@@ -83,5 +117,30 @@ exports.createPages = ({ graphql, actions }) => {
 				},
 			})
 		})
+
+		const tags = result.data.tagsGroup.group
+		// Make tag pages
+		tags.forEach((tag) => {
+			createPage({
+				path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+				component: path.resolve(`./src/templates/single-tag.js`),
+				context: {
+					tag: tag.fieldValue,
+				},
+			})
+		})
+
+		// Array.from({ length: numPages }).forEach((_, index) => {
+		// 	createPage({
+		// 		path: index === 0 ? `/tags` : `/tags/page/${index + 1}`,
+		// 		component: path.resolve(`./src/templates/tags-list.js`),
+		// 		context: {
+		// 			limit: postsPerPage,
+		// 			skip: index * postsPerPage,
+		// 			numPages,
+		// 			currentPage: index + 1,
+		// 		},
+		// 	})
+		// })
 	})
 }

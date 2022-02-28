@@ -4,7 +4,8 @@ date: '2017-08-03T20:29:37+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/fintechs-edutechs.png
 ---
 

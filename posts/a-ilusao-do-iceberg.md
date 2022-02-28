@@ -4,7 +4,8 @@ date: '2017-10-06T20:26:02+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/iceberg-sucesso.png
 ---
 

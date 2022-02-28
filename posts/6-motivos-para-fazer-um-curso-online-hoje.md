@@ -4,7 +4,8 @@ date: '2016-11-24T15:00:27+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/motivos_cursoonline.png
 ---
 

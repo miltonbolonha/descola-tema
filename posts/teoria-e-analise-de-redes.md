@@ -4,7 +4,8 @@ date: '2015-10-21T15:20:30+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/teoria-das-redes.png
 ---
 

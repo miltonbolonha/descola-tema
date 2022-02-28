@@ -4,7 +4,8 @@ date: '2017-07-19T19:49:16+00:00'
 author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/manifesto.png
 ---
 

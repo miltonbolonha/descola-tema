@@ -4,7 +4,8 @@ date: '2017-02-14T20:29:18+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/inteligencia-artificial1.png
 ---
 

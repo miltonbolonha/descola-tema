@@ -4,7 +4,8 @@ date: '2016-04-05T01:14:36+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/OBSTACULOS.001.jpeg
 ---
 

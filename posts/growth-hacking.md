@@ -4,7 +4,8 @@ date: '2018-02-09T20:19:39+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/growth-hacking1.png
 ---
 

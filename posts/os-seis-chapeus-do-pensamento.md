@@ -4,7 +4,8 @@ date: '2016-11-17T12:27:10+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/hands-people-woman-meeting.png
 ---
 

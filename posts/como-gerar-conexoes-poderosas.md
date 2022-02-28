@@ -4,7 +4,8 @@ date: '2019-02-07T14:47:42+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_net.1.png
 ---
 

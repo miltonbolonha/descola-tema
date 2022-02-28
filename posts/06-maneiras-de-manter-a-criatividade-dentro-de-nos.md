@@ -4,7 +4,8 @@ date: '2016-10-10T13:29:21+00:00'
 author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/como_manter_a_criatividade.png
 ---
 

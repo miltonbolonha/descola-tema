@@ -4,7 +4,8 @@ date: '2016-05-16T15:07:03+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/REVOLUCAOMAKER.001.jpeg
 ---
 

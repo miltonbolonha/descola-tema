@@ -4,7 +4,8 @@ date: '2018-03-27T22:25:38+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/proposito.png
 ---
 

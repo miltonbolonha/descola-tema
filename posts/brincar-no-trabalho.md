@@ -4,7 +4,8 @@ date: '2019-02-15T20:10:59+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_brincar.5.png
 ---
 

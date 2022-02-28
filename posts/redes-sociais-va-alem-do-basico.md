@@ -4,7 +4,8 @@ date: '2015-04-22T07:22:22+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/redes-sociais-alem-do-basico.png
 ---
 

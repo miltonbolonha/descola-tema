@@ -4,7 +4,8 @@ date: '2016-04-12T17:26:23+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/GESTAOCRIATIVA.001.jpeg
 ---
 

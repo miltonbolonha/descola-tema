@@ -4,7 +4,8 @@ date: '2017-05-11T20:16:41+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/IoT.png
 ---
 

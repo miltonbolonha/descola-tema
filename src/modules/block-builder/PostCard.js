@@ -11,8 +11,6 @@ const PostCard = ({
 	tags,
 	readMoreText,
 }) => {
-	console.log('tags:::>>>')
-	console.log(tags)
 	return (
 		<div className="post-card">
 			<Layout

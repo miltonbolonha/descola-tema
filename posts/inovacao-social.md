@@ -4,7 +4,8 @@ date: '2018-01-24T21:14:31+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/inovacao-social.png
 ---
 

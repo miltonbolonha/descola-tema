@@ -4,7 +4,8 @@ date: '2015-05-20T11:07:29+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/gestao-conhecimento.png
 ---
 

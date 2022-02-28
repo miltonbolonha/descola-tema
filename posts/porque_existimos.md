@@ -22,7 +22,8 @@ hide_pag:
   - '0'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/equipe_descola.jpeg
 ---
 

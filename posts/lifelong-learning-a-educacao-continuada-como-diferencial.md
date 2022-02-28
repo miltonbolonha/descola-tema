@@ -4,7 +4,8 @@ date: '2019-07-10T08:21:46+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/lifelong_learinig_descoladrops.png
 ---
 

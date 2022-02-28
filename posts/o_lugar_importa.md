@@ -4,7 +4,8 @@ date: '2018-11-01T23:06:43+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_drops.png
 ---
 

@@ -4,7 +4,8 @@ date: '2017-12-20T20:32:35+00:00'
 author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/descola-2017.png
 ---
 

@@ -4,7 +4,8 @@ date: '2017-11-24T21:21:01+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/pesquisas.png
 ---
 

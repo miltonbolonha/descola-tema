@@ -4,7 +4,8 @@ date: '2017-03-07T14:16:47+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/realidade-virtual-2.png
 ---
 
