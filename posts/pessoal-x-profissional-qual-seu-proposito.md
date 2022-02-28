@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/proposito.png
+featuredImage: ../static/images/proposito.jpg
 ---
 
 Provavelmente alguém já deve ter te perguntando (ou você já deve ter feito essa questão): **qual seu propósito de vida?** Dedicar-se à família, construir uma carreira brilhante, viajar o mundo…?

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/inovacao-social.png
+featuredImage: ../static/images/inovacao-social.jpg
 ---
 
 Quando pensamos em Inovação, provavelmente o primeiro pensamento que vem à nossa cabeça é alguma coisa nova, diferente. Mas nem sempre precisa funcionar dessa forma.

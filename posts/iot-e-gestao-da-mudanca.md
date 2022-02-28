@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/gestao_do_futuro.png
+featuredImage: ../static/images/gestao_do_futuro.jpg
 ---
 
 Imagine se tudo ao seu redor fosse conectado.

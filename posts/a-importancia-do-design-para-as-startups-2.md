@@ -8,7 +8,7 @@ tags:
   - design
   - 'Identidade Corporativa'
   - Startup
-featuredImage: ../static/images/160H-1.png
+featuredImage: ../static/images/160H-1.jpg
 ---
 
 <div id="article_parsed">O sucesso de toda empresa e, principalmente, das startups, depende do seu poder de sedução junto ao público, que deverá se identificar e apostar na ideia apresentada. Entretanto, nos dias de hoje, não basta apenas uma ideia bacana, um produto útil e inovador e uma campanha de marketing impecável: é preciso ainda ter um design funcional e muito atrativo.

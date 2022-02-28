@@ -12,7 +12,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Captura-de-Tela-2015-09-22-a%CC%80s-18.20.511.png
+featuredImage: ../static/images/Captura-de-Tela-2015-09-22-a%CC%80s-18.jpg
 ---
 
 “A gente consome marcas da hora que a gente acorda até a hora que a gente vai dormir”. Falar de Branding parece fácil, mas criar uma identidade para uma marca, um produto ou evento é muito mais amplo e difícil do que parece.

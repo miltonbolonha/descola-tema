@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-7.png
+featuredImage: ../static/images/Descola_umadica-7.jpg
 ---
 
 Provavelmente você já deve ter feito essa pergunta para si mesmo pelo menos uma vez na vida: esse é o trabalho certo para mim? É isso mesmo que eu quero fazer?

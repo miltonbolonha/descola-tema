@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/jeitoempreendedor.jpeg
+featuredImage: ../static/images/jeitoempreendedor.jpg
 ---
 
 Uma ótima ideia e dinheiro sobrando para iniciar o próprio negócio não são sinônimos de sucesso. Sem preparo, os aventureiros podem desperdiçar muito dinheiro e energia.

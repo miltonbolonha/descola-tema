@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Vieses-incoscientes_Descoladrops.png
+featuredImage: ../static/images/Vieses-incoscientes_Descoladrops.jpg
 ---
 
 Você já parou pra pensar quantas vezes você tomou uma decisão baseada em crenças e/ou suposições pré-estabelecidas?

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/aprendizagem.png
+featuredImage: ../static/images/aprendizagem.jpg
 ---
 
 Você já parou para observar uma aula do jardim de infância?

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/growth-hacking1.png
+featuredImage: ../static/images/growth-hacking1.jpg
 ---
 
 Você sabe o que é Growth Hacking? Muito se fala sobre esse processo, mas o fato é que ele ainda é um mistério para muita gente que tem empresa.

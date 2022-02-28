@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'aplicativos de moda para se reinventar'
   - 'apps de moda'
-featuredImage: ../static/images/fashion_descola.png
+featuredImage: ../static/images/fashion_descola.jpg
 ---
 
 O mundo da moda muda rápido. São tendências que nascem, que reaparecem, que somem… Tudo com uma velocidade impressionante. Acompanhar esse mundo frenético torna-se uma tarefa árdua, e mais difícil ainda é conseguir se reinventar.

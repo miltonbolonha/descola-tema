@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/descola-2017.png
+featuredImage: ../static/images/descola-2017.jpg
 ---
 
 Como todo discurso de final de ano, a gente sempre começa dizendo que o ano que passou foi recheado de alegrias, desafios, surpresas e muita força para chegarmos até aqui.

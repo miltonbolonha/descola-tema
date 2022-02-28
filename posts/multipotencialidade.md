@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/multipotencial.png
+featuredImage: ../static/images/multipotencial.jpg
 ---
 
 Você certamente já ouviu essa pergunta quando era criança. Também já deve ter ouvido agora, depois de adulto. O que você quer ser quando crescer?

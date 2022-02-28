@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/capa_net.1.png
+featuredImage: ../static/images/capa_net.jpg
 ---
 
 Desde que o mundo é mundo, baseamos nossa história e o molde da sociedade em uma palavra: conexão. Tudo bem, você sabe que não existia Internet para se conectar nas cavernas da pré-história, mas sabe também que esse verbo não surgiu apenas na era digital, mas ele ganhou um novo significado – possivelmente o mais importante desde então. Conexão rege indústrias inteiras, gira milhões em capital, envia satélites para a nossa órbita e move pessoas ao redor do globo. Mas por que agora esse simples verbo se tornou tão relevante?

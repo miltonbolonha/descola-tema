@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - inovação
   - 'inovar é uma escolha'
-featuredImage: ../static/images/innovation.png
+featuredImage: ../static/images/innovation.jpg
 ---
 
 Cada vez mais, as empresas têm saído a procura de profissionais que tenham perfil inovador. Mas afinal, o que é essa inovação que essas empresas tanto procuram? O profissional inovador é aquele que sabe mesclar o conhecimento com a prática, que pensa em alternativas que estão fora do senso comum. É sair da caixa do comodismo e das respostas prontas, agindo e reagindo ao que acontece à sua volta.

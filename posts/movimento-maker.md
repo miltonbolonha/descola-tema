@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/maker.png
+featuredImage: ../static/images/maker.jpg
 ---
 
 Falar sobre futuro não é tão legal quanto construí-lo. Ainda mais quando a gente sabe que pode fazer isso com as nossas próprias mãos.

@@ -8,7 +8,7 @@ tags:
   - comunicação
   - gestão
   - 'times remotos'
-featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-17.38.46.png
+featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-17.png
 ---
 
 ```

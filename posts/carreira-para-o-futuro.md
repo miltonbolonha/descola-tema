@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/capa_carreira1.png
+featuredImage: ../static/images/capa_carreira1.jpg
 ---
 
 O futuro pode dar medo.

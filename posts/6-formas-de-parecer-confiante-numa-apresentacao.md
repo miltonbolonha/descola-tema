@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/linguagem-corporal.png
+featuredImage: ../static/images/linguagem-corporal.jpg
 ---
 
 Não é todo mundo que nasce com aquele “dom” de fazer [grandes apresentações](https://descola.org/curso/discurse). Até porque, a gente nem acredita que isso seja um dom – é muito mais sobre trabalho duro, prática, repertório e muito estudo.

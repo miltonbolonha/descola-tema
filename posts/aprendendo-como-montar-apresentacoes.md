@@ -12,7 +12,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Screen-Shot-2016-02-29-at-12.27.59-.png
+featuredImage: ../static/images/Screen-Shot-2016-02-29-at-12.jpg
 ---
 
 Assista um trecho do curso que lançamos sobre como montar apresentações melhores!

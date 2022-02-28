@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/VUCA.001.jpeg
+featuredImage: ../static/images/VUCA.jpg
 ---
 
 Todos os dias surgem coisas novas no mundo. Algumas delas são completamente revolucionárias e acabam virando situações de cabeça para baixo, fazendo com que o _ontem_ pareça algo antigo demais.

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-13.png
+featuredImage: ../static/images/Descola_umadica-13.jpg
 ---
 
 Todo mundo sempre precisa de uma ajudinha na hora de se tornar mais produtivo. A dica da semana é pensando em todos vocês.

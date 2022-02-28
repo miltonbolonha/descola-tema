@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/como_manter_a_criatividade.png
+featuredImage: ../static/images/como_manter_a_criatividade.jpg
 ---
 
 A criatividade é uma habilidade adquirida por pessoas que se dizem curiosas e, de certa forma, até inquietas, que buscam inspiração em informações e têm a sensibilidade de percebê-las de forma diferente.

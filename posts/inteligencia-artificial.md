@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/inteligencia-artificial1.png
+featuredImage: ../static/images/inteligencia-artificial1.jpg
 ---
 
 Você já deve ter ouvido falar em algum momento sobre o termo inteligência artificial, nem que seja no filme homônimo de Steven Spielberg. O filme lançado em 2001 apresentava uma porção de teorias que pareciam muito distantes de nós e, para algumas pessoas, até impossíveis. Mas os tempos estão mudando: as máquinas e a inteligência artificial estão cada vez mais presentes em nosso dia a dia.

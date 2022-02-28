@@ -8,7 +8,7 @@ tags:
   - 'desafios de negócios'
   - 'dicas para resolver desafios'
   - 'maneiras de pensar'
-featuredImage: ../static/images/design-thinking.png
+featuredImage: ../static/images/design-thinking.jpg
 ---
 
 Quantas vezes, ao sair de uma reunião, você ficou em dúvida sobre se as decisões tomadas lá iriam de fato ser colocadas em prática plena e eficientemente?

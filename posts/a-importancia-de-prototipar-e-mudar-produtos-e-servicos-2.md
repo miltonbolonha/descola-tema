@@ -8,7 +8,7 @@ tags:
   - 'modelo de negócios'
   - Prototipar
   - Prototipos
-featuredImage: ../static/images/prototipar.png
+featuredImage: ../static/images/prototipar.jpg
 ---
 
 Imagine um mundo ideal em que toda ideia pudesse ser testada, tocada e sentida antes que fossem feitos os primeiros gastos e que se iniciasse sua produção para venda. Gostou? Pois saiba que essa prática, na verdade, já existe e faz parte da rotina de muitos empresas no Brasil e no mundo: chama-se prototipagem! Quer descobrir mais sobre esse processo e como ele é importante para as empresas? Então continue lendo!

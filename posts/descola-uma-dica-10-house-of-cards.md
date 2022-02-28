@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-10.png
+featuredImage: ../static/images/Descola_umadica-10.jpg
 ---
 
 Estamos no meio do feriadão, então resolvemos trazer uma dica bacana pra quem curte um balde de pipoca e uma boa série.

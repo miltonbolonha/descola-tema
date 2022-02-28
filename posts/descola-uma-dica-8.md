@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-8.png
+featuredImage: ../static/images/Descola_umadica-8.jpg
 ---
 
 Já viu que tem curso novo na Descola sobre [Cidades Inteligentes](https://descola.org/curso/smart-cities)? Aproveitamos que ele está em pré-venda e trouxemos uma dica quentinha diretamente dos bastidores da criação.

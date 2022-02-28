@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/305H-1.png
+featuredImage: ../static/images/305H-1.jpg
 ---
 
 ## AFINAL O QUE É ECONOMIA CRIATIVA?

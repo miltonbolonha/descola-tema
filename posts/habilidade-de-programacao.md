@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/progrmar.png
+featuredImage: ../static/images/progrmar.jpg
 ---
 
 Há tempos, a programação vem deixando de ser “coisa de nerd”, daquele pessoal que se tranca num quarto escuro com quatro telas em volta cheias de letrinhas brancas num fundo preto.

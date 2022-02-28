@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/gestao-conhecimento.png
+featuredImage: ../static/images/gestao-conhecimento.jpg
 ---
 
 A reestruturação do ambiente corporativo é uma tendência inegável do mercado de trabalho mundial, com modelos organizacionais cada vez menos formais.

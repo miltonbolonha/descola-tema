@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/capa_LUCIA.png
+featuredImage: ../static/images/capa_LUCIA.jpg
 ---
 
 É muito legal quando temos que realizar um projeto novo, aquele ânimo para começar, a confiança, a descarga de adrenalina, você se sente pronto para tomar o mundo.

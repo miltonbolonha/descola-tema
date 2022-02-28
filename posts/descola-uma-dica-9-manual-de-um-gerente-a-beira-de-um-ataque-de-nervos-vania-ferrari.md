@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-9.png
+featuredImage: ../static/images/Descola_umadica-9.jpg
 ---
 
 O nome do livro que é dica da semana é bem explicativo, né? Qual o líder ou gestor que nunca se deparou com uma situação de ficar maluco?

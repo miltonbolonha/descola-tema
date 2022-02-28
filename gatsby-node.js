@@ -84,15 +84,8 @@ exports.createPages = ({ graphql, actions }) => {
 			}
 		}
 	`).then((result) => {
-		// handle errors
-		if (result.errors) {
-			reporter.panicOnBuild(`Error while running GraphQL quersssy.`)
-			return
-		}
-
 		const posts = result.data.allMarkdownRemark.edges
 		posts.forEach(({ node }) => {
-			const tags = node.frontmatter.tags
 			createPage({
 				path: node.fields.slug,
 				component: path.resolve('./src/templates/single-post.js'),

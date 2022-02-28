@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-5.png
+featuredImage: ../static/images/Descola_umadica-5.jpg
 ---
 
 Estamos sempre falando da importância de sermos visuais para que todos possam nos entender. E a dica de hoje é para dar ainda mais ênfase à força do Visual Thinking. Conheça **Líderes Visuais: novas ferramentas para visualizar e gerir mudanças organizacionais**, do David Sibbet.

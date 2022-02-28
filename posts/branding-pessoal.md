@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/branding.png
+featuredImage: ../static/images/branding.jpg
 ---
 
 Com quantas marcas você já teve contato hoje? Quando acordou, foi ao banheiro, tomou café… Foi impactado por quantos nomes diferentes?

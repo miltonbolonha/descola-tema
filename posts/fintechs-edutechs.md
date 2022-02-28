@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/fintechs-edutechs.png
+featuredImage: ../static/images/fintechs-edutechs.jpg
 ---
 
 Novos projetos surgem a cada dia nos mais diversos segmentos de startups do país. Se você está antenado ou tem interesse pelo tema, já deve ter se deparado com o termo fintech e edutech. Hoje vamos conversar um pouco sobre a evolução desses modelos de negócio.

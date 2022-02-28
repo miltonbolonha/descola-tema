@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/limao.png
+featuredImage: ../static/images/limao.jpg
 ---
 
 É isso mesmo. Se a vida te der limões, não faça uma limonada.

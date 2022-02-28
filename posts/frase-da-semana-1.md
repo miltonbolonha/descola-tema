@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/kant.png
+featuredImage: ../static/images/kant.jpg
 ---
 
 > O homem não é nada além daquilo que a educação faz dele

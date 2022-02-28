@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Artboard-1.png
+featuredImage: ../static/images/Artboard-1.jpg
 ---
 
 Quantas histórias você já ouviu de pessoas que foram maltratadas em uma loja e desde então pegaram ranço da marca por completo? Ou mesmo com você, quantas vezes a antipatia pelo atendimento não te fez evitar um estabelecimento?

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/hands-people-woman-meeting.png
+featuredImage: ../static/images/hands-people-woman-meeting.jpg
 ---
 
 Muitas vezes, a dificuldade de comunicação faz com que a análise de uma situação (numa reunião, por exemplo) se torne algo exaustivo e desorganizado. Normalmente as pessoas encontram problemas para chegar num consenso, dado que suas opiniões podem ser divergentes e confrontar umas às outras.

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/mundo-internet.png
+featuredImage: ../static/images/mundo-internet.jpg
 ---
 
 O mundo digital já é tão interligado com o mundo real que a gente nem percebe mais as diferenças. Tudo está interconectado e é difícil distinguir o real do digital. Mas você já pensou em como seria a sua vida em 2018 se não existisse a Internet?

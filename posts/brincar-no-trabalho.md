@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/capa_brincar.5.png
+featuredImage: ../static/images/capa_brincar.jpg
 ---
 
 Quando falamos em brincar, você pensa no que? Crianças desordenadas correndo pra lá e pra cá, pular corda, pega-pega, gravetos virando espadas e varinhas de condão. Coisas de criança. Mas por que você não pensa em executivos jogando aviões de papel? Seu gerente brincando de arminha com o moço do almoxarifado, da secretaria desenhando com canetinhas coloridas, o estagiário em um balanço?

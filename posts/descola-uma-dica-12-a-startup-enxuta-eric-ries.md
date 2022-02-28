@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/Descola_umadica-12.png
+featuredImage: ../static/images/Descola_umadica-12.jpg
 ---
 
 Tá precisando de dicas para ter mais sucesso na hora de conduzir seu negócio? A dica da semana é o best seller de Eric Ries, **A Startup Enxuta: como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas.**

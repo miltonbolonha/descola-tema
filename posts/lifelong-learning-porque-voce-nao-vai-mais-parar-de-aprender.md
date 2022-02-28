@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/lifelonglearning_descola.png
+featuredImage: ../static/images/lifelonglearning_descola.jpg
 ---
 
 **O que você vai ser quando crescer?** Em algum momento da sua infância você teve que responder a essa pergunta.

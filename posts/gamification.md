@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/gamification.png
+featuredImage: ../static/images/gamification.jpg
 ---
 
 Já ouviu falar em Gamification?

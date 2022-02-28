@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/criatividade.png
+featuredImage: ../static/images/criatividade.jpg
 ---
 
 **Como você imagina o mundo em 2050?**

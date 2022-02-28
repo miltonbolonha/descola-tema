@@ -5,7 +5,7 @@ date: 2018-10-15T22:12:32+00:00
 author: Stella Seixas
 templatekey: blog-post
 featuredpost: false
-featuredImage: ../static/images/4_ferramentas_insight.png
+featuredImage: ../static/images/4_ferramentas_insight.jpg
 tags:
   - geral
 ---

@@ -5,7 +5,7 @@ date: 2017-08-09T22:02:04+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredImage: ../static/images/aproveitar-tempo.png
+featuredImage: ../static/images/aproveitar-tempo.jpg
 tags:
   - geral
 ---

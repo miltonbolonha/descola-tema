@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/crowdfunding.png
+featuredImage: ../static/images/crowdfunding.jpg
 ---
 
 O número de pessoas com acesso à Internet cresceu exponencialmente no século XXI, e assistimos à essa expansão todos dias: é difícil encontrar alguém que não tenha um smartphone ou que não consiga acessar a Internet pelo menos no local de trabalho.

@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/henriford.png
+featuredImage: ../static/images/henriford.jpg
 ---
 
 Todos os dias podemos observar novos negócios e empresas sendo criadas, revolucionando mercados e mudando a maneira que tomamos decisões básicas do dia a dia.

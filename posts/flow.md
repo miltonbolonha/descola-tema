@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/capa_flow.png
+featuredImage: ../static/images/capa_flow.jpg
 ---
 
 Manter o ritmo, disposição e principalmente o “tesão” por um projeto longo é bem difícil. As vezes ele é tedioso, outras é difícil demais e te frustra, parecia um desafio interessante mas agora já perdeu a graça ou só não te interessa nem um pouco.

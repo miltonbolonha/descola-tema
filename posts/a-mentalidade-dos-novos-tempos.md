@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/mentalidade.png
+featuredImage: ../static/images/mentalidade.jpg
 ---
 
 A gente gosta de repetir que, hoje em dia, as coisas acontecem com muito mais velocidade. E é verdade: a sociedade está mesmo se transformando cada vez mais rápido. Os anos passam voando, as coisas se tornam ultrapassadas com facilidade e o mundo como o conhecemos muda a cada minuto.

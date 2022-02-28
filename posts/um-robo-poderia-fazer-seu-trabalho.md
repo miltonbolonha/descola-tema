@@ -6,7 +6,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/future-jobs.png
+featuredImage: ../static/images/future-jobs.jpg
 ---
 
 Um robô poderia fazer o seu trabalho? Milhões de pessoas que não se prepararam para o futuro da automação em breve se verão em momentos difíceis, pois a resposta para a pergunta é sim.

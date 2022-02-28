@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - curso
   - 'design de serviços'
-featuredImage: ../static/images/criando_experiencias_wow.png
+featuredImage: ../static/images/criando_experiencias_wow.jpg
 ---
 
 Vivemos numa economia de serviços, isso é fato. A maioria das pessoas no mundo trabalha nesse setor, além disso, é o ramo da economia que mais cresce e mais inova.
