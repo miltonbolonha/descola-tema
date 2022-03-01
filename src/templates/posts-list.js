@@ -12,6 +12,7 @@ import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const BlogList = (props) => {
 	const postList = props.data.allMarkdownRemark.edges
+	const postsPerPage = 5
 
 	const { currentPage, numPages } = props.pageContext
 	const isFirst = currentPage === 1
@@ -41,6 +42,7 @@ const BlogList = (props) => {
 					<h1>Posts</h1>
 					<div className="post-cards-wrapper">
 						<PostsBlock
+							postsPerPage={postsPerPage}
 							postList={postList}
 							currentPage={currentPage}
 							numPages={numPages}
@@ -50,7 +52,7 @@ const BlogList = (props) => {
 							nextPage={nextPage}
 							readMoreText="Mais Posts"
 							pagination={{
-								loadMoreBtn: true,
+								loadMoreBtn: false,
 								loadMore: 'Carregar Mais',
 							}}
 						/>

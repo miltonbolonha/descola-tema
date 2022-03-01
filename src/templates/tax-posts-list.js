@@ -48,6 +48,11 @@ const TagsList = (props) => {
 							prevPage={prevPage}
 							isLast={isLast}
 							nextPage={nextPage}
+							readMoreText="Mais Posts"
+							pagination={{
+								loadMoreBtn: false,
+								loadMore: 'Carregar Mais',
+							}}
 						/>
 					</div>
 					<Link to="/tags">All tags</Link>
