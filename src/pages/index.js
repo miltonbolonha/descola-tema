@@ -38,6 +38,7 @@ const IndexPage = ({ data }) => {
 						<PostsBlock
 							postsPerPage={postsPerPage}
 							postList={posts}
+							typeLoad={'push'} // or false
 							// currentPage={currentPage}
 							// numPages={numPages}
 							// isFirst={isFirst}
@@ -47,7 +48,7 @@ const IndexPage = ({ data }) => {
 							readMoreText="Mais Posts"
 							pagination={{
 								style: 'LOAD_MORE_BTN',
-								loadMore: 'Carregar Mais Posts',
+								loadMore: 'Carregar Mais',
 							}}
 						/>
 					</div>

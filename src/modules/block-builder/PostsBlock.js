@@ -8,9 +8,10 @@ const PostsBlock = ({
 	postList,
 	currentPage,
 	numPages,
+	typeLoad,
 	isFirst,
 	prevPage,
-	isLast,
+	// isLast,
 	nextPage,
 	readMoreText,
 	pagination,
@@ -23,26 +24,25 @@ const PostsBlock = ({
 
 	const handleBtnLoadMore = (e) => {
 		e.preventDefault()
-		console.log('askjdsajkdnasjkdnasjkdnjkasn')
+		handleCurrentFirstItem(currentFirstItem + postsPerPage)
 	}
 
 	// let currentPage = 1
 
 	const numCollections = Math.ceil(postList.length / postsPerPage)
 	// const isFirst = currentPage === 1
-	// const isLast = currentPage === numPages
+	const nextCollection = currentFirstItem + postsPerPage
+	const isLast = nextCollection >= postList.length
 	// const prevPage = currentPage - 1 === 1 ? (currentPage = 1) : currentPage - 1
 	// const nextPage = currentPage + 1
-	const nextCollection = currentFirstItem + postsPerPage
-	console.log('nextCollection>>>>>>>>>>>>>')
-	console.log(nextCollection)
-	const posts = postList.slice(currentFirstItem, nextCollection)
+	const initialLoad = typeLoad === 'push' ? 0 : currentFirstItem
+	const posts = postList.slice(initialLoad, nextCollection)
 	// console.log('É a primeira página: ' + isFirst)
-	// console.log('É a última página: ' + isLast)
+	console.log('É a última página: ' + isLast)
 	// console.log('A página anterior: ' + prevPage)
 	// console.log('A próxima página: ' + nextPage)
 	// console.log('Número de páginas total' + numPages)
-	console.log('Posts por página' + postsPerPage)
+	// console.log('Posts por página' + postsPerPage)
 	return (
 		<Layout
 			type="ROW"
@@ -63,8 +63,6 @@ const PostsBlock = ({
 					},
 					i
 				) => {
-					console.log('Esse é o i do postList.map')
-					console.log(i)
 					return (
 						<PostCard
 							postImage={featuredImage}
@@ -79,14 +77,18 @@ const PostsBlock = ({
 				}
 			)}
 			{pagination.style === 'LOAD_MORE_BTN' ? (
-				<>
-					<button
-						onClick={(e) => handleBtnLoadMore(e)}
-						value={currentFirstItem}
-					>
-						{pagination.loadMore}
-					</button>
-				</>
+				<p className="btn-load-more">
+					{isLast ? (
+						' '
+					) : (
+						<button
+							onClick={(e) => handleBtnLoadMore(e)}
+							value={currentFirstItem}
+						>
+							{pagination.loadMore}
+						</button>
+					)}
+				</p>
 			) : (
 				<>
 					<p>
