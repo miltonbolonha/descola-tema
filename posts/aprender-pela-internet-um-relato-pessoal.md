@@ -4,7 +4,8 @@ date: '2015-01-15T12:03:20+00:00'
 author: 'Caio Casseb'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/3564073294_00d9e16e21_b.jpg
 ---
 

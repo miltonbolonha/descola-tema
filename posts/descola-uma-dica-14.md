@@ -4,8 +4,9 @@ date: '2017-07-14T21:15:25+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-14.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-14.jpg
 ---
 
 Há alguns meses, lançamos nosso curso de [Métodos Ágeis](https://descola.org/curso/metodos-ageis), no qual ensinamos você a utilizar o Scrum para gerenciar seus projetos.

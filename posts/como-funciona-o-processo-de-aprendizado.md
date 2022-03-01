@@ -8,7 +8,7 @@ tags:
   - aprendizado
   - 'curso online'
   - neuropsicologia
-featuredImage: ../static/images/estacao-de-trabalho.png
+featuredImage: ../static/images/estacao-de-trabalho.jpg
 ---
 
 Demorou para a humanidade descobrir a importância do cérebro — só para você ter uma ideia, Aristóteles achava que esse órgão era uma espécie de _cooler_ para resfriar o sangue, e os egípcios, que guardavam nossos intestinos em potinhos para serem usados na vida após a morte, jogavam o cérebro fora sem hesitar —, mas hoje sabemos cada vez mais sobre a massa cinzenta e o que acontece nela, e uma das coisas mais intrigantes que sucede na nossa cabeça é o processo de aprendizado.

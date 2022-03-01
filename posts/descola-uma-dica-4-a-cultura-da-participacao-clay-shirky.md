@@ -4,8 +4,9 @@ date: '2017-05-05T08:58:24+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-4.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-4.jpg
 ---
 
 Pensando num mundo que cada vez se engaja na cultura e na economia colaborativas, a dica da semana é o livro **A Cultura da Participação: criatividade e generosidade no mundo conectado**, do Clay Shirky.

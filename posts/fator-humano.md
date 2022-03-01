@@ -4,8 +4,9 @@ date: '2018-12-13T12:36:51+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Artboard-1.png
+tags:
+  - geral
+featuredImage: ../static/images/Artboard-1.jpg
 ---
 
 Quantas histórias você já ouviu de pessoas que foram maltratadas em uma loja e desde então pegaram ranço da marca por completo? Ou mesmo com você, quantas vezes a antipatia pelo atendimento não te fez evitar um estabelecimento?

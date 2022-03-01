@@ -9,7 +9,7 @@ tags:
   - 'do bar ao mercado'
   - empreendedorismo
   - empreender
-featuredImage: ../static/images/empreender_problemas.png
+featuredImage: ../static/images/empreender_problemas.jpg
 ---
 
 Responda esta pergunta: quantas vezes você já se deparou com algum problema e disse “alguém deveria resolver isso”?

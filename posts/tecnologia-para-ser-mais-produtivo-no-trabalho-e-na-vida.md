@@ -8,7 +8,7 @@ tags:
   - 'como ser mais produtivo'
   - 'gerencie seu tempo'
   - produtividade
-featuredImage: ../static/images/tecnologia-para-ser-mais-produtivo.png
+featuredImage: ../static/images/tecnologia-para-ser-mais-produtivo.jpg
 ---
 
 Se você é uma daquelas pessoas que acha que o dia precisa ter mais do que 24 horas, bem vindo à turma dos que precisam aprender a fazer gestão de tempo.

@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'importância das mídias sociais'
   - 'mídias sociais'
-featuredImage: ../static/images/DESCOLA_MIDIASSOCIAIS.png
+featuredImage: ../static/images/DESCOLA_MIDIASSOCIAIS.jpg
 ---
 
 Um assunto como esse merece uma definição bem clara: nenhuma empresa que busca se consolidar ou ampliar sua estrutura pode deixar de utilizar as mídias sociais. Isso é fato fundamental e, inclusive, indiscutível.

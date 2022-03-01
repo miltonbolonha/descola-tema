@@ -8,7 +8,7 @@ tags:
   - DIcas
   - inovação
   - 'Vale do Silício'
-featuredImage: ../static/images/valefinal.png
+featuredImage: ../static/images/valefinal.jpg
 ---
 
 Falar sobre inovação é algo muito comum atualmente: em todos os lugares, todos os dias, existe alguém criando ou imaginando algo novo, desafiador, diferente de tudo que já existe! Essa possibilidade de mudar as coisas deixa muitas pessoas curiosas para saber como elas também podem inovar.

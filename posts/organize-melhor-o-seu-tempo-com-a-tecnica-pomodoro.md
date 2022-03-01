@@ -4,7 +4,8 @@ date: '2016-11-09T17:30:59+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/pomodoro.jpg
 ---
 

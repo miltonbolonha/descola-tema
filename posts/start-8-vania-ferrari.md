@@ -10,8 +10,9 @@ aspect_ratio:
   - '1'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/vania.png
+tags:
+  - geral
+featuredImage: ../static/images/vania.jpg
 ---
 
 Graduada em Marketing e Pós-graduada em Gestão de Pessoas, com especialização em Melhoria Contínua de Processos e título de Green Belt pela GE, Vania Ferrari desenvolveu uma carreira multidisciplinar com passagens pelas áreas de Marketing Direto, Publicidade, Relacionamento com Cliente, Qualidade, Processos, Comunicação Interna, Responsabilidade Social, Operações e Finanças.

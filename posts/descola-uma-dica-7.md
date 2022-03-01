@@ -4,8 +4,9 @@ date: '2017-05-26T18:07:18+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-7.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-7.jpg
 ---
 
 Provavelmente você já deve ter feito essa pergunta para si mesmo pelo menos uma vez na vida: esse é o trabalho certo para mim? É isso mesmo que eu quero fazer?

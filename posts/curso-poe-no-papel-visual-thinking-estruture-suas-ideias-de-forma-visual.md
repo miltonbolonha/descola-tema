@@ -8,7 +8,7 @@ tags:
   - curso
   - 'pensamento visual'
   - 'visual thinking'
-featuredImage: ../static/images/pnp.001-1.png
+featuredImage: ../static/images/pnp.jpg
 ---
 
 O pensamento visual (Visual Thinking) é como se chama o fenômeno comum de pensar através do processamento visual usando a parte do cérebro que é emocional e criativa para organizar as informações de uma forma intuitiva e simultânea.

@@ -4,8 +4,9 @@ date: '2017-09-15T21:25:12+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/pos-verdade.png
+tags:
+  - geral
+featuredImage: ../static/images/pos-verdade.jpg
 ---
 
 Todos os anos, o Dicionário Oxford escolhe a palavra do ano. Em 2016, a escolhida da vez foi _post-truth_ ou, em português, **pós-verdade**. Não é à toa que a palavra de cada ano é escolhida: ela reflete os 12 meses passados, e no caso do termo pós-verdade, ele continua sendo uma tendência não tão benéfica até os dias de hoje.

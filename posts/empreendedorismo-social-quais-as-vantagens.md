@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - 'Empreendedorismo social'
   - 'quais as vantagens'
-featuredImage: ../static/images/Screen-Shot-2015-02-27-at-6.35.29-PM.png
+featuredImage: ../static/images/Screen-Shot-2015-02-27-at-6.jpg
 ---
 
 Hoje, não basta abrir uma empresa, gerar lucro para os investidores e estar em dia com suas obrigações. Tudo isso é importante, mas é preciso dar um passo além. O empreendedorismo social é a modalidade que agrega preocupação ambiental e com a comunidade, traduzindo-se em um formato moderno de gerar riqueza — entenda-se como riqueza toda a forma de melhorar a vida das pessoas de forma consciente e responsável.

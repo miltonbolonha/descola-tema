@@ -4,8 +4,9 @@ date: '2018-08-31T21:49:25+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/gestao_do_futuro.png
+tags:
+  - geral
+featuredImage: ../static/images/gestao_do_futuro.jpg
 ---
 
 Imagine se tudo ao seu redor fosse conectado.

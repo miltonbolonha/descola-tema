@@ -4,8 +4,9 @@ date: '2017-04-25T20:11:18+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/storytelling.png
+tags:
+  - geral
+featuredImage: ../static/images/storytelling.jpg
 ---
 
 O Storytelling é uma das ferramentas mais atrativas nos dias de hoje quando falamos de diferenciação de produtos e serviços. Com tanto opção por aí, seu negócio precisa de algo que o destaque, e isso pode ser contando a sua história de forma interessante, para que as pessoas prestem atenção no que você tem a dizer (e a vender).

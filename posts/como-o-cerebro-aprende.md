@@ -10,7 +10,7 @@ tags:
   - 'como aprender'
   - 'curso online'
   - neurociência
-featuredImage: ../static/images/Captura-de-Tela-2021-09-09-a%CC%80s-15.05.47.png
+featuredImage: ../static/images/Captura-de-Tela-2021-09-09-a%CC%80s-15.png
 ---
 
 ```

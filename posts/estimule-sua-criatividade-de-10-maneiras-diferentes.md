@@ -8,7 +8,7 @@ tags:
   - criatividade
   - 'estimule a sua criatividade'
   - 'estímulos de criatividade'
-featuredImage: ../static/images/criatidade_descola.png
+featuredImage: ../static/images/criatidade_descola.jpg
 ---
 
 Criatividade é a capacidade de inovar e de superar obstáculos de forma surpreendente. Considerando esse conceito, você se acha uma pessoa criativa? Se disse sim, mandou bem. Se disse não, uma correção: não existe gente sem criatividade, na verdade, há pessoas pouco estimuladas.

@@ -4,8 +4,9 @@ date: '2018-01-24T21:14:31+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/inovacao-social.png
+tags:
+  - geral
+featuredImage: ../static/images/inovacao-social.jpg
 ---
 
 Quando pensamos em Inovação, provavelmente o primeiro pensamento que vem à nossa cabeça é alguma coisa nova, diferente. Mas nem sempre precisa funcionar dessa forma.

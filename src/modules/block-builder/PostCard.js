@@ -3,7 +3,14 @@ import { Link } from 'gatsby'
 
 import Layout from '../layout'
 
-const PostCard = ({ postImage, linkUrl, title, excerpt, readMoreText }) => {
+const PostCard = ({
+	postImage,
+	linkUrl,
+	title,
+	excerpt,
+	tags,
+	readMoreText,
+}) => {
 	return (
 		<div className="post-card">
 			<Layout
@@ -14,7 +21,8 @@ const PostCard = ({ postImage, linkUrl, title, excerpt, readMoreText }) => {
 					link: linkUrl,
 					staticImage: true,
 					publicImageUrl: postImage,
-					alt: 'zin',
+					alt: tags[0],
+					placeholder: 'DOMINANT_COLOR',
 				}}
 			/>
 			<div className="post-card-content">

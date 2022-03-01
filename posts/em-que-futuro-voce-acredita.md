@@ -4,7 +4,8 @@ date: '2020-03-02T09:29:18+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/young-businessman-sticking-adhesive-notes-on-XDNKC7T.jpg
 ---
 

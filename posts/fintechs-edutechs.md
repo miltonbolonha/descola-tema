@@ -4,8 +4,9 @@ date: '2017-08-03T20:29:37+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/fintechs-edutechs.png
+tags:
+  - geral
+featuredImage: ../static/images/fintechs-edutechs.jpg
 ---
 
 Novos projetos surgem a cada dia nos mais diversos segmentos de startups do país. Se você está antenado ou tem interesse pelo tema, já deve ter se deparado com o termo fintech e edutech. Hoje vamos conversar um pouco sobre a evolução desses modelos de negócio.

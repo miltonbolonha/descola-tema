@@ -4,8 +4,9 @@ date: '2017-07-21T08:39:45+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-15.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-15.jpg
 ---
 
 Muitas vezes, quando temos uma porção de tarefas simples para fazer, o difícil mesmo é começar. E a chave para mudar esse cenário é criar hábitos.

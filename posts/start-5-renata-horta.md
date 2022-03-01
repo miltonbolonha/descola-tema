@@ -14,7 +14,7 @@ tags:
   - 'dicas para seu começo'
   - empreendedorismo
   - start
-featuredImage: ../static/images/renata_horta.png
+featuredImage: ../static/images/renata_horta.jpg
 ---
 
 5\. Renata Horta – Visão e valores para começar seu negócio.

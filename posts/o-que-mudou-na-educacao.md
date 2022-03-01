@@ -4,8 +4,9 @@ date: '2018-08-20T17:25:23+00:00'
 author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/educac%CC%A7ao.png
+tags:
+  - geral
+featuredImage: ../static/images/educac%CC%A7ao.jpg
 ---
 
 Nesse mundo cada vez mais veloz e de mudanças exponenciais, às vezes a gente muda e nem sabe como, nem sabe o porquê. As coisas acontecem e a gente simplesmente acompanha, sem entender direito quais os movimentos que provocaram essa mudança, nem mesmo o que está por trás de cada coisa que mudou.

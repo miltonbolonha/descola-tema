@@ -5,7 +5,7 @@ date: 2015-04-01T16:55:03+00:00
 author: Equipe Descola
 templatekey: blog-post
 featuredpost: false
-featuredImage: ../static/images/inovacao_pratica1.png
+featuredImage: ../static/images/inovacao_pratica1.jpg
 tags:
   - ambiente dinâmico
   - dicas para colocar inovação em casa

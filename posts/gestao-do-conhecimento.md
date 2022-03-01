@@ -4,8 +4,9 @@ date: '2015-05-20T11:07:29+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/gestao-conhecimento.png
+tags:
+  - geral
+featuredImage: ../static/images/gestao-conhecimento.jpg
 ---
 
 A reestruturação do ambiente corporativo é uma tendência inegável do mercado de trabalho mundial, com modelos organizacionais cada vez menos formais.

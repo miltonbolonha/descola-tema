@@ -4,8 +4,9 @@ date: '2018-04-13T21:31:24+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/criatividade.png
+tags:
+  - geral
+featuredImage: ../static/images/criatividade.jpg
 ---
 
 **Como você imagina o mundo em 2050?**

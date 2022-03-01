@@ -4,8 +4,9 @@ date: '2018-06-15T19:55:43+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/gamification.png
+tags:
+  - geral
+featuredImage: ../static/images/gamification.jpg
 ---
 
 Já ouviu falar em Gamification?

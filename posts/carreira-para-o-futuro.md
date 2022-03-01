@@ -4,8 +4,9 @@ date: '2018-12-19T15:54:47+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/capa_carreira1.png
+tags:
+  - geral
+featuredImage: ../static/images/capa_carreira1.jpg
 ---
 
 O futuro pode dar medo.

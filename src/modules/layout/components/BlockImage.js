@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { StaticImage } from 'gatsby-plugin-image'
 
 const BlockImage = ({ opt }) => {
 	const image =
@@ -21,7 +20,7 @@ const BlockImage = ({ opt }) => {
 						<GatsbyImage
 							image={image}
 							alt={opt.alt}
-							placeholder="NONE"
+							placeholder={opt.placeholder}
 							critical="true"
 							className={opt.classes}
 						/>
@@ -31,7 +30,7 @@ const BlockImage = ({ opt }) => {
 				<GatsbyImage
 					image={image}
 					alt={opt.alt}
-					placeholder="NONE"
+					placeholder={opt.placeholder}
 					critical="true"
 					className={opt.classes}
 				/>

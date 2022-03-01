@@ -12,7 +12,7 @@ tags:
   - crescimento
   - mentalidade
   - 'mentalidade agil'
-featuredImage: ../static/images/agile_post.png
+featuredImage: ../static/images/agile_post.jpg
 ---
 
 Lembra quando você estava aprendendo a ler e ficava lendo todas as placas que via pela rua? Ou quando você descobriu a química e olhou para a água fervendo na panela com outros olhos? É assim que você vai precisar olhar para a sua vida a partir de agora.

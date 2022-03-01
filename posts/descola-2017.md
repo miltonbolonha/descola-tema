@@ -4,8 +4,9 @@ date: '2017-12-20T20:32:35+00:00'
 author: 'André Tanesi'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/descola-2017.png
+tags:
+  - geral
+featuredImage: ../static/images/descola-2017.jpg
 ---
 
 Como todo discurso de final de ano, a gente sempre começa dizendo que o ano que passou foi recheado de alegrias, desafios, surpresas e muita força para chegarmos até aqui.

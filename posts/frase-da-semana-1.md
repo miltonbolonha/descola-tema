@@ -4,8 +4,9 @@ date: '2014-10-28T14:38:15+00:00'
 author: 'Daniel Pasqualucci'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/kant.png
+tags:
+  - geral
+featuredImage: ../static/images/kant.jpg
 ---
 
 > O homem não é nada além daquilo que a educação faz dele

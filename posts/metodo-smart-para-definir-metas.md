@@ -4,8 +4,9 @@ date: '2017-02-23T21:47:36+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/smart-2.png
+tags:
+  - geral
+featuredImage: ../static/images/smart-2.jpg
 ---
 
 Sabemos que é bem difícil definir metas e segui-las de maneira efetiva. E essa é uma habilidade cada vez mais útil para uma geração que tem tantas possibilidades nas mãos e acaba se perdendo em seus objetivos. Para auxiliar nesse processo, existe uma porção de métodos e ferramentas que podem tornar essa tarefa mais produtiva. Vamos apresentar pra você o **método SMART**: uma espécie de checklist no qual você verifica se cada uma das metas para o seu objetivo têm determinadas premissas atendidas.

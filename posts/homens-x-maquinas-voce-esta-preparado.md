@@ -4,7 +4,8 @@ date: '2016-11-01T17:32:29+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/habilidades_futuro.jpg
 ---
 

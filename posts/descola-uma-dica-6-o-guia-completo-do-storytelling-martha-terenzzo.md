@@ -4,8 +4,9 @@ date: '2017-05-19T17:25:55+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-6.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-6.jpg
 ---
 
 Todo mundo está sempre contando uma história: seja para entreter os colegas, para dizer como foi o final de semana ou até na hora de conseguir um emprego – o Storytelling está presente em tudo! Por isso a dica da semana é pra você que quer aperfeiçoar essa técnica e utilizá-la da melhor forma possível nas mais diferentes situações.

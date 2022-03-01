@@ -4,7 +4,8 @@ date: '2016-10-27T17:33:33+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/ipad-tablet-technology-touch.jpg
 ---
 

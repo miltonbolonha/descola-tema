@@ -4,7 +4,8 @@ date: '2018-07-27T19:37:25+00:00'
 author: 'Tai Lacerda'
 featuredpost: false
 templatekey: blog-post
-tags: []
+tags:
+  - geral
 featuredImage: ../static/images/capa_drops_cultura_crowd-1.jpg
 ---
 

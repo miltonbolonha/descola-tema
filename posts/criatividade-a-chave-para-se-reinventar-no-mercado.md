@@ -7,7 +7,7 @@ templatekey: blog-post
 tags:
   - criatividade
   - 'reinventar no mercado de trabalho'
-featuredImage: ../static/images/post2rock1.png
+featuredImage: ../static/images/post2rock1.jpg
 ---
 
 Para atuar no mercado de trabalho, que está cada dia mais competitivo, é preciso apresentar diferenciais. E, sem dúvida, um deles é apostar em ações e modelos criativos, tanto para desenvolvimento pessoal quanto para o desenvolvimento dos negócios. Afinal, profissionais capacitados e integrados produzem melhores resultados, de modo que o crescimento dos negócios é, muitas vezes, proporcional ao crescimento pessoal.

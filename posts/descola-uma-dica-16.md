@@ -4,8 +4,9 @@ date: '2017-07-28T08:12:43+00:00'
 author: 'Equipe Descola'
 featuredpost: false
 templatekey: blog-post
-tags: []
-featuredImage: ../static/images/Descola_umadica-16.png
+tags:
+  - geral
+featuredImage: ../static/images/Descola_umadica-16.jpg
 ---
 
 Você já sabe que o curso **Venda Mais** já está em fase de [pré-venda](https://descola.org/curso/venda-mais), né? Então, nessa semana, trouxemos uma dica de leitura direto do ebook que estamos finalizando. É o livro **Contágio – Por que as coisas pegam,** do Jonah Berger.
