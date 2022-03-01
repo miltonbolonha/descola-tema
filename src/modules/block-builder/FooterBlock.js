@@ -29,7 +29,7 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 						<BsHeadset />
 						<a href="tel:+551130420043">+55 (11) 3042-0043</a>
 					</p>
-					<p className="footer-logo">{footerLogo}</p>
+					{footerLogo ? <p className="footer-logo">{footerLogo}</p> : null}
 				</div>
 				<div className="tag-list-wrapper">
 					<h3>Habilidades em destaque</h3>
@@ -107,10 +107,13 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 						target="_blank"
 						className="footer__card"
 					>
-						<Layout
-							type="BLOCK_IMAGE"
-							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
-						/>
+						{placeholderImg ? (
+							<Layout
+								type="BLOCK_IMAGE"
+								opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
+							/>
+						) : null}
+
 						<div>
 							<h4>
 								10 hábitos de Gestão Emocional para aplicar no seu dia a dia

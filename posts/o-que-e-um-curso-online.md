@@ -18,7 +18,7 @@ featuredpost: false
 templatekey: blog-post
 tags:
   - 'cursos online'
-featuredImage: ../static/images/2017.gif
+featuredImage: ../static/images/2017.jpg
 ---
 
 <span class="s1">Quando a gente fala de curso online a maioria das pessoas já pensa naquela aula chata que tinha na sala de aula, mas que é só gravada e colocada na internet:</span>
