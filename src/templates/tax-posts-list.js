@@ -7,17 +7,11 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
 
-// import PostCard from '../modules/block-builder/PostCard'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges
 
-	const { currentPage, numPages } = props.pageContext
-	const isFirst = currentPage === 1
-	const isLast = currentPage === numPages
-	const prevPage = currentPage - 1 === 1 ? '/blog' : `/page/${currentPage - 1}`
-	const nextPage = `/page/${currentPage + 1}`
 	return (
 		<Layout
 			type="BODY"
@@ -41,15 +35,10 @@ const TagsList = (props) => {
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
 					<PostsBlock
 						postList={tagList}
-						currentPage={currentPage}
-						numPages={numPages}
-						isFirst={isFirst}
-						prevPage={prevPage}
-						isLast={isLast}
-						nextPage={nextPage}
+						postsPerPage={5}
 						readMoreText="Mais Posts"
 						pagination={{
-							loadMoreBtn: false,
+							loadMoreBtn: true,
 							loadMore: 'Carregar Mais',
 						}}
 					/>
@@ -69,7 +58,6 @@ export const query = graphql`
 			sort: { fields: frontmatter___date, order: DESC }
 			filter: { frontmatter: { tags: { in: [$tag] } } }
 		) {
-			totalCount
 			edges {
 				node {
 					fields {

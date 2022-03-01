@@ -95,21 +95,22 @@ exports.createPages = ({ graphql, actions }) => {
 			})
 		})
 
-		const postsPerPage = 5
-		const numPages = Math.ceil(posts.length / postsPerPage)
+		// const postsPerPage = 5
+		// const numPages = Math.ceil(posts.length / postsPerPage)
 
-		Array.from({ length: numPages }).forEach((_, index) => {
-			createPage({
-				path: index === 0 ? `/blog` : `/page/${index + 1}`,
-				component: path.resolve(`./src/templates/posts-list.js`),
-				context: {
-					limit: postsPerPage,
-					skip: index * postsPerPage,
-					numPages,
-					currentPage: index + 1,
-				},
-			})
-		})
+		// www./blog post list template
+		// Array.from({ length: numPages }).forEach((_, index) => {
+		// 	createPage({
+		// 		path: index === 0 ? `/blog` : `/page/${index + 1}`,
+		// 		component: path.resolve(`./src/templates/posts-list.js`),
+		// 		context: {
+		// 			limit: postsPerPage,
+		// 			skip: index * postsPerPage,
+		// 			numPages,
+		// 			currentPage: index + 1,
+		// 		},
+		// 	})
+		// })
 
 		const tags = result.data.tagsGroup.group
 		// Make tag pages
