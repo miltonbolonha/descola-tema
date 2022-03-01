@@ -1,13 +1,11 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
-
-// import PostCard from '../modules/block-builder/PostCard'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const BlogList = (props) => {
