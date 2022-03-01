@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { graphql, Link } from 'gatsby'
+import React from 'react'
+import { graphql } from 'gatsby'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
