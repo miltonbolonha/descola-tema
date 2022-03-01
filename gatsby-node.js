@@ -100,8 +100,8 @@ exports.createPages = ({ graphql, actions }) => {
 
 		Array.from({ length: numPages }).forEach((_, index) => {
 			createPage({
-				path: index === 0 ? `/blog` : `/page/${index + 1}`,
-				component: path.resolve(`./src/templates/blog-list.js`),
+				path: index === 0 ? `/` : `/page/${index + 1}`,
+				component: path.resolve(`./src/templates/posts-list.js`),
 				context: {
 					limit: postsPerPage,
 					skip: index * postsPerPage,
@@ -116,7 +116,7 @@ exports.createPages = ({ graphql, actions }) => {
 		tags.forEach((tag) => {
 			createPage({
 				path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
-				component: path.resolve(`./src/templates/single-tag.js`),
+				component: path.resolve(`./src/templates/tax-posts-list.js`),
 				context: {
 					tag: tag.fieldValue,
 				},

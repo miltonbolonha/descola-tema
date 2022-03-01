@@ -38,7 +38,7 @@ const TagsList = (props) => {
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
 				<main className="main-container">
-					<h1>Posts da Tag: {}</h1>
+					<h1>Posts da Tag: {props.pageContext.tag}</h1>
 					<div className="post-cards-wrapper">
 						<PostsBlock
 							postList={tagList}
