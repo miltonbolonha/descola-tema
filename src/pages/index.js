@@ -10,7 +10,6 @@ import FooterBlock from '../modules/block-builder/FooterBlock'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const IndexPage = ({ data }) => {
-	console.log(data)
 	const posts = data.allMarkdownRemark.edges
 	const postsPerPage = 5
 	return (
@@ -47,7 +46,7 @@ const IndexPage = ({ data }) => {
 							// nextPage={nextPage}
 							readMoreText="Mais Posts"
 							pagination={{
-								style: 'LOAD_MORE_BTN',
+								loadMoreBtn: true,
 								loadMore: 'Carregar Mais',
 							}}
 						/>

@@ -48,6 +48,11 @@ const BlogList = (props) => {
 							prevPage={prevPage}
 							isLast={isLast}
 							nextPage={nextPage}
+							readMoreText="Mais Posts"
+							pagination={{
+								loadMoreBtn: true,
+								loadMore: 'Carregar Mais',
+							}}
 						/>
 					</div>
 				</main>
