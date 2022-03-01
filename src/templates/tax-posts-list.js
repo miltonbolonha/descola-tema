@@ -39,22 +39,20 @@ const TagsList = (props) => {
 			>
 				<main className="main-container">
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
-					<div className="post-cards-wrapper">
-						<PostsBlock
-							postList={tagList}
-							currentPage={currentPage}
-							numPages={numPages}
-							isFirst={isFirst}
-							prevPage={prevPage}
-							isLast={isLast}
-							nextPage={nextPage}
-							readMoreText="Mais Posts"
-							pagination={{
-								loadMoreBtn: false,
-								loadMore: 'Carregar Mais',
-							}}
-						/>
-					</div>
+					<PostsBlock
+						postList={tagList}
+						currentPage={currentPage}
+						numPages={numPages}
+						isFirst={isFirst}
+						prevPage={prevPage}
+						isLast={isLast}
+						nextPage={nextPage}
+						readMoreText="Mais Posts"
+						pagination={{
+							loadMoreBtn: false,
+							loadMore: 'Carregar Mais',
+						}}
+					/>
 					<Link to="/tags">All tags</Link>
 				</main>
 			</Layout>

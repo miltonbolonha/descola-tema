@@ -33,24 +33,17 @@ const IndexPage = ({ data }) => {
 			>
 				<main className="main-container">
 					<h1>Posts</h1>
-					<div className="post-cards-wrapper">
-						<PostsBlock
-							postsPerPage={postsPerPage}
-							postList={posts}
-							typeLoad={'push'} // or false
-							// currentPage={currentPage}
-							// numPages={numPages}
-							// isFirst={isFirst}
-							// prevPage={prevPage}
-							// isLast={isLast}
-							// nextPage={nextPage}
-							readMoreText="Mais Posts"
-							pagination={{
-								loadMoreBtn: true,
-								loadMore: 'Carregar Mais',
-							}}
-						/>
-					</div>
+
+					<PostsBlock
+						postsPerPage={postsPerPage}
+						postList={posts}
+						typeLoad={'push'} // or false
+						readMoreText="Mais Posts"
+						pagination={{
+							loadMoreBtn: true,
+							loadMore: 'Carregar Mais',
+						}}
+					/>
 				</main>
 			</Layout>
 			<FooterBlock

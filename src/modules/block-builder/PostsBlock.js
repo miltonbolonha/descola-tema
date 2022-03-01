@@ -21,84 +21,82 @@ const PostsBlock = ({
 	function handleCurrentFirstItem(current) {
 		setCurrentFirstItem(current)
 	}
-
 	const handleBtnLoadMore = (e) => {
 		e.preventDefault()
 		handleCurrentFirstItem(currentFirstItem + postsPerPage)
 	}
-
 	// let currentPage = 1
-
-	const numCollections = Math.ceil(postList.length / postsPerPage)
 	// const isFirst = currentPage === 1
-	const nextCollection = currentFirstItem + postsPerPage
-	const isLastClick = nextCollection >= postList.length
 	// const prevPage = currentPage - 1 === 1 ? (currentPage = 1) : currentPage - 1
 	// const nextPage = currentPage + 1
+	const numCollections = Math.ceil(postList.length / postsPerPage)
+	const nextCollection = currentFirstItem + postsPerPage
+	const isLastClick = nextCollection >= postList.length
 	const initialLoad = typeLoad === 'push' ? 0 : currentFirstItem
 	const posts = postList.slice(initialLoad, nextCollection)
-	// console.log('É a primeira página: ' + isFirst)
-	// console.log('É a última página: ' + isLast)
-	// console.log('A página anterior: ' + prevPage)
-	// console.log('A próxima página: ' + nextPage)
-	// console.log('Número de páginas total' + numPages)
-	// console.log('Posts por página' + postsPerPage)
 	return (
-		<Layout
-			type="ROW"
-			opt={{
-				numColumns: 'auto-fit',
-				classes: 'post-cards-row',
-				widthColumns: 'minmax(290px, 1fr)',
-			}}
-		>
-			{posts.map(
-				(
-					{
-						node: {
-							frontmatter: { title, tags, featuredImage },
-							fields: { slug },
-							excerpt,
+		<div className="post-cards-wrapper">
+			<Layout
+				type="ROW"
+				opt={{
+					numColumns: 'auto-fit',
+					classes: 'post-cards-row',
+					widthColumns: 'minmax(290px, 1fr)',
+				}}
+			>
+				{posts.map(
+					(
+						{
+							node: {
+								frontmatter: { title, tags, featuredImage },
+								fields: { slug },
+								excerpt,
+							},
 						},
-					},
-					i
-				) => {
-					return (
-						<PostCard
-							postImage={featuredImage}
-							linkUrl={slug}
-							title={title}
-							excerpt={excerpt}
-							readMoreText={readMoreText}
-							key={i}
-							tags={tags}
-						/>
-					)
-				}
-			)}
-			{pagination.loadMoreBtn === true ? (
-				<p className="btn-load-more">
-					{isLastClick ? (
-						' '
-					) : (
-						<button
-							onClick={(e) => handleBtnLoadMore(e)}
-							value={currentFirstItem}
-						>
-							{pagination.loadMore}
-						</button>
-					)}
-				</p>
-			) : (
-				<>
-					<p>
-						{currentPage} de {numCollections}
+						i
+					) => {
+						return (
+							<PostCard
+								postImage={featuredImage}
+								linkUrl={slug}
+								title={title}
+								excerpt={excerpt}
+								readMoreText={readMoreText}
+								key={i}
+								tags={tags}
+							/>
+						)
+					}
+				)}
+			</Layout>
+			<Layout
+				type="ROW"
+				opt={{ numRows: 1, isBoxed: true, classes: 'pagination' }}
+			>
+				{pagination.loadMoreBtn === true ? (
+					<p className="btn-load-more">
+						{isLastClick ? (
+							' '
+						) : (
+							<button
+								onClick={(e) => handleBtnLoadMore(e)}
+								value={currentFirstItem}
+							>
+								{pagination.loadMore}
+							</button>
+						)}
 					</p>
-					{!isFirst && <Link to={prevPage}>← página anterior</Link>}
-					{!isLast && <Link to={nextPage}>próxima página →</Link>}
-				</>
-			)}
-		</Layout>
+				) : (
+					<>
+						<p>
+							{currentPage} de {numCollections}
+						</p>
+						{!isFirst && <Link to={prevPage}>← página anterior</Link>}
+						{!isLast && <Link to={nextPage}>próxima página →</Link>}
+					</>
+				)}
+			</Layout>
+		</div>
 	)
 }
 
