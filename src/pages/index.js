@@ -9,30 +9,10 @@ import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
-const IndexPage = (props) => {
-	const [currentFirstItem, setCurrentFirstItem] = useState(0)
-	function handleCurrentFirstItem(current) {
-		setCurrentFirstItem(current)
-	}
-	const posts = props.data.allMarkdownRemark.edges
+const IndexPage = ({ data }) => {
+	console.log(data)
+	const posts = data.allMarkdownRemark.edges
 	const postsPerPage = 5
-	let currentPage = 1
-
-	const numPages = Math.ceil(posts.length / postsPerPage)
-	const isFirst = currentPage === 1
-	const isLast = currentPage === numPages
-	const prevPage = currentPage - 1 === 1 ? (currentPage = 1) : currentPage - 1
-	const nextPage = currentPage + 1
-	const nextCollection = currentFirstItem + postsPerPage
-	console.log('nextCollection>>>>>>>>>>>>>')
-	console.log(nextCollection)
-	const postsList = posts.slice(currentFirstItem, nextCollection)
-	console.log('É a primeira página: ' + isFirst)
-	console.log('É a última página: ' + isLast)
-	console.log('A página anterior: ' + prevPage)
-	console.log('A próxima página: ' + nextPage)
-	console.log('Número de páginas total' + numPages)
-	console.log('Posts por página' + postsPerPage)
 	return (
 		<Layout
 			type="BODY"
@@ -57,13 +37,13 @@ const IndexPage = (props) => {
 					<div className="post-cards-wrapper">
 						<PostsBlock
 							postsPerPage={postsPerPage}
-							postList={postsList}
-							currentPage={currentPage}
-							numPages={numPages}
-							isFirst={isFirst}
-							prevPage={prevPage}
-							isLast={isLast}
-							nextPage={nextPage}
+							postList={posts}
+							// currentPage={currentPage}
+							// numPages={numPages}
+							// isFirst={isFirst}
+							// prevPage={prevPage}
+							// isLast={isLast}
+							// nextPage={nextPage}
 							readMoreText="Mais Posts"
 							pagination={{
 								style: 'LOAD_MORE_BTN',
@@ -74,8 +54,8 @@ const IndexPage = (props) => {
 				</main>
 			</Layout>
 			<FooterBlock
-				placeholderImg={props.data.imgHolder}
-				footerLogo={DescolaLogoDark}
+				placeholderImg={data.imgHolder}
+				footerLogo={<DescolaLogoDark />}
 			/>
 		</Layout>
 	)
@@ -119,7 +99,7 @@ export const queryAtividade = graphql`
 							}
 						}
 					}
-					excerpt(pruneLength: 300)
+					excerpt(pruneLength: 200)
 				}
 			}
 		}
