@@ -11,6 +11,9 @@ const PostsBlock = ({
 	prevPage,
 	isLast,
 	nextPage,
+	readMoreText,
+	pagination,
+	postsPerPage,
 }) => (
 	<Layout
 		type="ROW"
@@ -31,24 +34,34 @@ const PostsBlock = ({
 				},
 				i
 			) => {
+				console.log('Esse é o i do postList.map')
+				console.log(i)
 				return (
 					<PostCard
 						postImage={featuredImage}
 						linkUrl={slug}
 						title={title}
 						excerpt={excerpt}
-						readMoreText="Leia Mais"
+						readMoreText={readMoreText}
 						key={i}
 						tags={tags}
 					/>
 				)
 			}
 		)}
-		<p>
-			{currentPage} de {numPages}
-		</p>
-		{!isFirst && <Link to={prevPage}>← página anterior</Link>}
-		{!isLast && <Link to={nextPage}>próxima página →</Link>}
+		{pagination.style === 'LOAD_MORE_BTN' ? (
+			<>
+				<button>{pagination.loadMore}</button>
+			</>
+		) : (
+			<>
+				<p>
+					{currentPage} de {numPages}
+				</p>
+				{!isFirst && <Link to={prevPage}>← página anterior</Link>}
+				{!isLast && <Link to={nextPage}>próxima página →</Link>}
+			</>
+		)}
 	</Layout>
 )
 
