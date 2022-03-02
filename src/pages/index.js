@@ -49,7 +49,7 @@ const IndexPage = ({ data }) => {
 			<FooterBlock
 				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={data.allMarkdownRemark.edges}
+				featurePosts={data.footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
@@ -92,6 +92,25 @@ export const queryAtividade = graphql`
 								)
 							}
 						}
+					}
+					excerpt(pruneLength: 200)
+				}
+			}
+		}
+
+		footerThreeMarkdowRemark: allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			filter: { frontmatter: { featuredPost: { eq: true } } }
+		) {
+			edges {
+				node {
+					fields {
+						slug
+					}
+					frontmatter {
+						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+						title
+						tags
 						footerFeaturedImage: featuredImage {
 							childrenImageSharp {
 								gatsbyImageData(

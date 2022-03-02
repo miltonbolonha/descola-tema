@@ -48,7 +48,7 @@ const TagsList = (props) => {
 			<FooterBlock
 				placeholderImg={props.data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={props.data.allMarkdownRemark.edges}
+				featurePosts={props.data.footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
@@ -78,6 +78,25 @@ export const query = graphql`
 								)
 							}
 						}
+					}
+					excerpt(pruneLength: 300)
+				}
+			}
+		}
+
+		footerThreeMarkdowRemark: allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			filter: { frontmatter: { featuredPost: { eq: true } } }
+		) {
+			edges {
+				node {
+					fields {
+						slug
+					}
+					frontmatter {
+						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+						title
+						tags
 						footerFeaturedImage: featuredImage {
 							childrenImageSharp {
 								gatsbyImageData(
@@ -89,10 +108,11 @@ export const query = graphql`
 							}
 						}
 					}
-					excerpt(pruneLength: 300)
+					excerpt(pruneLength: 200)
 				}
 			}
 		}
+
 		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
 			childrenImageSharp {
 				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
