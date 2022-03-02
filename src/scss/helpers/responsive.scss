@@ -18,15 +18,6 @@
 		}
 	}
 }
-// .responsive-padding {
-// 	@media (max-width: $tablet__size) {
-// 		margin: 0 auto;
-// 		.boxed-column-child {
-// 			max-width: $boxedDesktop__maxWidth;
-// 			margin: 0 auto;
-// 		}
-// 	}
-// }
 @media (max-width: $mobileIndexButtons__maxWidth) and (min-width: $boxedMobile__maxWidth) {
 	.desktop-only {
 		display: none !important;

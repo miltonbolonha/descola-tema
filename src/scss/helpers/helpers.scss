@@ -9,6 +9,10 @@
 	}
 }
 
+.align-to-right{
+	text-align: right;
+}
+
 .align-center {
 	text-align: center;
 	justify-content: center;
@@ -30,22 +34,13 @@
 /* Handle */
 ::-webkit-scrollbar-thumb {
 	border-radius: 30px;
-	background: $secondary_pink__color;
+	background: $cta__color;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
 	background: #555;
 }
-// main content
-
-// CSS https://github.com/nuktpls/jogo-da-memoria/blob/master/css/app.css
-
-// .container {
-
-// }
-
-
 
 .top-hibbon{
 	height: 40px;
@@ -57,16 +52,6 @@
 		padding: 0 5px;
 	}
 }
-
-.align-to-right{
-	text-align: right;
-}
-.full-width-row{ &.header-logo-wrapper{
-	margin-bottom: 33px;
-	height: 60px;
-}}
-
-
 
 .tag-list-wrapper{
 	display: inline-block;
@@ -91,126 +76,6 @@
 		}
 	}
 }
-
-
-.boxed-column-child.main-container-wrapper{
-	padding: 0 15px;
-.main-container{
-	max-width: 1110px;
-	width: 100%;
-	margin: 32px auto;
-
-	h1{
-		color: $cta__color;
-		font-family: $second__font;
-		font-size: 36px;
-		font-weight: 500;
-		border-left: 5px solid $cta__color;
-		padding-left: 10px;
-		line-height: 46px;
-		margin-bottom: 36px;
-	}
-	.full-width-row-child.post-cards-row{
-		gap: 60px 30px;
-		.post-card{
-			max-width: 350px;
-    	margin: 0 auto;
-			background-color: #f6f7fa;
-			.post-card-content{
-				margin: 20px ;
-				h2{
-					font-size: 20px;
-					font-family: $second__font;
-					margin-bottom: 20px;
-					& a:hover{
-						color: $cta__color;
-					}
-				}
-				p{
-					a{font-family: $main__font;
-					font-size: 18px;
-					font-weight: 300;
-					color: #8c9199;
-				}
-				margin-bottom: 16px;
-				}
-				a.card-posts-link{
-					background-color: #222;
-					font-size: 14px;
-					color: white;
-					font-weight: 700;
-					padding: 10px 20px;
-					display: inline-block;
-					&:hover {
-						background-color: $cta__color;
-					}
-				}
-			}
-		}
-
-	}
-
-	.pagination.boxed-column {
-		margin-top: 50px;
-		& .btn-load-more{
-			display: block;
-			width: 100%;
-			button{
-				border: 0;
-				margin: 0 auto;
-				display: block;
-				width: 180px;
-				cursor: pointer;
-				font-size: 22px;
-				padding: 10px 0;
-				line-height: 22px;
-				font-weight: 600;
-				font-family: $main__font;
-				color: white;
-				background: $cta__color;
-			}
-		}
-	}
-}
-
-
-}
-
-
-.single-post{
-	.header-logo-wrapper{
-		margin-bottom: 0;
-	}
-
-.post-header{
-	&.full-width-row{
-		margin-bottom: 50px;
-	}
-	header{
-		background-color: #111e24;
-		min-height: 270px;
-		max-width: 720px;
-		margin: 0 auto;
-	}
-	h1{
-		color: #fff;
-		font-family: $second__font;
-		font-size: 36px;
-		font-weight: 500;
-	}
-	.boxed-column.post{
-		height: 100%;
-    display: flex;
-    align-items: center;
-	}
-
-}
-.boxed-column.main-post{
-	max-width: 720px;
-	margin: 0 auto;
-}
-}
-
 
 
 

@@ -4,7 +4,7 @@ header {
 	// z-index: 9;
 	position: relative;
 	width: 100%;
-	// border-top: $heading__border solid $ribbon_top__color;
+	// border-top: $heading__border solid $cta__color;
 	div.main-header {
 		// flex-direction: row;
 		// flex-wrap: wrap;
@@ -92,12 +92,12 @@ header {
 					.icon-text {
 						margin: 0;
 						white-space: nowrap;
-						color: $btn_brown__active;
+						// color: $btn_brown__active;
 					}
-					.icon-main-menu-left,
-					.icon-main-menu-right {
-						color: $btn_brown__active;
-					}
+					// .icon-main-menu-left,
+					// .icon-main-menu-right {
+					// 	color: $btn_brown__active;
+					// }
 				}
 
 				input#check-toggle-icon {
@@ -152,7 +152,7 @@ body.dark {
 		background-color: $brand_black__color;
 	}
 	header div.main-header > .header-columns .logo-link h1 {
-		color: $brand_white__color;
+		color: white;
 	}
 }
 
@@ -262,3 +262,8 @@ body.dark {
 		cursor: pointer;
 	}
 }
+
+.full-width-row{ &.header-logo-wrapper{
+	margin-bottom: 33px;
+	height: 60px;
+}}

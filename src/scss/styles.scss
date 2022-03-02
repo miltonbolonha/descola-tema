@@ -1,9 +1,9 @@
 /*
-Theme Name: Memory Game - Deletar
+Theme Name: NÜBlog
 Theme URI: https://www.nuktpls.com.br/
 Description: Jogo da Memória
 Author: Milton Bolonha
-Template: AtomicTheme - Memory Game
+Template: AtomicTheme - NÜBlog
 Version: 2.0
 */
 
@@ -45,6 +45,8 @@ Version: 2.0
 3.1 Modules / Block Builder
 --------------------------------------------------------------*/
 
+@import 'modules/block-builder/single-post';
+@import 'modules/block-builder/main-container-blog';
 // @import 'modules/block-builder/grid-carousel';
 // @import 'modules/block-builder/hero';
 
