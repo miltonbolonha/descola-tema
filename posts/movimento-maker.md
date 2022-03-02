@@ -2,7 +2,7 @@
 title: 'O Movimento Maker e a construção de novas realidades'
 date: '2018-09-13T18:18:47+00:00'
 author: 'Tai Lacerda'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -20,7 +20,7 @@ hide_nav:
   - '0'
 hide_pag:
   - '0'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

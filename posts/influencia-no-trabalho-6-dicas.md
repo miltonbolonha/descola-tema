@@ -2,7 +2,7 @@
 title: '6 dicas para melhorar sua influência no trabalho'
 date: '2018-02-21T19:12:35+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

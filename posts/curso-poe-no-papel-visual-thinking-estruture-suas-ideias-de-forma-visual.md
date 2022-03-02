@@ -2,7 +2,7 @@
 title: 'Curso Põe no papel: Visual Thinking: Estruture suas ideias de forma visual'
 date: '2015-08-31T09:19:30+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - curso

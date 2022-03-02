@@ -7,14 +7,8 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
 
-// import Layout from "../components/Layout"
-// import SEO from "../components/seo"
-
-// import * as S from "../styles/components/singlepost"
-
 const SinglePost = ({ data }) => {
 	const post = data.markdownRemark
-
 	return (
 		<Layout
 			type="BODY"
@@ -55,7 +49,8 @@ const SinglePost = ({ data }) => {
 			</Layout>
 			<FooterBlock
 				placeholderImg={data.imgHolder}
-				footerLogo={DescolaLogoDark}
+				footerLogo={<DescolaLogoDark />}
+				featurePosts={data.allMarkdownRemark.edges}
 			/>
 		</Layout>
 	)
@@ -69,17 +64,17 @@ export const query = graphql`
 				date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
 				author
 				tags
-				featuredpost
-				featuredImage{
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 350
-									height: 224
-									placeholder: NONE
-									quality: 100
-								)
-							}
-						}
+				featuredPost
+				featuredImage {
+					childrenImageSharp {
+						gatsbyImageData(
+							width: 350
+							height: 224
+							placeholder: NONE
+							quality: 100
+						)
+					}
+				}
 			}
 			html
 			fields {
@@ -90,6 +85,35 @@ export const query = graphql`
 		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
 			childrenImageSharp {
 				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
+			}
+		}
+
+		allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			filter: { frontmatter: { featuredPost: { eq: true } } }
+		) {
+			edges {
+				node {
+					fields {
+						slug
+					}
+					frontmatter {
+						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+						title
+						tags
+						footerFeaturedImage: featuredImage {
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 76
+									height: 76
+									placeholder: DOMINANT_COLOR
+									quality: 90
+								)
+							}
+						}
+					}
+					excerpt(pruneLength: 300)
+				}
 			}
 		}
 	}

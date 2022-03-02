@@ -2,7 +2,7 @@
 title: 'Saiba como transformar uma boa ideia em oportunidade'
 date: '2015-03-30T10:11:37+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

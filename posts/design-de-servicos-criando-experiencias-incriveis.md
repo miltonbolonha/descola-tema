@@ -2,7 +2,7 @@
 title: 'Design de serviços (criando experiências incríveis)'
 date: '2016-05-04T20:58:17+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - curso

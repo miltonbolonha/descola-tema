@@ -1,8 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "Posts",
+			"path": "posts"
+		},
+		{
 			"name": "Módulos",
 			"path": "src/modules"
+		},
+		{
+			"name": "Templates",
+			"path": "src/templates"
 		},
 		{
 			"name": "Páginas",

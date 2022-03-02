@@ -2,7 +2,7 @@
 title: 'Redes sociais: vá além do básico com sua marca'
 date: '2015-04-22T07:22:22+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

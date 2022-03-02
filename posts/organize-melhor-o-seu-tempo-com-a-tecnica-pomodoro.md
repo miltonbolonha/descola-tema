@@ -2,7 +2,7 @@
 title: 'Organize melhor o seu tempo com a Técnica Pomodoro'
 date: '2016-11-09T17:30:59+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

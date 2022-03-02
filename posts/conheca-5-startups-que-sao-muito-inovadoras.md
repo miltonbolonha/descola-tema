@@ -2,7 +2,7 @@
 title: 'Conheça 5 startups muito inovadoras'
 date: '2015-04-06T10:16:38+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'Empresas inovadoras'

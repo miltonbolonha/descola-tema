@@ -2,7 +2,7 @@
 title: 'Entenda como a metologia Lean pode ajudar no seu novo empreendimento'
 date: '2015-10-26T15:05:47+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - Empreendimento

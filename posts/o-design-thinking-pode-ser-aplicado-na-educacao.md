@@ -2,7 +2,7 @@
 title: 'O Design Thinking pode ser aplicado na educação?'
 date: '2016-01-26T01:09:31+00:00'
 author: 'André Tanesi'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

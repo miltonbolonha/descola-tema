@@ -2,7 +2,7 @@
 title: 'COMO O CÉREBRO APRENDE?'
 date: '2021-09-09T18:11:58+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - aprender

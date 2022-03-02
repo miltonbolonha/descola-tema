@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #1: Por quê? &#8211; Como motivar pessoas e equipes a agir (Simon Sinek)'
 date: '2017-04-14T08:08:20+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

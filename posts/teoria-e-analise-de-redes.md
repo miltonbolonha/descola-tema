@@ -2,7 +2,7 @@
 title: 'Teoria e análise de redes'
 date: '2015-10-21T15:20:30+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

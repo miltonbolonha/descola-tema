@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #13: Os 7 hábitos das pessoas altamente eficazes (Stephen Covey)'
 date: '2017-07-07T21:40:29+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #12: A Startup Enxuta (Eric Ries)'
 date: '2017-06-30T18:40:20+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

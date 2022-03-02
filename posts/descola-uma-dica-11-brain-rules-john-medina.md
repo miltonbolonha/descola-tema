@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #11: Brain Rules (John Medina)'
 date: '2017-06-23T08:11:09+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

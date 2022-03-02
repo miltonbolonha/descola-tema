@@ -2,7 +2,7 @@
 title: 'Projetos sustentáveis: por que a sustentabilidade é importante para o seu negócio?'
 date: '2015-03-11T14:05:16+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'negócios sustentáveis'

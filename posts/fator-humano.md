@@ -2,7 +2,7 @@
 title: 'A importância do fator humano na gestão de empresas'
 date: '2018-12-13T12:36:51+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

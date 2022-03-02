@@ -2,7 +2,7 @@
 title: '6 formas de parecer confiante numa apresentação'
 date: '2017-06-29T22:28:54+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

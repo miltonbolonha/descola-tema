@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2017-10-19T19:52:36+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: false
 featuredImage: ../static/images/identidade-marca.jpg
 tags:
   - geral

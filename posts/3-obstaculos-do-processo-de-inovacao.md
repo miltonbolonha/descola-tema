@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2015-07-20T12:56:43+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: true
 featuredImage: ../static/images/inovacao_descola_obstaculos.jpg
 tags:
   - Bloqueio de criatividade

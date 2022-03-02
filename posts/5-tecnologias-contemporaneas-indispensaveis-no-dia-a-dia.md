@@ -4,7 +4,7 @@ date: '2015-01-19T11:50:31+00:00'
 author: 'Equipe Descola'
 bd_c4_description:
   - Ótimo
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'tecnologias contemporâneas indispensáveis'

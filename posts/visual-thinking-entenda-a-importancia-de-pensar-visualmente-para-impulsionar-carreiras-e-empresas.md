@@ -2,7 +2,7 @@
 title: 'Visual Thinking: entenda a importância de pensar visualmente para impulsionar carreiras e empresas'
 date: '2015-03-04T14:29:45+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'pensamento visual'

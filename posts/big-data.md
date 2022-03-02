@@ -2,7 +2,7 @@
 title: 'Prevendo tendências e comportamentos: Big Data'
 date: '2017-06-13T21:46:56+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

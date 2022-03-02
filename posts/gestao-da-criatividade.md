@@ -2,7 +2,7 @@
 title: 'Gestão da criatividade'
 date: '2016-04-12T17:26:23+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

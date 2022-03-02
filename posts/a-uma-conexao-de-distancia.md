@@ -2,7 +2,7 @@
 title: 'A uma conexão de distância'
 date: '2021-05-13T20:19:33+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'curso produtividade'

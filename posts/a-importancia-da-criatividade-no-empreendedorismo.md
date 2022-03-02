@@ -2,7 +2,7 @@
 title: 'A importância da criatividade no empreendedorismo'
 date: '2015-01-26T12:25:27+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

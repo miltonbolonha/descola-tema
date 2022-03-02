@@ -2,7 +2,7 @@
 title: 'Como seria o mundo sem Internet?'
 date: '2017-12-15T20:33:02+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

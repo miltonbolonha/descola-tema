@@ -2,7 +2,7 @@
 title: 'Multipotencial: o que você quer ser quando crescer?'
 date: '2018-05-03T21:29:13+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

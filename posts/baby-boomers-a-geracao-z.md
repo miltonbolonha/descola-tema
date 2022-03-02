@@ -2,7 +2,7 @@
 title: 'Dos Baby Boomers à Geração Z: lidando com as diferenças'
 date: '2017-12-08T19:48:38+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

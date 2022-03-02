@@ -2,7 +2,7 @@
 title: 'Invista em negócios sociais e aprenda a mudar o mundo'
 date: '2015-06-29T10:44:52+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

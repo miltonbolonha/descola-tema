@@ -2,7 +2,7 @@
 title: 'A importância do design para as startups'
 date: '2015-02-05T17:32:15+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'design para as startups'

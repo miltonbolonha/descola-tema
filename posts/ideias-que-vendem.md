@@ -2,7 +2,7 @@
 title: 'A diferença entre ideias e ideias que vendem'
 date: '2015-05-04T10:34:28+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'arquitetura de conteúdo'

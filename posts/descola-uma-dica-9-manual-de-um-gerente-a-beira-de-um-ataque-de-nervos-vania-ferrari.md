@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #9: Manual de um gerente à beira de um ataque de nervos (Vania Ferrari)'
 date: '2017-06-09T08:22:33+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

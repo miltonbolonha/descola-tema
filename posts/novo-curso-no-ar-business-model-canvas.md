@@ -2,7 +2,7 @@
 title: 'Novo curso no ar: Business Model Canvas'
 date: '2015-05-27T13:10:19+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - BMC

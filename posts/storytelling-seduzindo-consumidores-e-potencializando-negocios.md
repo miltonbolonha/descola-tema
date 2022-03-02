@@ -2,7 +2,7 @@
 title: 'Storytelling: seduzindo consumidores e potencializando negócios'
 date: '2015-02-25T21:00:03+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - storytelling

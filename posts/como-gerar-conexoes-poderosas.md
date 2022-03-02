@@ -2,7 +2,7 @@
 title: 'Como gerar conexões poderosas'
 date: '2019-02-07T14:47:42+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

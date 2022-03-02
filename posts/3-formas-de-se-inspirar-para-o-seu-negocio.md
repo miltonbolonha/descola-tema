@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2014-12-17T12:33:38+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: true
 featuredImage: ../static/images/descola_ideias.jpg
 tags:
   - filmes inspiradores

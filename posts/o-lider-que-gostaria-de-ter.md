@@ -2,7 +2,7 @@
 title: 'Você é o líder que gostaria de ter?'
 date: '2018-09-06T20:22:58+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

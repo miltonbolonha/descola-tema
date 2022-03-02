@@ -2,7 +2,7 @@
 title: 'A pós-verdade e o mundo dos negócios'
 date: '2017-09-15T21:25:12+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

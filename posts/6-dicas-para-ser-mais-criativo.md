@@ -2,7 +2,7 @@
 title: '6 dicas para ser mais criativo'
 date: '2015-01-12T13:37:45+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

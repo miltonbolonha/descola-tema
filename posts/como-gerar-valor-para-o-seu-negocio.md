@@ -2,7 +2,7 @@
 title: 'Como gerar valor para o seu negócio'
 date: '2016-11-28T17:21:02+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

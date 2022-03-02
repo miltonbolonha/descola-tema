@@ -2,7 +2,7 @@
 title: 'Veja como controlar seu tempo é fundamental para seu sucesso'
 date: '2015-09-06T07:46:45+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'administração do tempo'

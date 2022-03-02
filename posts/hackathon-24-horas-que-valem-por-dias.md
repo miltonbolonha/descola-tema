@@ -2,7 +2,7 @@
 title: 'Hackathon: 24 horas que valem por dias'
 date: '2015-05-11T14:57:54+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - descola

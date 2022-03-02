@@ -2,7 +2,7 @@
 title: 'Empreendedorismo social: quais as vantagens?'
 date: '2015-03-09T11:15:47+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'Empreendedorismo social'

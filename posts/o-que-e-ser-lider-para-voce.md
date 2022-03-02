@@ -2,7 +2,7 @@
 title: 'O que é ser líder para você?'
 date: '2020-02-20T13:38:14+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

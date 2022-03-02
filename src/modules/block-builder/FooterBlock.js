@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import Layout from '../layout'
 
 import excerpt from '../../tools/excerpt'
@@ -6,7 +7,7 @@ import excerpt from '../../tools/excerpt'
 import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
-const FooterBlock = ({ footerLogo, placeholderImg }) => {
+const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
 	const stringOne =
 		'É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A	Inteligência Emocional pode sim ser ensinada e aprendida por	qualquer pessoa. É como se ela fosse um músculo que pode'
 	return (
@@ -101,60 +102,31 @@ const FooterBlock = ({ footerLogo, placeholderImg }) => {
 				</div>
 				<div className="footer-column-blog">
 					<h3>Blog da escola</h3>
-					<a
-						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
-						rel="noopener noreferrer"
-						target="_blank"
-						className="footer__card"
-					>
-						{placeholderImg ? (
-							<Layout
-								type="BLOCK_IMAGE"
-								opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
-							/>
-						) : null}
+					{featurePosts.slice(0, 3).map((eachPost, i) => {
+						console.log(eachPost.node.frontmatter)
+						return (
+							<Link
+								to={`${eachPost.node.fields.slug}`}
+								className="footer__card"
+								key={i}
+							>
+								{placeholderImg ? (
+									<Layout
+										type="BLOCK_IMAGE"
+										opt={{
+											queryCard: eachPost.node.frontmatter.footerFeaturedImage,
+											alt: 'Descola Holder',
+										}}
+									/>
+								) : null}
 
-						<div>
-							<h4>
-								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
-							</h4>
-							<p>{excerpt(stringOne, 50, '...')}</p>
-						</div>
-					</a>
-					<a
-						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
-						rel="noopener noreferrer"
-						target="_blank"
-						className="footer__card"
-					>
-						<Layout
-							type="BLOCK_IMAGE"
-							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
-						/>
-						<div>
-							<h4>
-								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
-							</h4>
-							<p>{excerpt(stringOne, 50, '...')}</p>
-						</div>
-					</a>
-					<a
-						href="https://blog.descola.org/10-habitos-de-gestao-emocional-para-aplicar-no-seu-dia-a-dia/"
-						rel="noopener noreferrer"
-						target="_blank"
-						className="footer__card"
-					>
-						<Layout
-							type="BLOCK_IMAGE"
-							opt={{ queryCard: placeholderImg, alt: 'Descola Holder' }}
-						/>
-						<div>
-							<h4>
-								10 hábitos de Gestão Emocional para aplicar no seu dia a dia
-							</h4>
-							<p>{excerpt(stringOne, 50, '...')}</p>
-						</div>
-					</a>
+								<div>
+									<h4>{eachPost.node.frontmatter.title}</h4>
+									<p>{excerpt(eachPost.node.excerpt, 50, '...')}</p>
+								</div>
+							</Link>
+						)
+					})}
 				</div>
 				<div className="footer-column-nav">
 					<h3>Navegue</h3>

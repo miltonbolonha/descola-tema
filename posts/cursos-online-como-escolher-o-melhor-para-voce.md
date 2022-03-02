@@ -2,7 +2,7 @@
 title: 'Cursos online: como escolher o melhor para você'
 date: '2015-05-13T10:03:54+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aproveite cursos online'

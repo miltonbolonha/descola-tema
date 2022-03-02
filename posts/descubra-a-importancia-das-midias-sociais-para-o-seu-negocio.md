@@ -2,7 +2,7 @@
 title: 'Descubra a importância das mídias sociais para o seu negócio'
 date: '2015-08-18T10:04:23+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'importância das mídias sociais'

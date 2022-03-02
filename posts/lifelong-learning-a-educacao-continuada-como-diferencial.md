@@ -2,7 +2,7 @@
 title: 'Lifelong Learning: a educação continuada como diferencial'
 date: '2019-07-10T08:21:46+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

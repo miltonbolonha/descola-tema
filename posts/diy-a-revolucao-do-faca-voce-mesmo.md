@@ -2,7 +2,7 @@
 title: 'DIY: a revolução do &quot;Faça Você Mesmo&quot;'
 date: '2015-04-13T09:17:29+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - diy

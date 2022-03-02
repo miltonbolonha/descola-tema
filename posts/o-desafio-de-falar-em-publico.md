@@ -2,7 +2,7 @@
 title: 'O desafio de falar em público'
 date: '2018-07-16T19:17:41+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

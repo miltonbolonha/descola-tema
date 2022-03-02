@@ -2,7 +2,7 @@
 title: 'Criatividade: a chave para se reinventar no mercado'
 date: '2014-12-08T08:17:57+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

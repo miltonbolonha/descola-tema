@@ -2,7 +2,7 @@
 title: 'Estimule sua criatividade de 10 maneiras diferentes'
 date: '2015-07-29T22:20:55+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

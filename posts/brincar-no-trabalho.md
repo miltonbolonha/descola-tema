@@ -2,7 +2,7 @@
 title: 'Porque brincar no trabalho pode resultar no seu sucesso'
 date: '2019-02-15T20:10:59+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

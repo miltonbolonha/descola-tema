@@ -2,7 +2,7 @@
 title: 'Inteligência artificial: muito mais próxima do que você imagina'
 date: '2017-02-14T20:29:18+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

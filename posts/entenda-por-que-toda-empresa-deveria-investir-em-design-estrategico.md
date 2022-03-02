@@ -2,7 +2,7 @@
 title: 'Entenda por que toda empresa deveria investir em design estratégico'
 date: '2015-02-11T12:46:40+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - design

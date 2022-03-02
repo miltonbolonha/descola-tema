@@ -2,7 +2,7 @@
 title: 'O ano de 2017 na Descola'
 date: '2017-12-20T20:32:35+00:00'
 author: 'André Tanesi'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

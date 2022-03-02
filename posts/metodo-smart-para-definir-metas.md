@@ -2,7 +2,7 @@
 title: 'Método SMART para definir metas'
 date: '2017-02-23T21:47:36+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

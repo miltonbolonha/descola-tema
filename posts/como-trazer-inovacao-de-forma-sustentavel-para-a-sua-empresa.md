@@ -2,7 +2,7 @@
 title: 'Como trazer inovação de forma sustentável para a sua empresa'
 date: '2015-01-05T14:48:46+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'negócios sustentáveis'

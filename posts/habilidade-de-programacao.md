@@ -2,7 +2,7 @@
 title: 'A importância da programação como habilidade'
 date: '2018-09-28T21:52:51+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

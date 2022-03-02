@@ -2,7 +2,7 @@
 title: '6 motivos para fazer um curso online hoje'
 date: '2016-11-24T15:00:27+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

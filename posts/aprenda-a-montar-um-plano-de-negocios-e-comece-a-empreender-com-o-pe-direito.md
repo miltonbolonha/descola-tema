@@ -2,7 +2,7 @@
 title: 'Aprenda a montar um plano de negócios e comece a empreender com o pé direito'
 date: '2015-09-15T17:56:23+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'começar a empreender'

@@ -2,7 +2,7 @@
 title: 'O lugar que importa é aquele em que você está… bem!'
 date: '2018-11-01T23:06:43+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

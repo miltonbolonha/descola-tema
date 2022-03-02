@@ -2,7 +2,7 @@
 title: 'Aprenda com os grandes do empreendedorismo: tenha um propósito'
 date: '2015-05-25T09:32:07+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - empreender

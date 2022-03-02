@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2015-04-01T16:55:03+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: false
 featuredImage: ../static/images/inovacao_pratica1.jpg
 tags:
   - ambiente dinâmico

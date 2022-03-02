@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2017-08-09T22:02:04+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: false
 featuredImage: ../static/images/aproveitar-tempo.jpg
 tags:
   - geral

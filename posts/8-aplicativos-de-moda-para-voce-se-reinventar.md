@@ -2,7 +2,7 @@
 title: '8 aplicativos de moda para você se reinventar'
 date: '2015-10-19T14:12:03+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aplicativos de moda para se reinventar'

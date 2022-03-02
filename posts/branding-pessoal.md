@@ -2,7 +2,7 @@
 title: 'Precisamos falar sobre branding pessoal'
 date: '2018-08-23T20:47:51+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

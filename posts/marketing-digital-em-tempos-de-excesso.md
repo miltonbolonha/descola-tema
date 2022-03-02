@@ -2,7 +2,7 @@
 title: 'Marketing Digital em tempos de excesso'
 date: '2017-02-08T18:31:35+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

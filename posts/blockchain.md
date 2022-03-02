@@ -2,7 +2,7 @@
 title: 'Blockchain e a Internet das Árvores'
 date: '2018-03-14T18:25:18+00:00'
 author: 'Tai Lacerda'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

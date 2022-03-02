@@ -2,7 +2,7 @@
 title: 'Como driblar o inconsciente nas relações interpessoais.'
 date: '2019-08-01T20:35:36+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

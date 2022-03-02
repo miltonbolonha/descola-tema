@@ -2,7 +2,7 @@
 title: 'Experiência do usuário e envolvimento interativo'
 date: '2017-03-22T18:37:56+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

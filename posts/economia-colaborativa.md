@@ -2,7 +2,7 @@
 title: 'A economia colaborativa já é uma realidade'
 date: '2015-04-24T14:12:17+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'economia colaborativa'

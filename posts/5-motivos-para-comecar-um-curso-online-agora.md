@@ -2,7 +2,7 @@
 title: '5 motivos para começar um curso online agora'
 date: '2015-06-03T09:54:30+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aprenda agora'

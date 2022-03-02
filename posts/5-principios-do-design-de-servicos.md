@@ -2,7 +2,7 @@
 title: '5 PRINCÍPIOS DO DESIGN DE SERVIÇOS'
 date: '2021-06-01T09:08:00+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'curso design de serviços'

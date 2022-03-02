@@ -2,7 +2,7 @@
 title: 'Quais as principais características de um empreendedor de sucesso?'
 date: '2016-02-11T11:58:44+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

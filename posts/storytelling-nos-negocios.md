@@ -2,7 +2,7 @@
 title: 'O que o Storytelling pode fazer pelo seu negócio?'
 date: '2017-04-25T20:11:18+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

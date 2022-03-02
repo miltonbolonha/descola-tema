@@ -2,7 +2,7 @@
 title: 'Qual a diferença entre sustentabilidade e desenvolvimento sustentável?'
 date: '2015-02-09T13:59:51+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'diferença entre'

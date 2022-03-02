@@ -2,7 +2,7 @@
 title: 'Transforme obstáculos em inovação'
 date: '2016-04-05T01:14:36+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

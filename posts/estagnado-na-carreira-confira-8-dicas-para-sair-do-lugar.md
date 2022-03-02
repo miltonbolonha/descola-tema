@@ -2,7 +2,7 @@
 title: 'Estagnado na carreira? Confira 8 dicas para sair do lugar'
 date: '2015-01-07T11:42:17+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'dicas para sair do lugar'

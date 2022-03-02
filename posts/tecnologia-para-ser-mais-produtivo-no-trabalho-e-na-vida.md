@@ -2,7 +2,7 @@
 title: 'Tecnologia para ser mais produtivo no trabalho e na vida'
 date: '2015-05-18T05:00:22+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'como ser mais produtivo'

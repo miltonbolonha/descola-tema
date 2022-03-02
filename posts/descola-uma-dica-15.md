@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #15: O Poder do Hábito (Charles Duhigg)'
 date: '2017-07-21T08:39:45+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

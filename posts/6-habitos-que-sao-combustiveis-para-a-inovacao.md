@@ -2,7 +2,7 @@
 title: '6 hábitos que são combustíveis para a inovação'
 date: '2015-07-13T13:40:27+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'criar um ambiente de inovação'

@@ -8,7 +8,7 @@ embed_code:
   - '<iframe width="560" height="315" src="https://www.youtube.com/embed/8WPNivwSeAc" frameborder="0" allowfullscreen></iframe>'
 aspect_ratio:
   - '1'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'dicas para carreira'

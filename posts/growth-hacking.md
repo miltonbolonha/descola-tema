@@ -2,7 +2,7 @@
 title: 'Growth Hacking: 5 ferramentas para crescer exponencialmente'
 date: '2018-02-09T20:19:39+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

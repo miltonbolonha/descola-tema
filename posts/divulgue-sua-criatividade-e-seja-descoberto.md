@@ -2,7 +2,7 @@
 title: 'Divulgue sua criatividade e seja descoberto!'
 date: '2015-08-24T10:10:02+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'como alavancar divulgação'

@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #16: Contágio &#8211; Por que as coisas pegam (Jonah Berger)'
 date: '2017-07-28T08:12:43+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Dicas para quem quer aprender a programar'
 date: '2016-04-18T09:11:55+00:00'
 author: 'Gustavo Paiva'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

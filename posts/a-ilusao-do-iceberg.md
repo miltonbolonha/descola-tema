@@ -2,7 +2,7 @@
 title: 'A ilusão do iceberg: o que há por trás do sucesso?'
 date: '2017-10-06T20:26:02+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

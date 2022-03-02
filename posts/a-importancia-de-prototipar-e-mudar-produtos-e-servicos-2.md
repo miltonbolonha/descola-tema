@@ -2,7 +2,7 @@
 title: 'A importância de prototipar e mudar produtos e serviços'
 date: '2016-01-04T10:16:11+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'modelo de negócios'

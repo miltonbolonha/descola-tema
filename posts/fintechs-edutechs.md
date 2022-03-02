@@ -2,7 +2,7 @@
 title: 'Como a tecnologia revoluciona o mercado financeiro e a educação'
 date: '2017-08-03T20:29:37+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

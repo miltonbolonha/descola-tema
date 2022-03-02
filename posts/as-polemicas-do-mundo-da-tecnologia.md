@@ -2,7 +2,7 @@
 title: 'As polêmicas do mundo da tecnologia'
 date: '2017-01-11T16:13:54+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

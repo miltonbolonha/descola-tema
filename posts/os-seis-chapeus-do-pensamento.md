@@ -2,7 +2,7 @@
 title: 'Os seis chapéus do pensamento'
 date: '2016-11-17T12:27:10+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

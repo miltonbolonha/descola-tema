@@ -2,7 +2,7 @@
 title: 'Mundo líquido distraído'
 date: '2016-10-27T17:33:33+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #14: Scrum para Escritores (Alexandre Heredia)'
 date: '2017-07-14T21:15:25+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

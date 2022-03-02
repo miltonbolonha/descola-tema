@@ -2,7 +2,7 @@
 title: '5 dicas para aumentar sua produtividade em cursos online'
 date: '2015-04-20T13:11:08+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aprender online'

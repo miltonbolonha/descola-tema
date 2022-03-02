@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #2: Shark Tank'
 date: '2017-04-21T08:42:20+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

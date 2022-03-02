@@ -2,7 +2,7 @@
 title: 'A importância de falhar rápido nos negócios'
 date: '2015-10-16T11:17:42+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

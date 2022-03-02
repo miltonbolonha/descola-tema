@@ -2,7 +2,7 @@
 title: 'Criatividade: uma habilidade do futuro'
 date: '2018-04-13T21:31:24+00:00'
 author: 'Tai Lacerda'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

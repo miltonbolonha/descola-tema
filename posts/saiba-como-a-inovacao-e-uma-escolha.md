@@ -2,7 +2,7 @@
 title: 'Saiba porque a inovação é uma escolha'
 date: '2015-10-05T18:55:48+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - inovação

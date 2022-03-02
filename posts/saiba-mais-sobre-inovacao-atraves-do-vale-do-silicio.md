@@ -2,7 +2,7 @@
 title: 'Saiba mais sobre inovação através do Vale do Silício'
 date: '2016-01-31T22:54:49+00:00'
 author: 'Caio Casseb'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - DIcas

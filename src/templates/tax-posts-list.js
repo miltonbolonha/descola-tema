@@ -48,6 +48,7 @@ const TagsList = (props) => {
 			<FooterBlock
 				placeholderImg={props.data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
+				featurePosts={props.data.allMarkdownRemark.edges}
 			/>
 		</Layout>
 	)
@@ -74,6 +75,16 @@ export const query = graphql`
 									height: 224
 									placeholder: DOMINANT_COLOR
 									quality: 90
+								)
+							}
+						}
+						footerFeaturedImage: featuredImage {
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 76
+									height: 76
+									placeholder: DOMINANT_COLOR
+									quality: 70
 								)
 							}
 						}

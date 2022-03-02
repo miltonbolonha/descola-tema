@@ -2,7 +2,7 @@
 title: 'Soluções criativas para os desafios do mercado'
 date: '2016-12-01T15:49:29+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

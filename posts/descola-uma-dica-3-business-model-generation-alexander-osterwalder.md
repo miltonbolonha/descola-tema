@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #3: Business Model Generation (Alexander Osterwalder)'
 date: '2017-04-28T08:40:12+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

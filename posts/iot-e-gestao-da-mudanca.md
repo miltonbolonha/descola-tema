@@ -2,7 +2,7 @@
 title: 'A gestão do futuro com a Internet das Coisas'
 date: '2018-08-31T21:49:25+00:00'
 author: 'Tai Lacerda'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

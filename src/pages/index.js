@@ -49,6 +49,7 @@ const IndexPage = ({ data }) => {
 			<FooterBlock
 				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
+				featurePosts={data.allMarkdownRemark.edges}
 			/>
 		</Layout>
 	)
@@ -88,6 +89,16 @@ export const queryAtividade = graphql`
 									height: 224
 									placeholder: DOMINANT_COLOR
 									quality: 90
+								)
+							}
+						}
+						footerFeaturedImage: featuredImage {
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 76
+									height: 76
+									placeholder: DOMINANT_COLOR
+									quality: 70
 								)
 							}
 						}

@@ -2,7 +2,7 @@
 title: 'Como foi o ano de 2015 para a Descola'
 date: '2015-12-14T08:15:38+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'ano de 2015'

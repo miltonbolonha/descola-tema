@@ -2,7 +2,7 @@
 title: 'Gamification: você já joga e não sabia'
 date: '2018-06-15T19:55:43+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #7: Como encontrar o trabalho da sua vida (Roman Krznaric)'
 date: '2017-05-26T18:07:18+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

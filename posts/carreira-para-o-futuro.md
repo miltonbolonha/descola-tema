@@ -2,7 +2,7 @@
 title: 'Desenhe sua carreira para o futuro'
 date: '2018-12-19T15:54:47+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Branding: a marca além do seu produto'
 date: '2018-10-25T22:15:51+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

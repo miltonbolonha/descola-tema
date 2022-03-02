@@ -60,7 +60,7 @@ exports.createPages = ({ graphql, actions }) => {
 							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
 							title
 							author
-							featuredpost
+							featuredPost
 							templatekey
 							tags
 							featuredImage {

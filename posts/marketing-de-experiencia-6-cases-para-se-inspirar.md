@@ -2,7 +2,7 @@
 title: 'Marketing de experiência: 6 cases para se inspirar'
 date: '2017-08-24T22:04:15+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

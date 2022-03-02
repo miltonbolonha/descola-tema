@@ -2,7 +2,7 @@
 title: 'A economia criativa no mundo moderno'
 date: '2016-07-07T14:44:37+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

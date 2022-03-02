@@ -2,7 +2,7 @@
 title: 'A importância do design na comunicação da empresa'
 date: '2015-07-06T13:56:10+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'curso descola'

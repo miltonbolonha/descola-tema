@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #10: House Of Cards'
 date: '2017-06-16T08:47:55+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

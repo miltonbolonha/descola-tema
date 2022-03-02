@@ -2,7 +2,7 @@
 title: 'Organize sua vida profissional com um Bullet Journal'
 date: '2018-11-22T18:38:08+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

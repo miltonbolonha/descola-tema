@@ -2,7 +2,7 @@
 title: 'Storytelling na publicidade: 4 cases de sucesso'
 date: '2017-11-17T20:45:41+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

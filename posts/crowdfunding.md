@@ -2,7 +2,7 @@
 title: 'Financiando seu negócio: crowdfunding'
 date: '2017-06-07T20:22:51+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Inovação tecnológica: descubra como essa ferramenta é aliada ao empreendedor'
 date: '2015-06-10T10:01:56+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'como a inovação tecnológica pode ajudar o empreendedor'

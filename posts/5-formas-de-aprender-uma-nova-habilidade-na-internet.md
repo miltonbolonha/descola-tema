@@ -2,7 +2,7 @@
 title: '5 formas de aprender uma nova habilidade online'
 date: '2014-12-15T12:07:05+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aprender uma nova habilidade na internet'

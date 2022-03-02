@@ -14,7 +14,7 @@ new_tab:
   - '0'
 link_image_background:
   - ''
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'cursos online'

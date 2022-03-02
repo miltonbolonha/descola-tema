@@ -2,7 +2,7 @@
 title: 'Homens X Máquinas: você está preparado?'
 date: '2016-11-01T17:32:29+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

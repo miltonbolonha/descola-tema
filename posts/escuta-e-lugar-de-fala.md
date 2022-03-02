@@ -2,7 +2,7 @@
 title: 'ESCUTA E LUGAR DE FALA'
 date: '2021-05-25T14:56:00+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - comunicação

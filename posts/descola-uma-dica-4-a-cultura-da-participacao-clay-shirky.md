@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #4: A Cultura da Participação (Clay Shirky)'
 date: '2017-05-05T08:58:24+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: '5 ferramentas de growth hacking essenciais para sua startup'
 date: '2015-04-06T06:07:44+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'growth hacking'

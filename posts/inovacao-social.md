@@ -2,7 +2,7 @@
 title: 'Inovação social: mudando a vida das pessoas'
 date: '2018-01-24T21:14:31+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

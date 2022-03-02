@@ -2,7 +2,7 @@
 title: 'O estado de fluxo e a felicidade no trabalho'
 date: '2015-06-24T08:02:07+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - criatividade

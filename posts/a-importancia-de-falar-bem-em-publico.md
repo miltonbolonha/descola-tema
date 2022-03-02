@@ -2,7 +2,7 @@
 title: 'A importância de falar bem em público'
 date: '2016-09-21T15:26:40+00:00'
 author: 'André Tanesi'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - negócios

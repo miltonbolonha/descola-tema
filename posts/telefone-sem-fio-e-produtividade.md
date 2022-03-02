@@ -2,7 +2,7 @@
 title: 'TELEFONE SEM FIO? E PRODUTIVIDADE..'
 date: '2021-05-17T20:35:00+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - comunicação

@@ -2,7 +2,7 @@
 title: '5 jovens empreendedores para se inspirar'
 date: '2016-02-22T01:51:45+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'Dicas de Empreendedorismo'

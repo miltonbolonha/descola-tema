@@ -2,7 +2,7 @@
 title: '5 motivos para não parar de aprender nunca'
 date: '2015-01-14T13:20:47+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aprender sempre'

@@ -2,7 +2,7 @@
 title: 'Mentalidade Ágil: Um novo jeito de enxergar oportunidades de crescimento'
 date: '2020-04-06T07:22:58+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - adaptabilidade

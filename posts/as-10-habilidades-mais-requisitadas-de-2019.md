@@ -2,7 +2,7 @@
 title: 'As 10 habilidades mais requisitadas de 2019'
 date: '2019-02-01T14:18:00+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

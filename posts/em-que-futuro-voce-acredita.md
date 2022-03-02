@@ -2,7 +2,7 @@
 title: 'Em que futuro você acredita?'
 date: '2020-03-02T09:29:18+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

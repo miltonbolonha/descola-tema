@@ -2,7 +2,7 @@
 title: 'A importância da pesquisa para entender o consumidor'
 date: '2017-11-24T21:21:01+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

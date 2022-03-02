@@ -2,7 +2,7 @@
 title: 'O que a Internet das Coisas pode fazer pelo seu negócio?'
 date: '2017-05-11T20:16:41+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

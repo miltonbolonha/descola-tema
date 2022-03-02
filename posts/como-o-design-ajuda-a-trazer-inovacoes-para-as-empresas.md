@@ -2,7 +2,7 @@
 title: 'Como o design ajuda a trazer inovações para as empresas'
 date: '2015-02-02T13:05:18+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'design ajuda a trazer inovações'

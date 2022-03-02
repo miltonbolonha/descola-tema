@@ -2,7 +2,7 @@
 title: '6 tendências no empreendedorismo para 2015'
 date: '2014-12-11T12:34:27+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - empreendedorismo

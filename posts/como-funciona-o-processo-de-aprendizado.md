@@ -2,7 +2,7 @@
 title: 'Como funciona o processo de aprendizado?'
 date: '2015-12-07T08:38:20+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - aprendizado

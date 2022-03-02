@@ -2,7 +2,7 @@
 title: 'A importância do design para as startups'
 date: '2016-06-14T11:30:37+00:00'
 author: 'Daniel Pasqualucci'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - design

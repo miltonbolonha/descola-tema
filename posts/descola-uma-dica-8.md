@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #8: Smart Cities (Anthony Townsend)'
 date: '2017-06-02T08:42:19+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

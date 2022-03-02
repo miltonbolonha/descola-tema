@@ -2,7 +2,7 @@
 title: 'Pessoal X Profissional: qual seu propósito?'
 date: '2018-03-27T22:25:38+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Entenda a importância do design criativo para o mercado empreendedor'
 date: '2015-08-10T15:51:21+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'design criativo'

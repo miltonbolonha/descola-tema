@@ -2,7 +2,7 @@
 title: 'Um robô poderia fazer o seu trabalho?'
 date: '2017-05-31T20:54:47+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

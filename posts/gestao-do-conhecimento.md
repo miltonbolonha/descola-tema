@@ -2,7 +2,7 @@
 title: 'Gestão do conhecimento: o que é e como pode ajudar na carreira'
 date: '2015-05-20T11:07:29+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

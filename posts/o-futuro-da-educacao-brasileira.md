@@ -2,7 +2,7 @@
 title: 'O futuro da educação brasileira'
 date: '2017-01-23T16:48:03+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'A economia criativa cresce e transforma o setor produtivo.'
 date: '2015-04-29T08:50:30+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'economia criativa'

@@ -2,7 +2,7 @@
 title: 'A importância de prototipar e mudar produtos e serviços'
 date: '2015-03-16T14:45:19+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'mudar produtos'

@@ -2,7 +2,7 @@
 title: 'POWER SKILLS &#8211; As habilidades que vão te fazer chegar mais longe'
 date: '2020-05-14T13:25:44+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'aprender online'

@@ -2,7 +2,7 @@
 title: 'Se a vida te der limões, não faça uma limonada'
 date: '2018-05-25T21:15:09+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Design Thinking: como você e sua empresa podem inovar com ele'
 date: '2015-04-16T10:15:34+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'desafios de negócios'

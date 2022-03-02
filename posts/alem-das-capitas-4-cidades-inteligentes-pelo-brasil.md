@@ -2,7 +2,7 @@
 title: 'Além das capitais: 4 cidades inteligentes pelo Brasil'
 date: '2017-09-01T22:05:24+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

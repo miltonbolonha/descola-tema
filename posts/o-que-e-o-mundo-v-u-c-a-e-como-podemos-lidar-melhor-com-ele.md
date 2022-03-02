@@ -2,7 +2,7 @@
 title: 'O que é o mundo V.U.C.A e como podemos lidar melhor com ele.'
 date: '2016-03-22T14:22:43+00:00'
 author: 'Caio Casseb'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

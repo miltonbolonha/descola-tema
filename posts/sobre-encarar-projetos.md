@@ -2,7 +2,7 @@
 title: 'O que Lucia Laguna pode te ensinar sobre encarar projetos.'
 date: '2019-01-11T13:13:46+00:00'
 author: 'Stella Seixas'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

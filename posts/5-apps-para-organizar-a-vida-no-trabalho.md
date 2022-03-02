@@ -2,7 +2,7 @@
 title: '5 apps para organizar a vida no trabalho'
 date: '2015-03-02T14:45:51+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'app para organização'

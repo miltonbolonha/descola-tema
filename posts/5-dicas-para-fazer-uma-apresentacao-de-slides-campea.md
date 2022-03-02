@@ -2,7 +2,7 @@
 title: '5 dicas para fazer uma apresentação de slides campeã'
 date: '2015-07-01T11:49:41+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'apresentação de slide'

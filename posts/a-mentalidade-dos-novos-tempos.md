@@ -2,7 +2,7 @@
 title: 'A mentalidade dos novos tempos'
 date: '2020-03-09T08:49:37+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

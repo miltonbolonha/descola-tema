@@ -2,7 +2,7 @@
 title: 'Empreender é resolver problemas'
 date: '2015-06-01T10:26:31+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'business model canvas'

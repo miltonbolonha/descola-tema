@@ -2,7 +2,7 @@
 title: 'O que seu negócio pode aprender com o jardim de infância'
 date: '2018-09-20T19:56:16+00:00'
 author: 'Tai Lacerda'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

@@ -2,7 +2,7 @@
 title: 'Quem não gosta de pesquisa, bom sujeito não é (ou tá pesquisando errado)'
 date: '2016-10-04T13:00:18+00:00'
 author: 'Caio Casseb'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - pesquisa

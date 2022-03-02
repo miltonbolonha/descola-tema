@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #5: Líderes Visuais (David Sibbet)'
 date: '2017-05-12T08:21:56+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

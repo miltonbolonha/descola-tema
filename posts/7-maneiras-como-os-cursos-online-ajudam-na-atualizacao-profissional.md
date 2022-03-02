@@ -2,7 +2,7 @@
 title: '7 maneiras como os cursos online ajudam na atualização profissional'
 date: '2014-12-01T14:58:19+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'cursos online'

@@ -2,7 +2,7 @@
 title: 'A importância de ser um profissional multidisciplinar'
 date: '2016-12-12T17:36:42+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

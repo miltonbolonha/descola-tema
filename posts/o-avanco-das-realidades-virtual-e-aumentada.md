@@ -2,7 +2,7 @@
 title: 'O avanço das realidades virtual e aumentada'
 date: '2017-03-07T14:16:47+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

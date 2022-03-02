@@ -2,7 +2,7 @@
 title: 'Business Model Canvas: ferramenta essencial para começar uma startup'
 date: '2015-04-27T07:25:39+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'business model'

@@ -2,7 +2,7 @@
 title: 'Aprender pela internet: um relato pessoal.'
 date: '2015-01-15T12:03:20+00:00'
 author: 'Caio Casseb'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

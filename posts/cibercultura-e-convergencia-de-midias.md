@@ -2,7 +2,7 @@
 title: 'O universo da cibercultura e da convergência de mídias'
 date: '2017-04-05T22:06:02+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

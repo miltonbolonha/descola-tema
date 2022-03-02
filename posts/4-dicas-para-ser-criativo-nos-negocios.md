@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam se
 date: 2015-02-23T17:45:20+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredpost: false
+featuredPost: false
 featuredImage: ../static/images/photo-1416339306562-f3d12fefd36f.jpg
 tags:
   - criativo nos negócios

@@ -2,7 +2,7 @@
 title: 'Descola Uma Dica #6: O Guia Completo do Storytelling (Martha Terenzzo)'
 date: '2017-05-19T17:25:55+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

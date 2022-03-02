@@ -2,7 +2,7 @@
 title: 'Revolução Maker'
 date: '2016-05-16T15:07:03+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - geral

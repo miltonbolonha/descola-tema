@@ -2,7 +2,7 @@
 title: '5 CURSOS PARA VOCÊ APRENDER A SER MAIS PRODUTIVO'
 date: '2021-09-13T09:34:00+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'cursos online'

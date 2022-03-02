@@ -2,7 +2,7 @@
 title: '12 atitudes que diferenciam o bom líder do chefe medíocre'
 date: '2015-11-03T21:51:05+00:00'
 author: 'Equipe Descola'
-featuredpost: false
+featuredPost: false
 templatekey: blog-post
 tags:
   - 'como liderar'
