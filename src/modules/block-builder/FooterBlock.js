@@ -103,7 +103,6 @@ const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
 				<div className="footer-column-blog">
 					<h3>Blog da escola</h3>
 					{featurePosts.slice(0, 3).map((eachPost, i) => {
-						console.log(eachPost.node.frontmatter)
 						return (
 							<Link
 								to={`${eachPost.node.fields.slug}`}
