@@ -35,7 +35,7 @@ const LayoutResolver = ({
 			// case 'BLOCK_SHARE':
 			// return <BlockShareContainer opt={opt} />
 			case 'HEADER':
-				return <HeaderContainer heroData={opt} logo={logo} opt={opt} />
+				return <HeaderContainer logo={logo} opt={opt} />
 			case 'ROW':
 				return (
 					<RowContainer

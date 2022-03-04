@@ -5,13 +5,12 @@ import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
-
+import HeaderBlock from '../modules/block-builder/HeaderBlock'
 import FooterBlock from '../modules/block-builder/FooterBlock'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const IndexPage = ({ data }) => {
 	const posts = data.allMarkdownRemark.edges
-	const postsPerPage = 5
 	return (
 		<Layout
 			type="BODY"
@@ -20,13 +19,7 @@ const IndexPage = ({ data }) => {
 				classes: 'blog-list',
 			}}
 		>
-			<Layout
-				type="HEADER"
-				opt={{
-					mainMenu: true,
-					logoSvg: <DescolaLogo />,
-				}}
-			/>
+			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
@@ -35,7 +28,7 @@ const IndexPage = ({ data }) => {
 					<h1>Posts</h1>
 
 					<PostsBlock
-						postsPerPage={postsPerPage}
+						postsPerPage={data.site.siteMetadata.postsPerPage}
 						postList={posts}
 						typeLoad={'push'} // or false
 						readMoreText="Mais Posts"
@@ -61,15 +54,7 @@ export const queryAtividade = graphql`
 	query {
 		site {
 			siteMetadata {
-				title
-				description
-				siteUrl
-				social {
-					instagram
-					facebook
-					twitter
-					youtube
-				}
+				postsPerPage
 			}
 		}
 

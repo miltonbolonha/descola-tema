@@ -6,7 +6,7 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
-
+import HeaderBlock from '../modules/block-builder/HeaderBlock'
 import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const TagsList = (props) => {
@@ -20,13 +20,7 @@ const TagsList = (props) => {
 				classes: 'blog-list',
 			}}
 		>
-			<Layout
-				type="HEADER"
-				opt={{
-					mainMenu: true,
-					logoSvg: <DescolaLogo />,
-				}}
-			/>
+			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
@@ -35,14 +29,13 @@ const TagsList = (props) => {
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
 					<PostsBlock
 						postList={tagList}
-						postsPerPage={5}
+						postsPerPage={props.data.site.siteMetadata.postsPerPage}
 						readMoreText="Mais Posts"
 						pagination={{
 							loadMoreBtn: true,
 							loadMore: 'Carregar Mais',
 						}}
 					/>
-					<Link to="/tags">All tags</Link>
 				</main>
 			</Layout>
 			<FooterBlock
@@ -55,6 +48,12 @@ const TagsList = (props) => {
 }
 export const query = graphql`
 	query TagsList($tag: String) {
+		site {
+			siteMetadata {
+				postsPerPage
+			}
+		}
+
 		allMarkdownRemark(
 			sort: { fields: frontmatter___date, order: DESC }
 			filter: { frontmatter: { tags: { in: [$tag] } } }
@@ -79,7 +78,7 @@ export const query = graphql`
 							}
 						}
 					}
-					excerpt(pruneLength: 300)
+					excerpt(pruneLength: 200)
 				}
 			}
 		}

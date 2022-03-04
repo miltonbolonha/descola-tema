@@ -17,6 +17,7 @@ const HeaderContainer = ({ logo, opt }) => {
 			handleRefState={handleRefState}
 			logoComponent={logoHeader}
 			mainMenu={hasMainMenu}
+			logoUrl={opt.logoUrl}
 		/>
 	)
 }

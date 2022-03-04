@@ -13,6 +13,7 @@ module.exports = {
 		author: businessInfos.author,
 		siteUrl: businessInfos.siteUrl,
 		image: `${__dirname}/static/images/descola-logo.svg`,
+		postsPerPage: businessInfos.postsPerPage,
 		coauthor: {
 			name: businessInfos.coauthor,
 			minibio: businessInfos.coauthordesc,

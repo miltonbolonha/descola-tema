@@ -36,9 +36,12 @@
 			.footer-infos{
 				padding-left: 5px;
 
-				.footer-headset svg{
-					font-size:30px;
-				}
+				.footer-headset {
+					display: flex;
+					svg{
+					font-size:24px;
+					margin-right: 10px;
+				}}
 			}
 		}
 	}

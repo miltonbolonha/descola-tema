@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-// import MenuHamburgerIcon from '../../../../static/images/menu-hamburger.svg'
 import MenuContainer from '../containers/MenuContainer'
 import Layout from '..'
 import { FiUser } from 'react-icons/fi'
@@ -12,9 +11,9 @@ const Header = ({
 	mainMenu,
 	logoComponent,
 	logoSvg,
+	logoUrl,
 }) => {
 	const menuActive = refState ? 'visible' : 'not-visible'
-	// console.log(mainMenu)
 	return (
 		<header>
 			<Layout
@@ -25,15 +24,17 @@ const Header = ({
 					classes: 'mobile-header mobile-only',
 				}}
 			>
-				<Link to="/" className="logo-link">
-					{logoSvg}
-				</Link>
+				{logoUrl ? (
+					<a href="https://descola.org/" className="logo-link">
+						{logoSvg}
+					</a>
+				) : (
+					<Link to="/" className="logo-link">
+						{logoSvg}
+					</Link>
+				)}
 				<div className={'main-header main-header-' + menuActive}>
-					{/* {mainMenu ? ( */}
 					<MenuContainer refState={refState} handleRefState={handleRefState} />
-					{/* ) : null} */}
-
-					{/* {mainMenu ? ( */}
 					<div className="header-columns toggle-menu">
 						<p className="menu-shop-bag-mobile">
 							<FiUser />
@@ -51,12 +52,10 @@ const Header = ({
 							className={`menu-wrapper ${refState ? 'active' : 'not-active'}`}
 						>
 							<div className="menu-bar-icon mobile-only">
-								{/* className="hamburger-icon " */}
 								<GiHamburgerMenu />
 							</div>
 						</label>
 					</div>
-					{/* ) : null} */}
 				</div>
 			</Layout>
 			<Layout type="ROW" opt={{ bgColor: '#e9e9ed', isBoxed: false }}>
@@ -70,7 +69,6 @@ const Header = ({
 				>
 					<p>Login / Registre-se</p>
 				</Layout>
-				{/* <HeaderBlock logotipoImg={} /> */}
 			</Layout>
 			<Layout
 				type="ROW"
@@ -81,9 +79,15 @@ const Header = ({
 				}}
 			>
 				<Layout type="ROW" opt={{ isBoxed: true, classes: 'header-logo' }}>
-					<Link to="/" className="logo-link">
-						{logoSvg}
-					</Link>
+					{logoUrl ? (
+						<a href="https://descola.org/" className="logo-link">
+							{logoSvg}
+						</a>
+					) : (
+						<Link to="/" className="logo-link">
+							{logoSvg}
+						</Link>
+					)}
 					<nav className="main-nav desktop-only">
 						<ul className="main-ul">
 							<li>
@@ -106,10 +110,6 @@ const Header = ({
 									type="SUBSCRIBE"
 									opt={{ placeholder: 'Procure um curso' }}
 								/>
-								{/* <input type="text" placeholder="Procure um curso" /> */}
-								{/* <a href={'https://descola.org/cursos?search='}>
-									<RiSearchLine />
-								</a> */}
 							</li>
 						</ul>
 					</nav>

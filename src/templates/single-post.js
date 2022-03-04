@@ -6,6 +6,7 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
 import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
+import HeaderBlock from '../modules/block-builder/HeaderBlock'
 
 const SinglePost = ({ data }) => {
 	const post = data.markdownRemark
@@ -17,13 +18,7 @@ const SinglePost = ({ data }) => {
 				classes: 'single-post',
 			}}
 		>
-			<Layout
-				type="HEADER"
-				opt={{
-					mainMenu: true,
-					logoSvg: <DescolaLogo />,
-				}}
-			/>
+			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{
@@ -79,6 +74,12 @@ const SinglePost = ({ data }) => {
 
 export const query = graphql`
 	query SinglePost($slug: String!) {
+		site {
+			siteMetadata {
+				postsPerPage
+			}
+		}
+
 		markdownRemark(fields: { slug: { eq: $slug } }) {
 			frontmatter {
 				title
@@ -133,7 +134,7 @@ export const query = graphql`
 							}
 						}
 					}
-					excerpt(pruneLength: 300)
+					excerpt(pruneLength: 200)
 				}
 			}
 		}
