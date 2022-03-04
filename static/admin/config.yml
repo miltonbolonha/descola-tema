@@ -5,20 +5,21 @@ backend:
 
 local_backend: true
 media_folder: /static/images
-public_folder: /images
+public_folder: /public
 
 collections:
-  - name: "blog"
-    label: "Blog"
+  - name: "post"
+    label: "Posts"
     folder: "posts"
     create: true
     slug: "{{slug}}"
-    path: '/{{slug}}'
+    path: '{{slug}}'
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string" }
       - { label: "Featured Post", name: "featuredPost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredImage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
