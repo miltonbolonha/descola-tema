@@ -23,7 +23,9 @@ E uma dessas habilidades volta-se diretamente para a maneira como percebemos o p
 
 Usamos o **passado** como guia para ações que fazemos no **presente**, que acabam influenciando o jeito que imaginamos o **futuro**. Por essa razão, entender nossa concepção de tempo requer olhar para a definição desses três caras aqui:
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.08.19-1024x900.png)</figure>Nem todo mundo vê a mesma coisa quando olha para o futuro, afinal, existem muitos conceitos do que ele é. Estudar, ver e entender o futuro nunca foi uma questão de adivinhação, e nem uma ciência exata.
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.08.19-1024x900.png)</figure>Nem todo mundo vê a mesma coisa quando olha para o futuro, afinal, existem muitos conceitos do que ele é. Estudar, ver e entender o futuro nunca foi uma questão de adivinhação, e nem uma ciência exata.
 
 **Você já parou para pensar no que é futuro para você?**
 
@@ -31,13 +33,22 @@ A forma como enxergamos o futuro é fruto de construções sociais de diferentes
 
 O pensador Raymond Williams, responsável por uma série de análises acerca da teoria cultural contemporânea, classifica as narrativas culturais da sociedade em três categorias:
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.10.05-1024x197.png)</figure>- **AMOR:** antigamente, acreditava-se na ideia de que há um amor para sua vida toda, uma alma gêmea, que jamais poderá ser separada de sua cara metade. Tipo amor impossível de novela que sempre acaba ficando junto, sabe?
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.10.05-1024x197.png)</figure>- **AMOR:** antigamente, acreditava-se na ideia de que há um amor para sua vida toda, uma alma gêmea, que jamais poderá ser separada de sua cara metade. Tipo amor impossível de novela que sempre acaba ficando junto, sabe?
+
 - **TRABALHO:** algumas das gerações tinham como ideal de carreira trabalhar em grandes empresas corporativas, crescendo e permanecendo dentro delas por no mínimo dez anos. Era comum acreditar que o fato de um profissional ter conseguido permanecer naquela empresa por tanto tempo fazia dele um profissional ainda mais confiável e competente.
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.11.23-1024x195.png)</figure>- **AMOR:** o casamento hoje é algo ainda desejável, mas que pode ser anulado em caso de problemas. Já não mais se acredita na união eterna de duas pessoas ou na honra quase que irracional de se manter relacionamentos que não fazem mais sentido para as duas partes como antigamente.
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.11.23-1024x195.png)</figure>- **AMOR:** o casamento hoje é algo ainda desejável, mas que pode ser anulado em caso de problemas. Já não mais se acredita na união eterna de duas pessoas ou na honra quase que irracional de se manter relacionamentos que não fazem mais sentido para as duas partes como antigamente.
+
 - **TRABALHO:** as pessoas começaram a perceber que mudar de emprego com alguma frequência poderia ser uma coisa positiva, uma oportunidade de crescimento, desenvolvimento e até um sinal de adaptabilidade e ambição.
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.11.32-1024x192.png)</figure>- **AMOR:** está caindo a ficha de que talvez a gente nem precise se casar para ter uma família, ou que podemos nos relacionar com mais de uma pessoa ao mesmo tempo em relações abertas ou poliamorosas. O ideal do amor agora tem muito mais a ver com fluidez e liberdade.
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.11.32-1024x192.png)</figure>- **AMOR:** está caindo a ficha de que talvez a gente nem precise se casar para ter uma família, ou que podemos nos relacionar com mais de uma pessoa ao mesmo tempo em relações abertas ou poliamorosas. O ideal do amor agora tem muito mais a ver com fluidez e liberdade.
+
 - **TRABALHO:** a área profissional está seguindo um fluxo parecido com o do amor. A onda atual são os novos formatos de trabalho, a autonomia das startups e do trabalho freelance, que revelam a necessidade de independência e liberdade das novas gerações.
 
 Você vai notar que estas narrativas podem ser observadas dentro de diversos contextos: amor, família, moradia, trabalho etc., e que todos os exemplos apresentam padrões muito interessantes. Estes padrões dizem muito sobre a evolução das gerações e suas concepções do mundo.
@@ -77,7 +88,9 @@ Partindo daí, é importante que você saiba que a pesquisa de tendências não 
 
 É possível olhar para o futuro por dois focos:
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.05.48-1024x670.png)</figure>Aqui, nosso foco são os *near* futures, aqueles que podemos mapear e observar suas primeiras manifestações com facilidade.
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-27-a%CC%80s-12.05.48-1024x670.png)</figure>Aqui, nosso foco são os _near_ futures, aqueles que podemos mapear e observar suas primeiras manifestações com facilidade.
 
 Agora que já refletimos sobre o futuro, você vai entender o papel do pesquisador de tendências no meio disso tudo e sua verdadeira relação com o futuro na prática. Pronto?
 

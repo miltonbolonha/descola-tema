@@ -50,6 +50,7 @@ const IndexPage = ({ data }) => {
 				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
+				postsForTags={posts}
 			/>
 		</Layout>
 	)

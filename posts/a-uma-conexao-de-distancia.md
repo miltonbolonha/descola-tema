@@ -17,7 +17,9 @@ Poderíamos dizer uma infinidade de coisas sobre o trabalho remoto. Por exemplo,
 
 Já era possível trabalhar de qualquer lugar do mundo e muitas vezes fazíamos isso sem perceber!
 
-<figure class="wp-block-image size-large">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195226/Captura-de-Tela-2021-05-13-a%CC%80s-16.51.41.png)</figure>Com o avanço da tecnologia acontecendo de forma exponencial, trabalhar fora das paredes do escritório foi ficando mais comum e era uma das grandes tendências do mercado de trabalho para os próximos anos.
+<figure class="wp-block-image size-large">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195226/Captura-de-Tela-2021-05-13-a%CC%80s-16.51.41.png)</figure>Com o avanço da tecnologia acontecendo de forma exponencial, trabalhar fora das paredes do escritório foi ficando mais comum e era uma das grandes tendências do mercado de trabalho para os próximos anos.
 
 É certo que empresas já experimentavam o formato híbrido. Fosse de forma a liberar o home office em alguns dias da semana. Ou com um modelo baseado em ter algumas pessoas direto no escritório, enquanto outras ficavam 100% remotas.
 
@@ -47,19 +49,25 @@ De forma rápida e simples: `<span class="has-inline-color has-luminous-vivid-am
 
 <div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:100%">### ANYWHERE OFFICE
 
-</div></div><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image size-large is-resized">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195422/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.00.png)</figure></div></div> Essa forma de trabalho acontece quando é possível **trabalhar de qualquer lugar do mundo** que quiser. Seja um resort em Bangladesh, um café em Nova Iorque ou em um hotel fazenda enquanto as crianças andam à cavalo.
+</div></div><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image size-large is-resized">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195422/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.00.png)</figure></div></div> Essa forma de trabalho acontece quando é possível **trabalhar de qualquer lugar do mundo** que quiser. Seja um resort em Bangladesh, um café em Nova Iorque ou em um hotel fazenda enquanto as crianças andam à cavalo.
 
 A questão aqui é que você pode ficar se mudando ou em um lugar só, não importa nem o que você faz. O que importa é que tem a liberdade de trabalhar de qualquer lugar do mundo e tudo bem desde que tenha uma conexão com a internet.
 
 ### HOME OFFICE
 
-<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image size-large is-resized">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195807/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.15.png)</figure></div></div>Esse trabalho remoto, por sua vez, tem um lugar bem conhecido para acontecer: **a sua casa**. Nessa modalidade, não importa o que você faça, desde que seja entre as paredes da sua casa. É uma das modalidades mais comuns de trabalho remoto.
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image size-large is-resized">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195807/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.15.png)</figure></div></div>Esse trabalho remoto, por sua vez, tem um lugar bem conhecido para acontecer: **a sua casa**. Nessa modalidade, não importa o que você faça, desde que seja entre as paredes da sua casa. É uma das modalidades mais comuns de trabalho remoto.
 
 Roupas sujas de um lado, crianças correndo de outro, mas o conforto de estar no próprio ambiente, perto das pessoas que ama.
 
 ### TELETRABALHO
 
-<figure class="wp-block-image size-large is-resized">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195855/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.22.png)</figure>Esse nome é um pouco mais raro de ouvir, mas também está muito presente. É quando o trabalho consiste **primariamente** em ligações. Seja por telefone ou plataforma virtual. Seja por áudio ou por vídeo. **A palavra da vez aqui é chamada**. Do jeito que for, quando for, mas sempre chamadas.
+<figure class="wp-block-image size-large is-resized">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195855/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.22.png)</figure>Esse nome é um pouco mais raro de ouvir, mas também está muito presente. É quando o trabalho consiste **primariamente** em ligações. Seja por telefone ou plataforma virtual. Seja por áudio ou por vídeo. **A palavra da vez aqui é chamada**. Do jeito que for, quando for, mas sempre chamadas.
 
 ### MODELOS HÍBRIDOS
 

@@ -16,21 +16,29 @@ Existem cinco pilares fundamentais para caracterizar o design de serviço segund
 
 Esses pontos são guias para um modo de pensar e trabalhar, estão vamos ver quais são. 😉
 
-<figure class="wp-block-image size-large">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170427/Captura-de-Tela-2021-05-14-a%CC%80s-14.04.12.png)</figure>Esse é o **primeiro e mais importante princípio.** O serviço é feito para o usuário, portanto é essencial que seja experimentado pelas lentes do consumidor. Todos nós somos consumidores, porém com diferentes necessidades e modos de pensar. É no processo de entender e revelar os diferentes pontos de vista que o [design de serviços](https://descola.org/design-de-servicos) começa.
+<figure class="wp-block-image size-large">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170427/Captura-de-Tela-2021-05-14-a%CC%80s-14.04.12.png)</figure>Esse é o **primeiro e mais importante princípio.** O serviço é feito para o usuário, portanto é essencial que seja experimentado pelas lentes do consumidor. Todos nós somos consumidores, porém com diferentes necessidades e modos de pensar. É no processo de entender e revelar os diferentes pontos de vista que o [design de serviços](https://descola.org/design-de-servicos) começa.
 
 **Empatia e compreensão** sobre o usuário permitem insights essenciais que influenciam diretamente nos serviços e processos. Portanto, é importante entender expectativas, comportamentos, processo de decisão, valores culturais e pessoais e crenças, além de tantos outros fatores que possam influenciar o consumidor.
 
-<figure class="wp-block-image size-large">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170539/Captura-de-Tela-2021-05-14-a%CC%80s-14.05.27.png)</figure>**Todos stakeholders devem ser incluídos no processo.** Designers de serviço constroem conscientemente um ambiente que facilita a geração de ideias e a fluidez entre grupos heterogêneos de pessoas. Quanto mais um cliente é envolvido no processo de construção de um serviço, maior a probabilidade de aumento na lealdade ao serviço e no relacionamento de longo prazo.
+<figure class="wp-block-image size-large">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170539/Captura-de-Tela-2021-05-14-a%CC%80s-14.05.27.png)</figure>**Todos stakeholders devem ser incluídos no processo.** Designers de serviço constroem conscientemente um ambiente que facilita a geração de ideias e a fluidez entre grupos heterogêneos de pessoas. Quanto mais um cliente é envolvido no processo de construção de um serviço, maior a probabilidade de aumento na lealdade ao serviço e no relacionamento de longo prazo.
 
 No entanto, além do usuário, é importante que todos envolvidos no processo estejam engajados, desde os níveis mais altos da empresa. Dessa forma é possível ter espaço para criatividade e determinação para encontrar soluções inovadoras.
 
-<figure class="wp-block-image size-large">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170632/Captura-de-Tela-2021-05-14-a%CC%80s-14.06.21.png)</figure>O serviço deve ser visualizado como uma sequência de ações inter-relacionadas, **uma jornada**. Afinal, o trabalho de um influencia no trabalho do outro e do outro, impactando na experiência do colaborador e do usuário.
+<figure class="wp-block-image size-large">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170632/Captura-de-Tela-2021-05-14-a%CC%80s-14.06.21.png)</figure>O serviço deve ser visualizado como uma sequência de ações inter-relacionadas, **uma jornada**. Afinal, o trabalho de um influencia no trabalho do outro e do outro, impactando na experiência do colaborador e do usuário.
 
 Pense no serviço como um filme: contém uma série de fotografias estáticas, que combinadas formam uma sequência animada. Todo serviço segue etapas de transição, desde o período pré serviço, durante o serviço e a etapa posterior ao serviço.
 
 Os momentos devem ser orquestrados para alcançar um ritmo agradável para o cliente e para todos os outros envolvidos.
 
-<figure class="wp-block-image size-large">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170742/Captura-de-Tela-2021-05-14-a%CC%80s-14.07.32.png)</figure>**Visualizar uma coisa a torna mais real.**
+<figure class="wp-block-image size-large">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170742/Captura-de-Tela-2021-05-14-a%CC%80s-14.07.32.png)</figure>**Visualizar uma coisa a torna mais real.**
 
 Pense no seu orçamento do mês, o que você pode fazer com o seu salário. Agora pense nas vezes que você quis comprar uma coisa (ou umas coisas). De cabeça parecia que ia dar certo, mas quando chegou a conta… a ficha caiu e a conta estourou.
 
@@ -38,7 +46,9 @@ Serviços intangíveis são visualizados através de artefatos tangíveis. Qualq
 
 Boas evidências prolongam essas sensações nos clientes e isso é uma ótima maneira de seu serviço ser recomendado a outras pessoas.
 
-<figure class="wp-block-image size-large is-resized">![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170824/Captura-de-Tela-2021-05-14-a%CC%80s-14.08.15.png)</figure>O contexto do serviço é tão importante quanto o serviço em si. Isso significa que cada usuário é diferente, portanto, cada experiência é única.
+<figure class="wp-block-image size-large is-resized">
+
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14170824/Captura-de-Tela-2021-05-14-a%CC%80s-14.08.15.png)</figure>O contexto do serviço é tão importante quanto o serviço em si. Isso significa que cada usuário é diferente, portanto, cada experiência é única.
 
 Até o ambiente do serviço deve ser considerado. Os clientes percebem os serviços com todos seus sentidos: eles veem, escutam, sentem o cheiro e o gosto e tocam todas as manifestações do serviço.
 

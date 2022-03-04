@@ -8,8 +8,6 @@ import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
 const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
-	const stringOne =
-		'É POSSÍVEL ENSINAR E APRENDER A TER INTELIGÊNCIA EMOCIONAL? A	Inteligência Emocional pode sim ser ensinada e aprendida por	qualquer pessoa. É como se ela fosse um músculo que pode'
 	return (
 		<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
 			<Layout
@@ -26,7 +24,7 @@ const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
 					</p>
 					<p>Descola Cursos Inovadores LTDA EPP 17.996.625/0001-58</p>
 
-					<p>
+					<p className="footer-headset">
 						<BsHeadset />
 						<a href="tel:+551130420043">+55 (11) 3042-0043</a>
 					</p>
@@ -34,41 +32,55 @@ const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
 				</div>
 				<div className="tag-list-wrapper">
 					<h3>Habilidades em destaque</h3>
-					{/* <div> */}
-					<a href="https://descola.org/cursos" className="tag">
+					<a href="https://descola.org/cursos?tag=gestao" className="tag">
 						Gestão
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a
+						href="https://descola.org/cursos?tag=empregabilidade"
+						className="tag"
+					>
 						Empregabilidade
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a href="https://descola.org/cursos?tag=colaboracao" className="tag">
 						Colaboração
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
-						Inovação
-					</a>
-					<a href="https://descola.org/cursos" className="tag">
-						Design Thinking
-					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a
+						href="https://descola.org/cursos?tag=relacionamentos"
+						className="tag"
+					>
 						Relacionamentos
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
-						Comunicação Interpessoal
+					<a href="https://descola.org/cursos?tag=inovacao" className="tag">
+						Inovação
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a
+						href="https://descola.org/cursos?tag=comunicacao-interpessoal"
+						className="tag"
+					>
+						Comunicacao Interpessoal
+					</a>
+					<a
+						href="https://descola.org/cursos?tag=design-thinking"
+						className="tag"
+					>
+						Design Thinking
+					</a>
+					<a href="https://descola.org/cursos?tag=engajamento" className="tag">
 						Engajamento
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a
+						href="https://descola.org/cursos?tag=produtividade"
+						className="tag"
+					>
 						Produtividade
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a href="https://descola.org/cursos?tag=rh" className="tag">
 						RH
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a href="https://descola.org/cursos?tag=lideranca" className="tag">
 						Liderança
 					</a>
-					<a href="https://descola.org/cursos" className="tag">
+					<a href="https://descola.org/cursos?tag=trabalho" className="tag">
 						Trabalho
 					</a>
 					{/* </div> */}

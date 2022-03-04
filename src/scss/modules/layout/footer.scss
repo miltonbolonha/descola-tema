@@ -33,6 +33,13 @@
 			p.footer-logo svg{
 				margin-bottom: 10px;
 			}
+			.footer-infos{
+				padding-left: 5px;
+
+				.footer-headset svg{
+					font-size:30px;
+				}
+			}
 		}
 	}
 	}
@@ -113,8 +120,6 @@
 	font-weight: 300;
 	// width: auto!important; // over columns width
 }
-.footer-infos{
-	padding-left: 5px;
-}
+
 
 }

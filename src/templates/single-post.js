@@ -34,6 +34,15 @@ const SinglePost = ({ data }) => {
 			>
 				<header>
 					<Layout type="ROW" opt={{ isBoxed: true, classes: 'post' }}>
+						<div className="post-tags-wrapper">
+							{post.frontmatter.tags.map((e, i) => {
+								return (
+									<p className="post-tags" key={i}>
+										{e}
+									</p>
+								)
+							})}
+						</div>
 						<h1>{post.frontmatter.title}</h1>
 					</Layout>
 				</header>
@@ -41,8 +50,20 @@ const SinglePost = ({ data }) => {
 			<Layout type="ROW" opt={{ isBoxed: true, classes: 'main-post' }}>
 				<main>
 					<div className="container">
-						<p>{post.frontmatter.date}</p>
-						<p>{post.frontmatter.author}</p>
+						<div className="post-author">
+							<Layout
+								type="BLOCK_IMAGE"
+								opt={{
+									queryCard: data.imgHolder,
+									alt: 'Descola Holder',
+									classes: 'author-img',
+								}}
+							/>
+							<div className="post-author-infos">
+								<p>{post.frontmatter.date}</p>
+								<p>{post.frontmatter.author}</p>
+							</div>
+						</div>
 						<article dangerouslySetInnerHTML={{ __html: post.html }}></article>
 					</div>
 				</main>

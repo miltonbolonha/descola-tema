@@ -17,7 +17,9 @@ Então, observando essa tendência, o Linkedin, maior plataforma de relacionamen
 
 Reunimos aqui as 10 habilidades que as empresas mais procuram em 2019, as organizamos em ordem crescente e selecionamos um curso para cada uma delas, para você conseguir se desenvolver cada vez mais.
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2019/01/soft-1024x324.png)</figure>#### 5a. **Gerenciamento de tempo**
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/soft-1024x324.png)</figure>#### 5a. **Gerenciamento de tempo**
 
 Em outras palavras, saber gastar bem o seu tempo. É a habilidade de planejar e executar suas funções, tendo um controle consciente do tempo gasto e, de preferência, otimizando esse tempo.
 
@@ -57,7 +59,9 @@ Ser um bom criativo facilita processos e entrega resultados mais interessantes f
 
 Curso indicado: [Desbloqueio Criativo – Ferramentas para despertar sua criatividade e ter mais ideias](https://descola.org/curso/desbloqueio-criativo?utm_source=drops&utm_medium=post&utm_campaign=linkedin)
 
-<figure class="wp-block-image">![](https://descola.org/drops/wp-content/uploads/2019/01/hard-1024x324.png)</figure>#### 5a. **Design de UX**
+<figure class="wp-block-image">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/hard-1024x324.png)</figure>#### 5a. **Design de UX**
 
 User Experience, ou UX é o estudo das interações que um usuário terá com um determinado produto ou serviço e assegurar que todos esses pontos de contato sejam satisfatórios para ele. Isso é especialmente importante quando esses pontos não são mediados por uma pessoa, como é feito em lojas físicas, então negócios que interagem online com seus clientes investem muito tempo e dinheiro para que a experiência do seu consumidor seja 100%, sem a necessidade de influência externa.
 

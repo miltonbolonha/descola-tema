@@ -25,7 +25,19 @@ Mas como temas tão simples podem fazer sucesso? Porque o olhar dela sobre eles 
 
 Sua visão torna uma coisa em outra
 
-<figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/Screen-Shot-2019-01-09-at-11.36.39.png)<figcaption>Foto do Jardim da pintora</figcaption></figure><figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-99-Copy-2-Copia-1024x480-1024x480.jpg)<figcaption>Paisagem n.99</figcaption></figure><figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/xMorro-da-MangueiraFoto-de-Custodio-Coimbra.jpg.pagespeed.ic_.X1r_LbupLN.jpg)<figcaption>Morro da Mangueira</figcaption></figure><figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-100-Copy1-1024x823.jpg)<figcaption>Paisagem n.100</figcaption></figure><figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/572801-970x600-1.jpg)<figcaption>Acervo do MASP</figcaption></figure><figure class="wp-block-image is-resized">![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n%C2%BA-114-Copy.jpg)<figcaption>Paisagem n114</figcaption></figure>Agora, o que a Lucia tem para nos ensinar sobre a realização de projetos?
+<figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/Screen-Shot-2019-01-09-at-11.36.39.png)<figcaption>Foto do Jardim da pintora</figcaption></figure><figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-99-Copy-2-Copia-1024x480-1024x480.jpg)<figcaption>Paisagem n.99</figcaption></figure><figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/xMorro-da-MangueiraFoto-de-Custodio-Coimbra.jpg.pagespeed.ic_.X1r_LbupLN.jpg)<figcaption>Morro da Mangueira</figcaption></figure><figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-100-Copy1-1024x823.jpg)<figcaption>Paisagem n.100</figcaption></figure><figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/572801-970x600-1.jpg)<figcaption>Acervo do MASP</figcaption></figure><figure class="wp-block-image is-resized">
+
+![](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n%C2%BA-114-Copy.jpg)<figcaption>Paisagem n114</figcaption></figure>Agora, o que a Lucia tem para nos ensinar sobre a realização de projetos?
 
 #### **Fragmentação**
 

@@ -79,3 +79,57 @@
 
 
 
+p.post-tags{
+			background-color: $cta__color;
+			display: inline-block;
+			font-size: 10px;
+    padding: 6px;
+		color: white;
+		font-weight: 700;
+		text-transform: capitalize;
+    white-space: nowrap;
+		&:nth-child(even){
+		background-color: #9300ca;
+		margin:0 8px;
+	}
+}
+.post-author{
+	display: grid;
+	grid-template-columns: 0.2fr 1fr;
+	margin-bottom: 50px;
+
+.author-img{
+	border: 2px solid #fc4303;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    width: 74px;
+    height: 74px;
+}
+}
+ .main-post .container article {
+	font-size:18px;
+	font-weight: 300;
+	font-family: $main__font;
+	font-size:18px;
+	color: $paragrahp_black__color;
+	p{
+
+		margin-bottom: 16px;
+	}
+	a{
+		color: $cta__color;
+		&:hover{
+			text-decoration: underline;
+		}
+	}
+	strong{
+		font-weight: 400;
+	}
+	ul li{
+		font-style: italic;
+	}
+	h3{
+	font-size:16px;
+	font-family: $second__font;
+	margin-bottom: 10px;
+}}
