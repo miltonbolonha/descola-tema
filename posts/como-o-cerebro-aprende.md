@@ -13,9 +13,7 @@ tags:
 featuredImage: ../static/images/Captura-de-Tela-2021-09-09-a%CC%80s-15.png
 ---
 
-```
-<pre class="wp-block-verse">O que há por trás das emoções? Por que cada um de nós aprende a partir de diferentes estímulos? Como funciona a nossa memória?
-```
+O que há por trás das emoções? Por que cada um de nós aprende a partir de diferentes estímulos? Como funciona a nossa memória?
 
 Durante todo o curso [Aprender e reaprender](https://descola.org/aprender-e-reaprender) falamos sobre o cérebro e o aprendizado e também compartilhamos um mapa ilustrativo justamente para mostrar o funcionamento do cérebro.
 

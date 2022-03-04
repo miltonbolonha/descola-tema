@@ -1,6 +1,5 @@
 ---
 title: 4 passos para criar a identidade da sua marca
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
 date: 2017-10-19T19:52:36+00:00
 author: Equipe Descola
 templatekey: blog-post

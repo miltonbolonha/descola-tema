@@ -1,6 +1,5 @@
 ---
 title: 4 dicas para ser criativo nos negócios
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
 date: 2015-02-23T17:45:20+00:00
 author: Equipe Descola
 templatekey: blog-post

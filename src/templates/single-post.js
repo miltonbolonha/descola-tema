@@ -55,8 +55,8 @@ const SinglePost = ({ data }) => {
 								}}
 							/>
 							<div className="post-author-infos">
-								<p>{post.frontmatter.date}</p>
-								<p>{post.frontmatter.author}</p>
+								<p className="post-author-date">{post.frontmatter.date}</p>
+								<p className="post-author-name">{post.frontmatter.author}</p>
 							</div>
 						</div>
 						<article dangerouslySetInnerHTML={{ __html: post.html }}></article>
@@ -104,7 +104,7 @@ export const query = graphql`
 			}
 		}
 
-		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
+		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
 			childrenImageSharp {
 				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}

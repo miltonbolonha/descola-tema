@@ -11,9 +11,7 @@ tags:
 featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-17.png
 ---
 
-```
-<pre class="wp-block-verse">A comunicação organizacional não pode ser interrompida, nem chegar truncada aos seus pares. Conheça os recursos para manter seus times engajados e por dentro de tudo.
-```
+A comunicação organizacional não pode ser interrompida, nem chegar truncada aos seus pares. Conheça os recursos para manter seus times engajados e por dentro de tudo.
 
 Desde meados da década de 2010, os dados estatísticos do trabalho remoto já vinham sendo demonstrados em curva ascendentes para, em 2020, dar um verdadeiro salto nos gráficos de pesquisas: 46% das empresas adotaram a prática. Na mesma ocasião, a Fundação Getúlio Vargas apontou que a tendência é que a adesão ao trabalho remoto cresça 30% mais.
 
@@ -35,9 +33,7 @@ Por outro lado, há situações em que o tête à tête ainda é muito mais efic
 
 Isso acontece também com frequência com <span style="text-decoration: underline;">Maitê Nogueira </span>em sua rotina de trabalho como líder de abastecimento sênior em uma multinacional do segmento varejista. A incompatibilidade dos sistemas entre o escritório e a fábrica dificulta a comunicação no momento em que o estoque precisa ser conferido.
 
-```
-<pre class="wp-block-verse"> “Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”<br></br>
-```
+“Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”<br></br>
 
 Mesmo diante dessa observação em relação à demora de determinados fluxos, Maitê elogia a tomada de decisão da empresa em relação à providência de ferramentas que otimizaram inúmeros processos diante da demanda por trabalho remoto mais frequente, após a pandemia de 2020.
 

@@ -1,6 +1,5 @@
 ---
 title: 4 Ferramentas para gerar Insights valiosos
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
 date: 2018-10-15T22:12:32+00:00
 author: Stella Seixas
 templatekey: blog-post

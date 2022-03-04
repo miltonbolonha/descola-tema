@@ -1,6 +1,5 @@
 ---
 title: 3 formas de se inspirar para o seu negócio
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
 date: 2014-12-17T12:33:38+00:00
 author: Equipe Descola
 templatekey: blog-post

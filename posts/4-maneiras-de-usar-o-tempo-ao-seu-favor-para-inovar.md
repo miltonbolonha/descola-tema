@@ -1,6 +1,5 @@
 ---
 title: 4 maneiras de usar o tempo ao seu favor para inovar
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
 date: 2017-08-09T22:02:04+00:00
 author: Equipe Descola
 templatekey: blog-post
