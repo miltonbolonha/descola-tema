@@ -19,4 +19,4 @@ featuredImage: ../static/images/rafael_kenski.jpg
 
 Formado em Jornalismo e ciências sociais, Rafael foi editor-chefe de importantes marcas da editora Abril e atualmente é Diretor de projetos especiais na Editora Globo.
 
-<span class="s1">A carreira de jornalismo é dinâmica e para seguir com essa profissão é necessário ter competências específicas e também se engajar em diversas áreas.</span>
+A carreira de jornalismo é dinâmica e para seguir com essa profissão é necessário ter competências específicas e também se engajar em diversas áreas.

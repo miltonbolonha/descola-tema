@@ -69,7 +69,7 @@ As generalizações limitam nossas possibilidades e pensamentos – uma vez que 
 
 > **Quem vê só um lado do mundo, só sabe uma parte da verdade**
 >
-> <cite>Emicida</cite>
+> Emicida
 
 A visão de mundo que temos está diretamente associada à cultura em que estamos inseridos. Por exemplo, por muito tempo achamos que a família tradicional brasileira era formada por mamãe, papai e um ou dois filhinhos. Dessa maneira, excluímos tantas outras famílias com composições distintas como de casais homoafetivos, casas de pais e mães solteiras e até as crianças que são criadas por outros membros da família, como avô e avó.
 
@@ -147,4 +147,6 @@ Saiba que…
 
 Para inspirar mais ainda a reconhecer e se tornar consciente dos seus vieses, apresentamos Yassmin Abdel-Magied. A mulher que pode te fazer repensar sobre o que você sabe sobre uma muçulmana.
 
-<figure class="wp-block-embed-ted wp-block-embed is-type-video is-provider-ted wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="282" loading="lazy" mozallowfullscreen="" scrolling="no" src="https://embed.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you" title="Yassmin Abdel-Magied: What does my headscarf mean to you?" webkitallowfullscreen="" width="500"></iframe></div></figure> Se você ficou interessado no conteúdo e deseja se aprofundar ajudando a criar ambientes mais diversos, inclusivos e, claro, inovadores indicamos o [curso de vieses inconscientes](https://descola.org/curso/vieses-inconscientes) para expandir seu conhecimento.
+<iframe allowfullscreen="" frameborder="0" height="282" loading="lazy" mozallowfullscreen="" scrolling="no" src="https://embed.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you" title="Yassmin Abdel-Magied: What does my headscarf mean to you?" webkitallowfullscreen="" width="500">
+
+Se você ficou interessado no conteúdo e deseja se aprofundar ajudando a criar ambientes mais diversos, inclusivos e, claro, inovadores indicamos o [curso de vieses inconscientes](https://descola.org/curso/vieses-inconscientes) para expandir seu conhecimento.

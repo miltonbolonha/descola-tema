@@ -24,9 +24,13 @@ O objeto de estudo da Neurociência, é, portanto, bastante complexo, sendo cons
 Em seu artigo para o Instituto Brasileiro de Coaching, o presidente da instituição, Master Coach Senior e Trainer certificado por renomadas instituições internacionais como European Coaching Association (ECA) e Behavioral Coaching Institute (BCI), **José Roberto Marques**, explicou que os estudos da neurociência estão divididos em campos específicos que exploram as áreas do sistema nervoso. São elas:
 
 - **Neurofisiologia:** investiga as tarefas que cabem às diversas áreas do sistema nervoso.
+
 - **Neuroanatomia:** dedica-se a compreender a estrutura do sistema nervoso, dividindo o cérebro, a coluna vertebral e os nervos periféricos externos em partes, para nomeá-las e compreender as suas funções.
+
 - **Neuropsicologia:** é a parte que estuda a interação entre as ações dos nervos e as funções ligadas à área psíquica.
+
 - **Neurociência comportamental:** ligada à psicologia comportamental, é a área que estuda o contato do organismo e os seus fatores internos, como os pensamentos e as emoções, ao comportamento visível, como a forma de falar, de se postar, os gestos usados por uma pessoa e tantas outras características.
+
 - **Neurociência cognitiva:** este campo foca na capacidade cognitiva, ou seja, no conhecimento do indivíduo, como o raciocínio, a memória e o aprendizado; estudo voltado à capacidade cognitiva, em que estão inclusos comportamentos ainda mais complexos, como memória e aprendizado.
 
 Como conteúdo complementar, para este curso, vamos nos ater a compreender as emoções, raciocínio, memória e capacidade cognitiva interferem no nosso processo de aprendizagem.

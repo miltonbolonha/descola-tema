@@ -78,5 +78,3 @@ _“Não consigo pensar em muitas organizações que criaram uma etapa clara no 
 _“Tentar apressar a síntese é o ‘beijo da morte’”_, diz ele. _“Insights inesperados requerem reflexão. Essas ideias nunca estão na superfície. Se estiverem, provavelmente são óbvias para todos e não tão inovadoras.”_
 
 _Este texto foi baseado no artigo da Kellogg Insight. [Veja o original](https://insight.kellogg.northwestern.edu/article/four-ways-innovators-can-use-time-to-their-advantage)._
-
-\[icegram campaigns=”6221″\]

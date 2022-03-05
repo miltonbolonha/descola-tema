@@ -9,7 +9,7 @@ tags:
 featuredImage: ../static/images/habilidades_futuro.jpg
 ---
 
-<div><div>Em algumas imersões em pensamentos, às vezes me pergunto como será o nosso futuro, embasado no avanço tecnológico, principalmente na automatização de tarefas aliada à inteligência artificial, tema este cada vez mais comum no nosso dia a dia. A evolução e os processos de mudanças pelos quais passamos tendem a substituir pessoas por máquinas gradativamente.
+Em algumas imersões em pensamentos, às vezes me pergunto como será o nosso futuro, embasado no avanço tecnológico, principalmente na automatização de tarefas aliada à inteligência artificial, tema este cada vez mais comum no nosso dia a dia. A evolução e os processos de mudanças pelos quais passamos tendem a substituir pessoas por máquinas gradativamente.
 
 ### Como será possível lidar com tal concorrência?
 
@@ -26,5 +26,3 @@ Daniel Egger é um estrategista e expert em visão de negócios, além de autor 
 Uma das características mais importantes que o Daniel fala no curso é sobre a capacidade de **pensamento crítico**. O pensamento crítico é a análise objetiva, é expandir a nossa visão e enxergar as mudanças de maneira neutra, sem pré-conceitos. Egger nos leva a pensar sobre diferentes situações cotidianas, dando exemplos bastante comuns e sempre nos questionando sobre nosso comportamento. Além do pensamento analítico, são apresentadas muitas outras competências de igual importância durante as aulas e os exercícios.
 
 Como você vai se preparar para o futuro? A Descola te ajuda a desenvolver suas habilidades humanas e a descobrir como você pode transformar o meio a sua volta com seus conhecimentos mais notáveis.
-
-</div></div>

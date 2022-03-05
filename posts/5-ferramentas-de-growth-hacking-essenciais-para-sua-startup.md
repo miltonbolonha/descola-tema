@@ -29,13 +29,9 @@ Nesse sentido, listamos abaixo técnicas fundamentais às novas empresas, que po
 
 1. SEO (Search Engine Optimization)
 
----
-
 A otimização do seu site – e, principalmente blog -, para ser melhor encontrado nos buscadores (Google, principalmente) é essencial. No caso da utilização como uma das ferramentas de growth hacking, é capaz de construir uma infraestrutura escalável e aplicável a inúmeras páginas e não apenas focar na seleção tradicional de uma quantidade de palavras-chave.
 
 2. Marketing de Conteúdo
-
----
 
 O content marketing prevê a criação de blogs corporativos, onde são publicados conteúdos educativos em formato de posts, e-books, white papers, vídeos, infográficos etc. Ao viralizar, a estratégia aumenta a visibilidade da marca e, consequentemente, o tráfego para o site, e transforma visitantes em consumidores.
 
@@ -43,15 +39,11 @@ Um ótimo exemplo é a **[Rock Content](http://rockcontent.com/)** e a **[Conten
 
 3. E-mail marketing
 
----
-
 Trata-se de uma estratégia de relacionamento que ainda faz sentido como uma das principais ferramentas de growth hacking. É capaz de converter novos consumidores por meio do disparo de e-mails direcionados e com conteúdos educativos, além de aumentar a motivação da sua base para gastar mais com o seu negócio. Quando baseado em uma Jornada de Compra (Buyer’s Journey) tende a trazer resultados melhores ainda.
 
 Na aquisição de novos clientes nossa sugestão fica por conta da **[Addthis](https://www.addthis.com/)**, uma ferramente que te ajuda na obtenção de novos cadastros de email com ofertas exclusivas.
 
 4. Aquisições virais
-
----
 
 Acontecem a partir de compartilhamento de determinado conteúdo pelos usuários existentes e, em seguida, para outros novos. É um processo espontâneo – ou orgânico, como também é conhecido na esfera do marketing.
 
@@ -59,16 +51,10 @@ Aplicativos como o [**Sumome**](http://sumome.com/) e o [**Social Locker**](http
 
 5. Aquisições pagas
 
----
-
 Podem ser executadas mediante uso de estratégias de SEM (_Search Engine Marketing_), Links patrocinados, por exemplo. **Redes de retargeting e Boobox** segmentam usuários que já visitaram sites de determinada empresa ou que pertencem a um nicho de _personas_ específico.
 
 Mais do que trabalhar com canais segmentados as redes de retargeting ajudam a vocie falra com usuários que já entraram no seu site anteriormente. Nossa indicação vai para o **[Adroll](https://www.adroll.com/)** onde você faz um segmente e consegue enviar publicidade através de muitos sites na internet apenas para quem já acessou determinada página do seu site.
 
 Antes de terminarmos o post queríamos deixar uma pequena enquete para nos ajudar!
-
-<script>// <![CDATA[
-(function(t,e,c,n){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(c),s=o[o.length-1],i=e.createElement(c),i.type="text/javascript",i.async=!0,i.id=n,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/U4b_2BZ0_2B0UOAaHVHz50B5At_2FauYzOijvxtN_2FKhiVPBc3kJhwiUC1zNDYmC2hD4C9g.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk");
-// ]]></script>
 
 ### Você conhece ou utiliza alguma outra ferramenta de growth hacking? Compartilhe conosco pelos comentários – será um prazer trocar uma ideia.

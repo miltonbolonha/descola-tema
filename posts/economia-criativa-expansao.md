@@ -39,8 +39,6 @@ E por seu potencial inventivo, profissionais das áreas criativas estão espalha
 
 Não bastasse tudo isso, é bastante simples iniciar um novo negócio em áreas da economia criativa, já que boas ideias são o começo de tudo, e não é necessário um grande capital para dar o primeiro passo. O maior dos exemplos nesse sentido é o grande número de startups no Brasil que exploram criatividade, inovação e tecnologia, gerando produtos ou serviços com grande valor agregado e encontrando considerável demanda.
 
-Nós da Descola acreditamos no potencial transformador da Economia Criativa. Tanto na sociedade quanto nas profissões, no futuro de novos profissionais. Sabemos que esse assunto não se resume só a um post. Pensando nisso, criamos nosso 1º ebook focado no tema. Baixe aqui o [<u>**“Economia criativa: conheça e aproveite as aproveite as oportunidades dessa crescente indústria”.**</u>](https://descola.org/ebook/ebook-economia-criativa)
+Nós da Descola acreditamos no potencial transformador da Economia Criativa. Tanto na sociedade quanto nas profissões, no futuro de novos profissionais. Sabemos que esse assunto não se resume só a um post. Pensando nisso, criamos nosso 1º ebook focado no tema. Baixe aqui o [**“Economia criativa: conheça e aproveite as aproveite as oportunidades dessa crescente indústria”.**](https://descola.org/ebook/ebook-economia-criativa)
 
 Não deixe de comentar com a gente o que acha sobre o post, o tema e claro, o ebook!
-
-<script>// <![CDATA[ (function(t,e,c,n){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(c),s=o[o.length-1],i=e.createElement(c),i.type="text/javascript",i.async=!0,i.id=n,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/N6XZOBb42dncYcSXA_2B8TwH1Nmy2sXYT423IxPJjU9co1XqX47i8qSbM8LkF4yCiA.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk"); // ]]></script>

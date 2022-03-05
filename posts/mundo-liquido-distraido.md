@@ -9,7 +9,9 @@ tags:
 featuredImage: ../static/images/ipad-tablet-technology-touch.jpg
 ---
 
-<div>O despertador do celular toca. Você acorda, puxa as notificações, abre suas mensagens, seus e-mails, lê as últimas notícias, os últimos posts, confere a previsão do tempo, vê se a sua encomenda já tá a caminho, comenta as últimas fotos dos amigos, acompanha o que tá acontecendo no Oriente Médio, a cotação da bolsa, as eleições norte americanas…</div><div>Essa última frase parece extensa e cansativa, não? Mas tudo isso já faz parte da nossa rotina de maneira tão despercebida que a gente já nem se dá mais conta e, provavelmente, acharíamos estranho se não o fizéssemos.
+O despertador do celular toca. Você acorda, puxa as notificações, abre suas mensagens, seus e-mails, lê as últimas notícias, os últimos posts, confere a previsão do tempo, vê se a sua encomenda já tá a caminho, comenta as últimas fotos dos amigos, acompanha o que tá acontecendo no Oriente Médio, a cotação da bolsa, as eleições norte americanas…
+
+Essa última frase parece extensa e cansativa, não? Mas tudo isso já faz parte da nossa rotina de maneira tão despercebida que a gente já nem se dá mais conta e, provavelmente, acharíamos estranho se não o fizéssemos.
 
 Vivemos um momento em que praticamente qualquer informação cabe na palma da nossa mão. Tudo tem ficado mais fácil e prático com o avanço da inclusão digital. Mas, como nem tudo são rosas, juntamente com os benefícios, crescem também alguns monstrinhos, como o da distração. A dificuldade de concentração devido à imersão nessa gigantesca rede de conhecimento e compartilhamento, às vezes, faz com que a gente se perca em meio a tanta novidade. É só você pensar em como é difícil prestar atenção numa apresentação, enquanto você recebe dezenas de mensagens e o mundo corre ao alcance de um toque. O educador E. O. Wilson diria:
 
@@ -27,4 +29,4 @@ O segredo para aproveitar a fluidez dos nossos tempos é não deixar de lado a i
 
 Em um dos nossos cursos, o Augusto Uchoa fala mais sobre o mundo líquido de Bauman na perspectiva dos discursos e te ajuda a estruturar uma boa fala, que prenda a atenção do público e o motive. Saiba mais: <http://descola.org/curso/discurse>
 
-</div><div>[![discurse_zb](http://descola.org/drops/wp-content/uploads/2016/10/discurse_zb-300x169.png)](http://descola.org/curso/discurse)</div>
+[![discurse_zb](http://descola.org/drops/wp-content/uploads/2016/10/discurse_zb-300x169.png)](http://descola.org/curso/discurse)

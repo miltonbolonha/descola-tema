@@ -57,7 +57,7 @@ Esse modelo segue uma transição bem natural, de certa forma, mas ainda assim �
 
 É claro que o aprendizado é algo muito individual, e ainda que seja possível resumi-lo segundo os modelos de que falamos hoje, cada pessoa é única e vai passar por essas etapas de formas um pouco diferentes, não é verdade? Procure entender como você lida com cada etapa do seu processo de aprendizado e teste formas de otimizá-lo: só você pode fazer isso!
 
-Comente compartilhando conosco de que formas você acredita que consegue aprender melhor e aproveite para conhecer nosso [<u>curso de Visual Thinking</u>](http://descola.org/drops/curso-poe-no-papel-visual-thinking-estruture-suas-ideias-de-forma-visual/), talvez essa técnica possa de ajudar a acelerar seu aprendizado!
+Comente compartilhando conosco de que formas você acredita que consegue aprender melhor e aproveite para conhecer nosso [curso de Visual Thinking](http://descola.org/drops/curso-poe-no-papel-visual-thinking-estruture-suas-ideias-de-forma-visual/), talvez essa técnica possa de ajudar a acelerar seu aprendizado!
 
 #### LIVRO RECOMENDADO
 

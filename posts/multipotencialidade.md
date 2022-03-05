@@ -35,4 +35,6 @@ Desistir de uma carreira e tentar outra nem sempre é o fim do mundo. Até porqu
 
 Se você ficou curioso, confira a seguir a palestra completa de Emilie:
 
-<div style="max-width: 854px;"><div style="position: relative; height: 0; padding-bottom: 56.25%;"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%;" width="854"></iframe></div></div>[![](https://descola.org/drops/wp-content/uploads/2018/05/proposito1-1024x281.png)](https://descola.org/curso/proposito)
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling"  width="854"></iframe>
+
+[![](https://descola.org/drops/wp-content/uploads/2018/05/proposito1-1024x281.png)](https://descola.org/curso/proposito)

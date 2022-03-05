@@ -29,7 +29,7 @@ Tem uma frase do famoso futurista **Alvin Toffler** que diz muito sobre esse mom
 
 > “O analfabeto do século XXI não será aquele que não sabe ler e escrever, mas aquele que não consegue aprender, desaprender e reaprender”.
 >
-> <cite>**Alvin Toffler**</cite>
+> **Alvin Toffler**
 
 Aprender novas tecnologias, modelos mentais, ferramentas ou comportamentos, estar aberto a tudo que é incerto e novo.
 
@@ -53,7 +53,7 @@ Quer dizer que uma das grandes preocupações em educação é sobre manter o me
 
 ### Como aprender coisas novas?
 
-O primeiro passo é entender que <span style="text-decoration: underline;">você nunca mais vai parar de aprender</span>. Estar fechado e achar que sabe tudo, ou que seu “caminho está trilhado” é uma ótima forma de ficar ultrapassado.
+O primeiro passo é entender que você nunca mais vai parar de aprender. Estar fechado e achar que sabe tudo, ou que seu “caminho está trilhado” é uma ótima forma de ficar ultrapassado.
 
 Esteja aberto para aprender sempre. A desaprender, a aprender novamente, a rever conceitos e ter mais perguntas do que certezas. Não tenha medo de jogar tudo fora e começar do zero.
 

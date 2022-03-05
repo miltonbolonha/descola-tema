@@ -47,10 +47,6 @@ Identificar a razão (ou razões) que motiva(m) sua procrastinação pode te aju
 
 Para que você possa conhecer o seu perfil de procrastinador, a Descola fez um teste rápido com algumas perguntas simples. A partir do resultado, você pode tomar as medidas certas e se tornar mais produtivo.
 
-<div class="surveykiwi" data-height="480px" data-src="//surveykiwi.com/w/campaign/5276" data-width="100%"></div><script charset="utf-8" type="text/javascript">
-(function() {var sk = document.createElement('script'); sk.type = 'text/javascript'; sk.async = true; sk.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'surveykiwi.com/assets/scripts/embedded/script.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sk, s);  })();
-</script>
-
 E aí, fez o teste? Agora é hora de colocar a mão na massa e partir para uma rotina mais produtiva.
 
 Precisa de ajuda? Conheça o nosso curso [Bombando Sua Produtividade](https://descola.org/curso/bombando-sua-produtividade) e aprenda tudo sobre o ciclo da procrastinação e técnicas para evitar perder tempo à toa.

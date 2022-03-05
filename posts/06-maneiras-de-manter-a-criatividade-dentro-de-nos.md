@@ -37,8 +37,6 @@ Existem muitos estudos falando que o café faz bem e mal para a saúde, mas o qu
 
 Em um desses estudos é possível entender que o café traz felicidade. Um estudo realizado por uma equipe da Universidade de Ruhr, na Alemanha, liderada pelo psicólogo Lars Kuchinke, mostrou que a bebida ajuda o cérebro no reconhecimento mais efetivo e rápido de palavras ou expressões positivas – como “amor” e “feliz” – em comparação com as negativas – como “raiva” ou “tédio”.
 
-<http://mundodapsi.com/wp-content/uploads/2015/03/iguassu-working.png>
-
 ### **\#3 USE PAPEL E CANETA**
 
 Faz quanto tempo que você não pega um papel e uma caneta e escreve alguma coisa? Com os computadores e os smartphones, fica cada vez menor o número de pessoas que realmente escreve em um pedaço de papel. Escrever em uma folha de papel em branco te faz pensar de forma não sistêmica, você pensa melhor na forma das letras, todos os seus contextos e te faz exercitar um lado do cérebro que estimula a criatividade.
@@ -68,7 +66,5 @@ Espero que você tenha aprendido nada com esse video 🙂
 Tirar um cochilo foi provado através de pesquisas que melhoram significativamente o desempenho e habilidades do pensamento. Se você estiver se sentindo cansado ao longo do dia e tiver um tempo para tirar uma soneca rápida, é recomendado. Sonecas são uma maravilhosa fonte de reforço mental, e reciclagem rápida.
 Na Espanha, e em vários países de língua espanhola, a **siesta** após o almoço é um hábito incorporado a vida cotidiana. Em vários países orientais também.
 Se quiser se aprofundar nesse assunto pode ver esse estudo feito pelo instituto francês de endocrinologia no link abaixo.
-
-<http://press.endocrine.org/doi/10.1210/jc.2014-2566>
 
 Esperamos que com essas dicas você perceba que a criatividade depende apenas de estímulos criados por você mesmo e basta praticar para se tornar cada vez mais criativo. Essas foram apenas algumas dicas de como praticar a criatividade. Se você tem outra maneira de praticar a criatividade compartilha com a gente!

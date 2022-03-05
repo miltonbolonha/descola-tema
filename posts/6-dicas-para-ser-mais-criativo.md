@@ -37,8 +37,8 @@ Analise tudo à sua volta. Exercite seu pensamento sobre tudo o que se passa em 
 
 ### **6 – Seja você mesmo**
 
-<div class="onp-locker-call" data-lock-id="onpLock341630"> Criatividade tem tudo a ver com originalidade. Evite copiar ideias e não siga tendências, afinal, elas são o posto da criatividade. Busque seus próprios caminhos e verá que é dentro de você mesmo que encontrará fontes criativas que vale a pena.
+Criatividade tem tudo a ver com originalidade. Evite copiar ideias e não siga tendências, afinal, elas são o posto da criatividade. Busque seus próprios caminhos e verá que é dentro de você mesmo que encontrará fontes criativas que vale a pena.
 
 A criatividade é um potencial que pode e deve ser explorado, portanto, essas dicas vão ajudar a colocar suas ideias em ação. O cerébro é uma máquina que precisa ser exercitada e agora que você sabe disso, estimule os momentos criativos.
 
- </div>**Como você faz para exercitar a sua criatividade? Divida a sua experiência com a gente nos comentários!**
+**Como você faz para exercitar a sua criatividade? Divida a sua experiência com a gente nos comentários!**

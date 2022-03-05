@@ -19,7 +19,9 @@ O fato é que as nossas [conexões](https://descola.org/curso/cultura-crowd?utm_
 
 Se nossas conexões dizem quem somos, então podemos dizer que o comportamento dos nossos amigos também diz muito sobre nós mesmos. E não é só isso: o dos amigos dos amigos também. E dos amigos dos amigos dos amigos. É confuso, mas Nicholas Christakis explica melhor isso em seu TED:
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks" style="position:absolute;left:0;top:0;width:100%;height:100%" width="854"></iframe></div></div>No mundo profissional não poderia ser diferente. Vai dizer que nunca ninguém te pediu indicação de algum conhecido que seja perfeito para um cargo na sua empresa? Se foi você quem procurou por indicação, pode reparar: você só pede para quem você acha competente o suficiente. Para aquele funcionário que é bom no que faz. Ele deve conhecer alguém que faça o trabalho tão bem quanto ele, não é?
+<iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks" width="854"></iframe>
+
+No mundo profissional não poderia ser diferente. Vai dizer que nunca ninguém te pediu indicação de algum conhecido que seja perfeito para um cargo na sua empresa? Se foi você quem procurou por indicação, pode reparar: você só pede para quem você acha competente o suficiente. Para aquele funcionário que é bom no que faz. Ele deve conhecer alguém que faça o trabalho tão bem quanto ele, não é?
 
 Essa coisa inconsciente de pedir ajuda para alguém que é bom nada mais é do que o reflexo do que o Nicholas explica em seu TED. Somos feitos de conexões e nos tornamos pessoas melhores (ou piores) por causa delas.
 

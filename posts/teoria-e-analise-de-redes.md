@@ -30,7 +30,7 @@ Para que você possa construir seu ecossistema de onde estiver, podemos fazer de
 
 Gostamos das duas práticas e encorajamos os dois jeitos, mas é claro que as ferramentas online já têm recursos estruturados para lidar com uma quantidade maior de dados. Nos 3 momentos a seguir, pratique como quiser.
 
-### <span style="color: #e37474;">MOMENTO 1 Desenho de Ecossistema Pessoal</span>
+### MOMENTO 1 Desenho de Ecossistema Pessoal
 
 **Liste as pessoas do seu círculo pessoal que vêm à mente e insira cada uma no seu mapa pessoal.**
 
@@ -44,9 +44,9 @@ Desenhe ligações entre os elementos que possuem conexões. Observe para encont
 
 ![redes4](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/10/21152030/redes4.png)
 
-###### _<span style="font-weight: 400;">(\*) Adicionando nodos na rede</span>_
+###### _(\*) Adicionando nodos na rede_
 
-### <span style="color: #e37474;">MOMENTO 2 Desenho de Ecossistema Profissional</span>
+### MOMENTO 2 Desenho de Ecossistema Profissional
 
 **Liste as pessoas do seu círculo profissional que vêm à mente e insira cada uma no seu mapa profissional. Se encontrar pessoas repetidas, não tem problema.**
 
@@ -60,9 +60,9 @@ Desenhe ligações entre os elementos que possuem conexões. Observe para encont
 
 ![redes5](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/10/21152030/redes5.png)
 
-###### _<span style="font-weight: 400;">(\*) Criando conexões</span>_
+###### _(\*) Criando conexões_
 
-### <span style="color: #e37474;">MOMENTO 3 Desenho de Ecossistema do Projeto </span>
+### MOMENTO 3 Desenho de Ecossistema do Projeto
 
 **Liste as pessoas relacionadas ao projeto que vêm à mente e insira cada uma no seu mapa pessoal. De novo, perceba que podem haver intersecções com outros ecossistemas.**
 
@@ -136,7 +136,7 @@ B) FERRAMENTAS
 - [Kumu](http://www.kumu.io)
 - [Mindomo](http://www.mindomo.com)
 - [Freemind](http://freemind.sourceforge.net/)
-- <span style="font-weight: 400;">[Murally](http://www.mural.ly) </span>
+- [Murally](http://www.mural.ly)
 - [MindMeister](https://www.mindmeister.com)
 - [Gephi](http://gephi.com)
 - [NodeXL](http://nodexl.com)

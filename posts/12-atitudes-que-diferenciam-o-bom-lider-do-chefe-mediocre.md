@@ -15,7 +15,7 @@ Uma boa gestão é essencial para assegurar o crescimento e o sucesso de qualque
 
 Porém, dentro das organizações existem tradicionalmente dois perfis de gestores: os **líderes** e os **chefes**. Vários aspectos particularizam o comportamento e as ações destes profissionais. Listamos abaixo as principais características que diferenciam o bom líder do chefe medíocre, mas mais do que isso, também montamos um curso super mão na massa pra quem quer se tornar um líder nos dias de hoje.
 
-<span style="color: #008000;">—– Saiba mais sobre o [Curso online: Fundamentos da boa liderança](http://descola.org/curso/16/lead-fundamentos-da-boa-lideranca) – —</span>
+Saiba mais sobre o [Curso online: Fundamentos da boa liderança](http://descola.org/curso/16/lead-fundamentos-da-boa-lideranca)
 
 ## \#1 Desenvolver a inteligência emocional
 

@@ -43,17 +43,17 @@ Como já demos toda a pista lá no começo do texto, é massa. Não é algo que 
 
 A lógica do processo é interessante. Ao chegar, as startups participantes expões seus problemas e que tipo de ajuda precisam. Pode ser desde “quero mudar meu logo” até “me auxilie a colocar meu banco de dados na nuvem”. Logo após essa etapa, os “helpers”, previamente inscritos para participar, falam seus nomes e habilidades. Bem simples, ao estilo “Sou João, tenho 25 anos e sou designer”.
 
-<div class="wp-caption aligncenter" id="attachment_4895" style="width: 970px">![22429_10153206541745390_4689784463240358308_n](https://descola.org/drops/wp-content/uploads/2015/05/22429_10153206541745390_4689784463240358308_n.jpg)O começo: startups e ajudantes narram o que fazem.
+![22429_10153206541745390_4689784463240358308_n](https://descola.org/drops/wp-content/uploads/2015/05/22429_10153206541745390_4689784463240358308_n.jpg)O começo: startups e ajudantes narram o que fazem.
 
-</div>Geralmente, essa turma é formada ou de universitários interessados em testar habilidades e criar portfólios ou profissionais em busca de emprego ou parcerias com startups que consideram interessantes. Uma vez apresentados, os “helpers” circulavam pelo ambiente, trocando ideias com as startups e vendo onde se encaixam melhor. Se algum vê um desafio que curte ou mesmo se foi com a cara de um empreendedor, senta e começa a trabalhar.
+Geralmente, essa turma é formada ou de universitários interessados em testar habilidades e criar portfólios ou profissionais em busca de emprego ou parcerias com startups que consideram interessantes. Uma vez apresentados, os “helpers” circulavam pelo ambiente, trocando ideias com as startups e vendo onde se encaixam melhor. Se algum vê um desafio que curte ou mesmo se foi com a cara de um empreendedor, senta e começa a trabalhar.
 
 Parece simples, não? Então, começa a parte mais “violenta” trabalhar madrugada adentro, se desdobrar para ajudar e entender um negócio novo ou fazer das tripas coração para acelerar um processo que normalmente demoraria semanas. Dormir? Nem pensar. No máximo um cochilo em algum canto do recinto e olhe lá.
 
 Isso tudo dá ao processo um quê de gincana e também ares de filme de ficção científica. Daqueles onde um foguete está prestes a explodir e uma improvável e nova equipe vai lá e resolve o problema.
 
-<div class="wp-caption aligncenter" id="attachment_4897" style="width: 970px">![Cochilo não é vacilo. Teve gente que dormiu ao estilo "planking"](https://descola.org/drops/wp-content/uploads/2015/05/10394061_10153206541280390_4734161157929648963_n.jpg)Cochilo não é vacilo. Teve gente que dormiu ao estilo “planking”
+![Cochilo não é vacilo. Teve gente que dormiu ao estilo "planking"](https://descola.org/drops/wp-content/uploads/2015/05/10394061_10153206541280390_4734161157929648963_n.jpg)Cochilo não é vacilo. Teve gente que dormiu ao estilo “planking”
 
-</div>Deu gosto de ver a evolução de vários projetos ao final do processo. Teve startup que além de site, ganhou novo logo, comunicação visual e cartão de visitas feitos por uma designer. Outra, remodelou totalmente a arquitetura de informação e até teve gente que com a ajuda de programadores e designers mudou totalmente o foco de negócio.
+Deu gosto de ver a evolução de vários projetos ao final do processo. Teve startup que além de site, ganhou novo logo, comunicação visual e cartão de visitas feitos por uma designer. Outra, remodelou totalmente a arquitetura de informação e até teve gente que com a ajuda de programadores e designers mudou totalmente o foco de negócio.
 
 Uma vez finalizado o período, todos sobem em um improvisado palco para mostrar as melhorias feitas e logicamente, felicitar os bravos ajudantes.
 

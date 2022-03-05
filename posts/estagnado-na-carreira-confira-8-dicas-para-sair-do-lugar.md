@@ -30,9 +30,9 @@ A educação técnica ou superior com certeza te colocará em outro patamar no m
 
 Para se manter atualizado sobre a sua área de atuação e ainda ter um diferencial em relação a outros profissionais, os cursos de especialização e reciclagem devem ter lugar de destaque na sua agenda. Hoje, é possível encontrar [excelentes escolas](http://descola.org/cursos) que oferecem cursos com curta duração e, inclusive, à distância. Uma forma rápido, fácil e geralmente com preços mais acessíveis para turbinar o seu currículo.
 
-<div class="onp-locker-call" data-lock-id="onpLock120344" style="display: none;">**CUPOM**: Aprenda12desc14
+**CUPOM**: Aprenda12desc14
 
-## </div>**Aprenda um idioma estrangeiro**
+## **Aprenda um idioma estrangeiro**
 
 Aprender um novo idioma alarga suas fronteiras e é, atualmente, um _must_ no mercado. Além disso, se você sonha com uma experiência internacional, como o intercâmbio, por exemplo, esse é um conhecimento essencial.
 

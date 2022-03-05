@@ -19,4 +19,4 @@ featuredImage: ../static/images/jurandir_craveiro.jpg
 
 Jurandir é consultor em planejamento e comunicação. Trabalhou por mais de 10 anos na JWT e Foi um dos fundadores da NBS.
 
-<span class="s1">Jurandir dá dicas que vão além do planejamento,valiosas para todos que querem trabalhar com a área de comunicação.</span>
+Jurandir dá dicas que vão além do planejamento,valiosas para todos que querem trabalhar com a área de comunicação.

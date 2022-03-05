@@ -45,8 +45,8 @@ Se você viaja muito profissionalmente, o Tripit te ajuda a organizar o trabalho
 
 Ele ainda sincroniza com o Google Maps, mostrando as rotas que serão traçadas, e com aplicativos de previsão do tempo. O Tripit não é considerado um apps para o trabalho, mas imagine a facilidade de compartilhar as suas informações com outros funcionários envolvidos no projeto!
 
-## <div class="onp-locker-call" data-lock-id="onpLock146978" style="display: none;">**Buffer**
+**Buffer**
 
 Se você trabalha com as redes sociais da sua empresa, pode programar as próximas publicações nas páginas do Facebook e Twitter pelo Buffer. É só selecionar a data e o horário e você não tem mais a obrigação de estar na frente do computador no momento desejado, podendo organizar trabalhos paralelos ou até fazer uma pausa!
 
- </div>Você já conhecia ou já usou algum desses aplicativos? Tem outros apps para trabalho que te ajudam a enfrentar a rotina? Compartilhe conosco pelos comentários!
+Você já conhecia ou já usou algum desses aplicativos? Tem outros apps para trabalho que te ajudam a enfrentar a rotina? Compartilhe conosco pelos comentários!

@@ -35,9 +35,9 @@ Acredito que na arquitetura os protótipos ajudam muito as pessoas a entenderem 
 
 ## **Por que prototipar?**
 
-Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [<u>explorarem mais ideias</u>](http://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
+Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [explorarem mais ideias](http://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
 
-Dessa forma, a empresa não tem quase nada a perder e pode [<u>apostar em inovação</u>](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [<u>manter-se à frente no mercado</u>](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
+Dessa forma, a empresa não tem quase nada a perder e pode [apostar em inovação](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [manter-se à frente no mercado](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
 
 ## **O que prototipar?**
 

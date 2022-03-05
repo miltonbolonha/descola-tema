@@ -15,13 +15,31 @@ O termo “economia criativa” se refere a atividades com potencial socioeconô
 
 Em comum, empresas da área dependem do talento e da criatividade para efetivamente existirem. Elas estão distribuídas em 13 diferentes áreas:
 
-1\) arquitetura ✍? 8) televisão ?
-2\) publicidade 9) editoração e publicações ?
-3\) design 10) artes cênicas ?
-4\) artes e antiguidades ? 11) rádio ?
-5\) artesanato 12) softwares de lazer
-6\) moda ? 13) e música ?
-7\) cinema e vídeo ?
+- 1\) arquitetura ✍
+
+- 2\) publicidade
+
+- 3\) design
+
+- 4\) artes e antiguidades
+
+- 5\) artesanato
+
+- 6\) moda
+
+- 7\) cinema e vídeo
+
+- 8\) televisão
+
+- 9\) editoração e publicações
+
+- 10\) artes cênicas
+
+- 11\) rádio
+
+- 12\) softwares de lazer
+
+- 13\) e música
 
 É importante dizer que, por focar em criatividade, imaginação e inovação como sua principal característica, a economia criativa não se restringe apenas a produtos, serviços ou tecnologias. Ela engloba também processos, modelos de negócios, modelos de gestão, entre outros.
 

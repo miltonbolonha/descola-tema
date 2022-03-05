@@ -17,9 +17,7 @@ Seja na sua casa, no trânsito, no trabalho: são tantas marcas ao mesmo tempo q
 
 Aperfeiçoar o branding pessoal ainda parece ser algo dos executivos de alto escalão ou de famosos que literalmente trabalham com sua imagem. Mas vai muito além: ter uma marca bem desenvolvida, como pessoa, traz destaque à sua figura – seja para conseguir uma vaga, para ser reconhecido por suas atitudes ou até mesmo na hora de arrumar um namorado(a).
 
-<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));</script>
-
-<div class="playbuzz" data-id="e3340344-06a2-4af2-b50e-e4625b7b1d16" data-show-info="false" data-show-share="false"></div>E não é só no LinkedIn não. Sua marca é desenvolvida todos os dias – quando você lava a louça em casa se mora com alguém, quando oferece ajuda a um idoso, quando aprende uma nova habilidade. Aos poucos, com sua autenticidade, você vai construindo a sua marca.
+E não é só no LinkedIn não. Sua marca é desenvolvida todos os dias – quando você lava a louça em casa se mora com alguém, quando oferece ajuda a um idoso, quando aprende uma nova habilidade. Aos poucos, com sua autenticidade, você vai construindo a sua marca.
 
 Não quer dizer também que você vai viver de aparências, para alimentar seu ego. O negócio aqui é ter cuidado para não parecer soberbo, mas estar sempre atento às possibilidades de agir da melhor forma.
 

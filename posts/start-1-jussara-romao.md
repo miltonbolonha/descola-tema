@@ -18,6 +18,6 @@ tags:
 featuredImage: ../static/images/jussara_romao.jpg
 ---
 
-<span class="s1">Jussara tem mais de 20 anos de experiência no mercado de Moda. Entre muitos projetos, foi editora de moda na revista revista ELLE, é palestrante e professora sobre moda e Publisher e diretora criativa das revistas customizadas, catálogos e conteúdo de moda on e offline das Lojas Renner.</span>
+Jussara tem mais de 20 anos de experiência no mercado de Moda. Entre muitos projetos, foi editora de moda na revista revista ELLE, é palestrante e professora sobre moda e Publisher e diretora criativa das revistas customizadas, catálogos e conteúdo de moda on e offline das Lojas Renner.
 
-<span class="s1">No primeiro Start, Jussara dá dicas para quem quer começar nesse mercado da moda de forma direta e prática. Fala rapidamente sobre o significado da moda e da importância de criar um repertório e um olhar individual para a moda.</span>
+No primeiro Start, Jussara dá dicas para quem quer começar nesse mercado da moda de forma direta e prática. Fala rapidamente sobre o significado da moda e da importância de criar um repertório e um olhar individual para a moda.

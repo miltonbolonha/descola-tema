@@ -37,9 +37,8 @@ O exercício do livre pensamento é fundamental em todo o processo, sem repreens
 
 ## **4- Atividades culturais: ampliando os horizontes**
 
-<div class="onp-locker-call" data-lock-id="onpLock532244" style="display: none;"> Por fim, é interessante que a empresa estimule atividades culturais sempre que possível. A criatividade é um exercício intelectual que depende de novos contextos para ser estimulada. Desde um passeio até um museu até uma viagem coletiva, tudo é válido.
+Por fim, é interessante que a empresa estimule atividades culturais sempre que possível. A criatividade é um exercício intelectual que depende de novos contextos para ser estimulada. Desde um passeio até um museu até uma viagem coletiva, tudo é válido.
 
 Uma pessoa consegue trabalhar utlizando-se apenas do conteúdo e bagagem que angariou de suas vivências. Portanto, alguém que costume viajar bastante e ter contato com outras realidades estará mais propício a pensar “fora da caixa” e conceber soluções e ideias mais criativas.
 
- </div>
 Pronto para aplicar essas dicas na sua empresa? Confira também nosso post sobre [a importância da criatividade no empreendedorismo](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/) e conte para a gente, nos comentários, como você faz para ficar se tornar uma pessoa mais criativa!

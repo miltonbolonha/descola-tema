@@ -15,9 +15,9 @@ featuredImage: ../static/images/student-speaker-at-seminar-TUA3BKB.jpg
 
 A INCLUSÃO PASSA PELA CONSCIÊNCIA DAS DIFERENÇAS SOCIAIS E POR UMA ESCUTA ATIVA, SEM JULGAMENTOS.
 
-<figure class="wp-block-image size-large is-resized">
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14123915/miranda-1024x416.png)
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14123915/miranda-1024x416.png)</figure>Se quiser assistir na íntegra, deixamos o link aqui pra você: [https://www.youtube.com/watch?v=tfC4ee5PW-U](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtfC4ee5PW-U&sa=D&source=editors&ust=1620999607781000&usg=AOvVaw1T3stDvXGiXK8lNMjrs_yd)
+Se quiser assistir na íntegra, deixamos o link aqui pra você: [https://www.youtube.com/watch?v=tfC4ee5PW-U](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtfC4ee5PW-U&sa=D&source=editors&ust=1620999607781000&usg=AOvVaw1T3stDvXGiXK8lNMjrs_yd)
 
 Este trecho é parte do diálogo entre Miranda Bailey e Ben Warren com o filho William, todos personagens negros da série norte-americana Grey´s Anatomy. Os pais, cirurgiões respeitados em um dos principais hospitais de Seattle, estão orientando o adolescente William a proceder diante de uma abordagem policial.
 
@@ -29,17 +29,15 @@ Por isso, a fala “Não posso falar sobre determinado assunto, porque não tenh
 
 > “Você não precisa ser negro pra falar contra o racismo. Você pode e deve se responsabilizar por isso. Mas, é importante estar consciente de que o branco fala a partir de outra perspectiva social, que é diferente do negro.”
 >
-> <cite>Djamila Ribeiro</cite>
+> Djamila Ribeiro
 
 Para entender o debate acerca da expressão, é necessário compreender e reconhecer as camadas sociais, tão distintas e delimitadas em nossa sociedade. No Brasil, mulheres negras são a maioria dentre a população apartada do sistema educacional. São a maioria também entre as vítimas de violência doméstica e obstétrica. Dentre as experiências compartilhadas pelos homens negros estão a maior taxa de letalidade e encarceiramento. Enquanto isso, qual é o lugar social da maioria dos homens brancos? São eles que ocupam os cargos de gestão, recebem os maiores salários, são maioria na política institucional, etc.
 
 Entender que, enquanto negros compartilham experiências marcadas pela opressão, brancos compartilham experiências privilegiadas, é fundamental para entrar no debate de lugar de fala.
 
-<figure class="wp-block-image size-large">
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14124638/djamila-1024x416.png)> E também não é MIMIMI
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14124638/djamila-1024x416.png)</figure><figure class="wp-block-pullquote">> E também não é MIMIMI
-
-</figure>Durante o curso [Comunicação Inclusiva](https://descola.org/comunicacao-inclusiva), citamos diversos temas importantes quando falamos de inclusão e diversidade e gostaríamos de retomar um ponto super importante aqui para vocês. Vamos retomar a explicação da Sabrina sobre tipos de escuta.
+Durante o curso [Comunicação Inclusiva](https://descola.org/comunicacao-inclusiva), citamos diversos temas importantes quando falamos de inclusão e diversidade e gostaríamos de retomar um ponto super importante aqui para vocês. Vamos retomar a explicação da Sabrina sobre tipos de escuta.
 
 **Escuta interpessoal** **–** quando a pessoa começa a falar e você não presta a devida atenção e aquela fala te remete a visões estereotipadas, preconceitos e julgamentos. O desafio aqui é afastar esses limitadores.
 
@@ -49,6 +47,6 @@ Entender que, enquanto negros compartilham experiências marcadas pela opressão
 
 No curso trazemos um vídeo como a técnica **RASA, formulada pelo expert em comunicação Julian Treasure,** pode ajudar a aprimorar seus níveis de escuta. Vamos retomar?
 
-<figure class="wp-block-image size-large">
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14125622/rasa-1024x416.png)
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/14125622/rasa-1024x416.png)</figure>E agora você se sente preparado para ter uma escuta mais inclusiva? Todo conteúdo desse post foi retirado do material do curso online “[**Comunicação Inclusiva**: Aprenda a usar a sua comunicação como ferramenta de inclusão](https://descola.org/comunicacao-inclusiva)”
+E agora você se sente preparado para ter uma escuta mais inclusiva? Todo conteúdo desse post foi retirado do material do curso online “[**Comunicação Inclusiva**: Aprenda a usar a sua comunicação como ferramenta de inclusão](https://descola.org/comunicacao-inclusiva)”

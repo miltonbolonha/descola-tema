@@ -35,46 +35,62 @@ Essa não é uma tarefa fácil, mas para tentar guiá-lo nessa sua descoberta, v
 
 Antes de tentar escolher, é melhor reduzir suas opções, então corte logo o que não te interessa.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="318" loading="lazy" src="https://giphy.com/embed/wofftnAdDtx4s" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/mrw-front-rthedonald-wofftnAdDtx4s)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="318" loading="lazy" src="https://giphy.com/embed/wofftnAdDtx4s" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/mrw-front-rthedonald-wofftnAdDtx4s)
 
 #### **O que eu já gostei de fazer?**
 
 Dentro da sua vivência o que você acha divertido ou prazeroso. Tente manter coisas como ‘comer chocolate’ ou ‘brincar com filhotes’ mais para o final da sua lista, pense em coisas mais práticas.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/9Y6n9TR7U07ew" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/dancing-happy-food-9Y6n9TR7U07ew)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/9Y6n9TR7U07ew" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/dancing-happy-food-9Y6n9TR7U07ew)
 
 #### **O que eu fui bom/boa?**
 
 Nem sempre somos bons no que gostamos, então ponha a mão na consciência e deixe todos os seus talentos, sejam quais forem, irem para o papel.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="268" loading="lazy" src="https://giphy.com/embed/l3V0sNZ0NGomeurCM" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/youre-the-best-you-are-da-l3V0sNZ0NGomeurCM)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="268" loading="lazy" src="https://giphy.com/embed/l3V0sNZ0NGomeurCM" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/youre-the-best-you-are-da-l3V0sNZ0NGomeurCM)
 
 #### **As pessoas me buscam para ajudar no que?**
 
 Se a pergunta anterior foi difícil de responder, essa pode te ajudar. Se você foi procurado para auxiliar, é porque é referência de conhecimento e habilidade na cabeça das pessoas.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/phJ6eMRFYI6CQ" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/phJ6eMRFYI6CQ" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ)
 
 #### **Que experiências eu já tenho?**
 
 Busque na sua memória experiencias que podem te ajudar. Mesmo coisas pequenas contam. Cuidar da sua prima mais nova mostra responsabilidade, atenção, cuidado e capacidade de exercer mais de uma função ao mesmo tempo. Uma bela gerente, não acha?
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/vhsNmFjuN4WDS" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" loading="lazy" src="https://giphy.com/embed/vhsNmFjuN4WDS" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS)
 
 #### **Qual a probabilidade de um robô substituir a minha função?**
 
 A revolução tecnológica está aí e não podemos negá-la. Tente se manter longe de funções muito mecânicas, e busque algo que exija mais intelecto, criatividade e/ou improviso. As máquinas ainda não aprenderam a sonhar.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="360" loading="lazy" src="https://giphy.com/embed/1Mng0gXC5Tpcs" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/cheezburger-robot-nambot-1Mng0gXC5Tpcs)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="360" loading="lazy" src="https://giphy.com/embed/1Mng0gXC5Tpcs" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/cheezburger-robot-nambot-1Mng0gXC5Tpcs)
 
 #### **O que me dá vontade de tomar ação?**
 
 O que te move? O que te faz querer levantar do sofá e mudar o mundo? Qual a sua motivação? Tente colocar um pouco da sua paixão no seu trabalho e verá que é bem mais fácil acordar as 5h50 da manhã quando se têm um propósito .
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="358" loading="lazy" src="https://giphy.com/embed/GcSqyYa2aF8dy" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/personal-shia-labeouf-just-saying-GcSqyYa2aF8dy)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="358" loading="lazy" src="https://giphy.com/embed/GcSqyYa2aF8dy" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/personal-shia-labeouf-just-saying-GcSqyYa2aF8dy)
 
 Para um pouco mais de inspiração, olha esse TEDx da Ashley Stahl, que ia ser espiã mas acabou se tornando uma coach de carreiras.
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/vMiSf7LpFQE" width="560"></iframe>Não existe uma fórmula mágica para você encontrar o emprego dos sonhos, e mesmo os melhores empregos do mundo tem seus dias ruins. Mas podemos traçar nossas carreiras para que ao menos sejamos bons no que fazemos e consigamos nos manter ao longo dos anos. Nunca é tarde para encontrar o seu melhor caminho.
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/vMiSf7LpFQE" width="560"></iframe>
 
-<figure class="wp-block-image">[![](https://descola.org/drops/wp-content/uploads/2018/12/banner_carreira_din-1024x171.png)](https://descola.org/curso/carreira-dinamica?utm_source=drops&utm_medium=post&utm_campaign=carreia_futuro)</figure>
+Não existe uma fórmula mágica para você encontrar o emprego dos sonhos, e mesmo os melhores empregos do mundo tem seus dias ruins. Mas podemos traçar nossas carreiras para que ao menos sejamos bons no que fazemos e consigamos nos manter ao longo dos anos. Nunca é tarde para encontrar o seu melhor caminho.
+
+[![](https://descola.org/drops/wp-content/uploads/2018/12/banner_carreira_din-1024x171.png)](https://descola.org/curso/carreira-dinamica?utm_source=drops&utm_medium=post&utm_campaign=carreia_futuro)

@@ -8,11 +8,16 @@
 	&.full-width-row{
 		margin-bottom: 50px;
 	}
-	header{
+	.header-post{
 		background-color: #111e24;
 		min-height: 270px;
+		width: 100%;
 		max-width: 720px;
 		margin: 0 auto;
+		.post.boxed-column{
+		padding: 0 10px;
+
+		}
 	}
 	h1{
 		color: #fff;
@@ -20,6 +25,9 @@
 		font-size: 36px;
 		font-weight: 500;
 		line-height: 42px;
+		@media (max-width:420px) {
+		font-size: 26px;
+		}
 	}
 	.boxed-column.post{
 		height: 100%;
@@ -39,10 +47,12 @@
 
 .post-tags-wrapper{
 	margin-left: -5px;
-p.post-tags{
-			background-color: $cta__color;
-			display: inline-block;
-			font-size: 10px;
+	margin-bottom: 5px;
+.post-tags{
+		background-color: $cta__color;
+		display: inline-block;
+		font-size: 10px;
+		font-family: $main__font;
     padding: 6px;
 		color: white;
 		font-weight: 700;
@@ -56,6 +66,12 @@ p.post-tags{
 .post-author{
 	display: grid;
 	grid-template-columns: 0.2fr 1fr;
+	@media (max-width:590px) {
+		grid-template-columns: 0.27fr 1fr;
+	}
+	@media (max-width:420px) {
+		grid-template-columns: 0.45fr 1fr;
+	}
 	margin-bottom: 50px;
 
 .author-img{
@@ -66,8 +82,10 @@ p.post-tags{
     height: 74px;
 }
 }
- .main-post .container { article {
+ .main-post .boxed-column-child {
 	padding: 0 10px;
+	.container { .post-article-content {
+	// padding: 0 10px;
 		font-size:18px;
 		font-weight: 300;
 		font-family: $main__font;
@@ -109,4 +127,5 @@ p.post-tags{
 		font-weight: 300;
 		font-size: 18px;
 	}
+}
 }

@@ -22,7 +22,7 @@ Para alcançar um real entendimento do que significa ser ágil, precisamos olhar
 
 > “Se eu perguntasse aos meus compradores o que eles queriam, eles teriam dito que era um cavalo mais rápido”
 >
-> <cite> Henry Ford</cite>
+> Henry Ford
 
 Algumas pessoas enxergam a mudança como o fim de algo – de uma ideia, de um plano, de um negócio. É como se, para elas, a mudança fosse uma quebra na linha do tempo. Um raio que cai do céu e derruba tudo.
 
@@ -43,4 +43,4 @@ _Será que estamos focados na velocidade ou na agilidade? De que maneira isso te
 Falar de mentalidade é falar de como interagimos com a mudança e usufruímos dos novos tempos para criar oportunidades de crescimento.
 Especialmente agora, com as coisas correndo contra o tempo, precisamos de um modelo mental capaz de sustentar a mudança e toda evolução individual e coletiva que ela requer. Somente assim nos manteremos relevantes como profissionais e conseguiremos causar impacto com nossos negócios.
 
-<div class="wp-block-image"><figure class="alignleft">[![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-10.59.22-1024x217.png)](https://descola.org/curso/mentalidade-agil)<figcaption>Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil></figcaption></figure></div>
+[![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-10.59.22-1024x217.png)](https://descola.org/curso/mentalidade-agil)Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil>

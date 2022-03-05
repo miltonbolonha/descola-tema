@@ -34,7 +34,7 @@ Aprendendo técnicas, táticas, ferramentas e exercícios você vai perceber que
 
 ### **Vamos dividir algumas dicas nesse post:**
 
-<div class="onp-locker-call" data-lock-id="onpLock473313" style="display: none;">**1 – Para quem:**
+**1 – Para quem:**
 Saber para quem você vai falar vai te ajudar a criar uma empatia com seu público. Falar para estudantes é diferente de falar para executivos. Ajuste seu discurso de acordo com sua audiência.
 
 **2 – Estruture seu conteúdo:**
@@ -49,7 +49,7 @@ Saiba usar seu tempo de apresentação com maestria. Você tem 5 minutos ou 1 ho
 **5 – Treine:**
 Não tem grande jogador que não treina. Se você treinar muito será um apresentador melhor. Treine com seus colegas de trabalho, com familiares e sozinho. Treine sem a apresentação, sem olhar para a tela e até pense no seu texto durante outras atividades. Isso te ajuda a estar sempre pronto.
 
- </div>Claro, essas foram apenas algumas dicas que vão te ajudar a falar melhor em público. Mas se você quer realmente desenvolver essa habilidade, você vai precisar se aprofundar.
+Claro, essas foram apenas algumas dicas que vão te ajudar a falar melhor em público. Mas se você quer realmente desenvolver essa habilidade, você vai precisar se aprofundar.
 
 **E é justamente pra isso que nós da Descola chamamos o grande Augusto Uchoa para criar um curso imperdível:**
 

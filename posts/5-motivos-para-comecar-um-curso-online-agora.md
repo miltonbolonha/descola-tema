@@ -54,6 +54,6 @@ Ao contrário do que se costuma pensar, o acesso virtual faz com que a comunica�
 
 Feitos para quem vive na urgência de hoje (ou seja, todos nós) os cursos online são uma alternativa moderna para quem quer aprender de outra maneira.
 
-Gostou? Que tal conhecer alguns dos [**<span style="text-decoration: underline;">cursos</span> da Descola**](http://http://descola.org/cursos)? De [**empreendedorismo** ](http://http://descola.org/curso/14/business-model-canvas)à **[moda](http://http://descola.org/curso/9/moda-panorama-social)**, certamente falamos sobre temas que podem inspirar seus estudos e carreira.
+Gostou? Que tal conhecer alguns dos [**cursos da Descola**](http://http://descola.org/cursos)? De [**empreendedorismo** ](http://http://descola.org/curso/14/business-model-canvas)à **[moda](http://http://descola.org/curso/9/moda-panorama-social)**, certamente falamos sobre temas que podem inspirar seus estudos e carreira.
 
 Não se esqueça de comentar, compartilhando suas dúvidas e opinião.

@@ -11,7 +11,7 @@ tags:
 featuredImage: ../static/images/INSPIRE.jpeg
 ---
 
-<div id="article_parsed">O mundo de hoje está repleto de oportunidades e, geralmente, quem tem uma boa ideia em mente e disposição para trabalhar e botá-la em prática pode fazer um grande dinheiro. Histórias de sucesso não faltam, e existem várias mentes brilhantes que podem surgir como uma bela fonte de inspiração.
+O mundo de hoje está repleto de oportunidades e, geralmente, quem tem uma boa ideia em mente e disposição para trabalhar e botá-la em prática pode fazer um grande dinheiro. Histórias de sucesso não faltam, e existem várias mentes brilhantes que podem surgir como uma bela fonte de inspiração.
 
 Por incrível que pareça, algumas pessoas conseguiram fazer fortuna ainda com pouca idade. São diversas formações, trajetórias e desafios diferentes, que levaram cada um deles a comandar negócios extremamente bem-sucedidos. Pensando nisso, trouxemos no post de hoje alguns jovens empreendedores que podem te ajudar a se acreditar mais nos seus sonhos. Conheça-os!
 
@@ -40,5 +40,3 @@ Kevin Systrom é o fundador do Instagram, site que faz a cabeça de anônimos e 
 Esses são alguns dos grandes exemplos que podem servir de inspiração para qualquer pessoa. Cada um teve sua história, mas, em comum, havia uma boa ideia na cabeça e os estudos e aprendizados necessários para viabilizá-la! E então, o que achou do artigo? Animado para se inspirar em um desses jovens empreendedores? Não deixe de nos contar a sua opinião nos comentários!
 
 Se quiser se inspirar ainda mais sobre o assunto, conheça nossa track de Empreendedorismo [aqui.](http://descola.org/track/2/empreendedorismo)
-
-</div>

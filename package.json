@@ -14,7 +14,7 @@
 	},
 	"repository": "https://github.com/miltonbolonha/descola-tema",
 	"urlPrefix": "/",
-	"appName": "Blod - Descola",
+	"appName": "Blog - Descola",
 	"appLogic": "Blog",
 	"siteUrl": "https://blog.descola.org/",
 	"clientOrg": "Descola",

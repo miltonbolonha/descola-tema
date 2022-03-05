@@ -31,7 +31,7 @@ Investir em aprendizado nunca é demais, porém, não fique preso a cursos dentr
 
 Nada melhor que apenas falar como e onde aprender, deixar um incentivo ainda maior. Um cupom de desconto para que você comece agora mesmo esse novo aprendizado. Abaixo um cupom de R$ 10,00 para utilizar no primeiro curso da Descola.
 
-<div class="onp-locker-call" data-lock-id="onpLock278694" style="display: none;">**CUPOM**: Aprenda12desc14
+**CUPOM**: Aprenda12desc14
 
 ## </div>Busque diferentes formas de conhecimento
 

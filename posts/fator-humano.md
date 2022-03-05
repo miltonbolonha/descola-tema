@@ -57,4 +57,4 @@ Pessoas são imprevisíveis, não temos como realmente controlá-las. Mas gerar 
 
 Temos que entender que, do mesmo jeito que eles estão tratando de pessoas, nós também. Não são números, ou mais um salário a ser pago, são gente e precisam ser reconhecidos como tal, antes de qualquer coisa.
 
-<figure class="wp-block-image">[![](https://descola.org/drops/wp-content/uploads/2018/12/banner_cult.corp_-1024x171.png)](https://descola.org/curso/cultura-corporativa)</figure>
+[![](https://descola.org/drops/wp-content/uploads/2018/12/banner_cult.corp_-1024x171.png)](https://descola.org/curso/cultura-corporativa)

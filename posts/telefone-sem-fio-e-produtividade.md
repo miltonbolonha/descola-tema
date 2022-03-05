@@ -31,9 +31,9 @@ Com os assuntos organizacionais separados por canais, fica mais fácil estabelec
 
 Por outro lado, há situações em que o tête à tête ainda é muito mais eficaz. Lembra da Tatiana Correia, que, no capítulo 3, relatou que lamentava o fato de não estar mais próxima à sua assistente, porque, às vezes, um papo de cinco minutos, olho no olho resolveria?
 
-Isso acontece também com frequência com <span style="text-decoration: underline;">Maitê Nogueira </span>em sua rotina de trabalho como líder de abastecimento sênior em uma multinacional do segmento varejista. A incompatibilidade dos sistemas entre o escritório e a fábrica dificulta a comunicação no momento em que o estoque precisa ser conferido.
+Isso acontece também com frequência com Maitê Nogueira em sua rotina de trabalho como líder de abastecimento sênior em uma multinacional do segmento varejista. A incompatibilidade dos sistemas entre o escritório e a fábrica dificulta a comunicação no momento em que o estoque precisa ser conferido.
 
-“Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”<br></br>
+“Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”
 
 Mesmo diante dessa observação em relação à demora de determinados fluxos, Maitê elogia a tomada de decisão da empresa em relação à providência de ferramentas que otimizaram inúmeros processos diante da demanda por trabalho remoto mais frequente, após a pandemia de 2020.
 

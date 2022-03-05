@@ -13,7 +13,7 @@ featuredImage: ../static/images/lean_startup.jpg
 
 A metodologia Lean, criada pelo americano Eric Ries, vem ganhando cada vez mais adeptos no Brasil e já é um dos métodos mais populares na criação e gestão de startups no mundo. A metodologia Lean oferece uma abordagem científica, promovendo de forma sistemática a participação de empresários no desenvolvimento de novos produtos, fornecendo respostas sobre como configurar sua inicialização e quais devem ser os passos seguintes para crescer e obter sucesso.
 
-Muitas pessoas levam um longo tempo aperfeiçoando seu produto ou serviço antes de lançá-lo no mercado. Porém, a metodologia Lean ensina que é preciso testar a [<u>ideia</u>](http://descola.org/drops/ideias-que-vendem/) com potenciais clientes ou usuários para obter um feedback e ajustar o produto/serviço de acordo com esse retorno. O método funciona como um ciclo e possui quatro importantes pilares, que serão explicados a seguir:
+Muitas pessoas levam um longo tempo aperfeiçoando seu produto ou serviço antes de lançá-lo no mercado. Porém, a metodologia Lean ensina que é preciso testar a [ideia](http://descola.org/drops/ideias-que-vendem/) com potenciais clientes ou usuários para obter um feedback e ajustar o produto/serviço de acordo com esse retorno. O método funciona como um ciclo e possui quatro importantes pilares, que serão explicados a seguir:
 
 # Build (construir)
 
@@ -29,7 +29,7 @@ Esta é a etapa onde serão tomadas decisões com base nas medições acumuladas
 
 # Repeat (repetir)
 
-Como todo ciclo, pode haver a necessidade de voltar às etapas anteriores e repeti-las, dependendo dos resultados e conclusões do processo. O processo de repetição de uma ou mais ações também é chamado de [<u>iteração</u>](http://descola.org/curso/25/testes-e-iteracao-build-measure-learn-repeat), que é a oportunidade de refinar as soluções e poder torná-las melhores.
+Como todo ciclo, pode haver a necessidade de voltar às etapas anteriores e repeti-las, dependendo dos resultados e conclusões do processo. O processo de repetição de uma ou mais ações também é chamado de [iteração](http://descola.org/curso/25/testes-e-iteracao-build-measure-learn-repeat), que é a oportunidade de refinar as soluções e poder torná-las melhores.
 
 A metodologia Lean resume-se nesse ciclo de feedback, que tem como objetivo transformar as incertezas, suposições e riscos em conhecimento, que poderá guiar as ideias no sentido do progresso. De forma resumida, o ciclo consiste em construir um produto, apresentá-lo a potenciais clientes, medir suas reações e comportamentos, aprender com isso e usar esse aprendizado para construir algo melhor, depois repetir a operação até chegar a um produto que agrade totalmente aos clientes.
 

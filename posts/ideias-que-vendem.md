@@ -36,7 +36,7 @@ Por exemplo, você deve saber o que colocar na fala do apresentador (ou seja, a 
 
 Além disso, pode ser que você precise montar um slide complexo e aí é preciso muita atenção para organizar suas ideias e não deixá-lo confuso.
 
-Quer saber mais sobre arquitetura de apresentação agora mesmo? Simples: veja o nosso <span style="text-decoration: underline;">**[Curso de Arquitetura de Conteúdo](http://www.descola.org/curso/8/cozinhando-seu-conteudo).**</span>
+Quer saber mais sobre arquitetura de apresentação agora mesmo? Simples: veja o nosso **[Curso de Arquitetura de Conteúdo](http://www.descola.org/curso/8/cozinhando-seu-conteudo).**
 
 Nosso material foi pensado justamente para que você melhore sua experiência de apresentação e assim, venda melhor suas ideias.
 

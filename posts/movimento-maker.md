@@ -21,9 +21,7 @@ Falando assim parece um dragão de sete cabeças cuspindo fogo, mas ser um maker
 
 ### **MAKERS** são:
 
-<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));</script>
-
-<div class="playbuzz" data-id="f251be3b-4fd1-4186-9c8e-1f31c9852207" data-show-info="false" data-show-share="false"></div>### **Afinal, qual foi a última vez que você criou alguma coisa colocando literalmente a mão na massa?**
+### **Afinal, qual foi a última vez que você criou alguma coisa colocando literalmente a mão na massa?**
 
 Não vale aquela pizza caseira do final de semana, mas também não precisa ser um robô de inteligência artificial. Pode ser aquela horta feita com vasos de garrafa pet que você projetou no quintal de casa ou a lousa improvisada que você montou na parede do escritório do trabalho.
 

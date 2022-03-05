@@ -29,6 +29,4 @@ A metodologia da espiral foi idealizada por Mitchel Resnick – diretor de um do
 
 ### Mas como podemos aplicar essas seis etapas fora da sala de aula?
 
-<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));</script>
-
-<div class="playbuzz" data-id="fb52f7f8-6e9c-48c8-b12e-aed3d22eae8f" data-show-info="false" data-show-share="false"></div>A partir de uma metodologia simples e intuitiva, você pode tirar novas ideias e projetos da imaginação e colocá-los em prática, impulsionando seu negócio através do potencial criativo. O segredo é se inspirar na simplicidade das crianças e colocar a mão na massa. 🙂
+A partir de uma metodologia simples e intuitiva, você pode tirar novas ideias e projetos da imaginação e colocá-los em prática, impulsionando seu negócio através do potencial criativo. O segredo é se inspirar na simplicidade das crianças e colocar a mão na massa. 🙂

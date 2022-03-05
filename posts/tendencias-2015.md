@@ -10,7 +10,9 @@ tags:
 featuredImage: ../static/images/2015.jpg
 ---
 
-## <div class="form-group">O ano de 2015 promete um grande crescimento na área de empreendedorismo e inovação. Serão muitas oportunidades para os empreendedores, principalmente os criativos, que estão sempre de olho nas tendências de mercado e não perdem novas chances. Para aquecer a mente e ajudá-lo a ter novas ideias, listamos algumas tendências para o próximo ano. Confira!</div><div class="offer-content ng-binding ng-scope">6 tendências no empreendedorismo para 2015
+# 6 tendências no empreendedorismo para 2015
+
+O ano de 2015 promete um grande crescimento na área de empreendedorismo e inovação. Serão muitas oportunidades para os empreendedores, principalmente os criativos, que estão sempre de olho nas tendências de mercado e não perdem novas chances. Para aquecer a mente e ajudá-lo a ter novas ideias, listamos algumas tendências para o próximo ano. Confira!
 
 ### 1 – E-commerces de nicho
 
@@ -37,5 +39,3 @@ A proteção animal está em voga. Cada vez mais surgem ONGs, projetos e até me
 As empresas precisam de mão de obra especializada. Por isso, cursos técnicos e profissionalizantes têm sido cada vez mais procurados. É uma formação mais rápida e barata que um curso universitário. E a tendência é que a maior procura por cursos técnicos seja na modalidade de ensino a distância. Atualmente, 19% do público jovem que frequenta lan houses está lá para fazer algum curso técnico, segundo os dados da consultoria Plano CDE. De acordo com Willian Hadal, fundador da Tech Cast, “a ideia é deixar a educação mais eficiente e mais barata”.
 
 **Se depois de ler esse post sua mente está fervilhando de ideais, então atingimos nosso objetivo! Compartilhe conosco as suas ideias! Queremos que todos cresçam juntos.**
-
-</div>

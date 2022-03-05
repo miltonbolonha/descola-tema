@@ -19,28 +19,28 @@
 	align-items: center;
 }
 
-/* width */
-::-webkit-scrollbar {
-	width: 5px;
-	max-height: 50px;
-	margin: 20px;
-}
+// /* width */
+// ::-webkit-scrollbar {
+// 	width: 5px;
+// 	max-height: 50px;
+// 	margin: 20px;
+// }
 
-/* Track */
-::-webkit-scrollbar-track {
-	background: #ededed;
-}
+// /* Track */
+// ::-webkit-scrollbar-track {
+// 	background: #ededed;
+// }
 
-/* Handle */
-::-webkit-scrollbar-thumb {
-	border-radius: 30px;
-	background: $cta__color;
-}
+// /* Handle */
+// ::-webkit-scrollbar-thumb {
+// 	border-radius: 30px;
+// 	background: $cta__color;
+// }
 
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-	background: #555;
-}
+// /* Handle on hover */
+// ::-webkit-scrollbar-thumb:hover {
+// 	background: #555;
+// }
 
 .top-hibbon{
 	height: 40px;

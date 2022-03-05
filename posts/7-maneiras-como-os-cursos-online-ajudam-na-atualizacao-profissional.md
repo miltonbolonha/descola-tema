@@ -44,8 +44,8 @@ Com a conversa com o professor e os colegas facilitada pelo ambiente online, ser
 
 ## **7. Certificação**
 
-<div class="onp-locker-call" data-lock-id="onpLock952024" style="display: none;"> Ao receber o seu certificado de conclusão de curso, você poderá incluir o aprimoramento em seu currículo e Linkedin com a carga horária correspondente. Além de comprovar que você é um profissional atualizado, a inclusão mostra também o seu empenho e interesse nos temas relacionados ao negócio.
+Ao receber o seu certificado de conclusão de curso, você poderá incluir o aprimoramento em seu currículo e Linkedin com a carga horária correspondente. Além de comprovar que você é um profissional atualizado, a inclusão mostra também o seu empenho e interesse nos temas relacionados ao negócio.
 
- </div>As plataformas online trouxeram maior inclusão à educação, deixando as trocas entre os participantes cada vez mais ricas.
+As plataformas online trouxeram maior inclusão à educação, deixando as trocas entre os participantes cada vez mais ricas.
 
 Aproveite para mergulhar nos assuntos que você gosta e não se esqueça de contar, nos comentários, se ficou com alguma dúvida e se você já participou de algum curso virtual!

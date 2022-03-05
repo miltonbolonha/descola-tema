@@ -11,7 +11,9 @@ tags:
 featuredImage: ../static/images/Felix_3D_Printer_-_Printing_Head.jpg
 ---
 
-<div class="form-group">“A próxima revolução industrial”. É com estas palavras que Chris Anderson — referência quando o assunto é tecnologia, autor do livro “A cauda longa”, e ex-editor da revista americana Wired — define o movimento **DIY**, acrônimo de *Do It Yourself*, ou Faça Você Mesmo.</div><div class="offer-content ng-binding ng-scope">Não é difícil embarcar neste entusiasmo quando analisamos brevemente o momento em que estamos vivendo: a tecnologia de impressão 3D já possui modelos de prototipagem rápida vendidos a preços cada vez mais acessíveis*. Hardwares* ficaram tão fáceis de comprar quanto*softwares*. A chamada “internet das coisas” abre uma série de possibilidades e o *crowdfunding*, como uma cereja do bolo, torna-se um mecanismo capaz de tornar ainda mais fácil as iniciativas de pessoas tão comuns quanto cada um de nós.
+“A próxima revolução industrial”. É com estas palavras que Chris Anderson — referência quando o assunto é tecnologia, autor do livro “A cauda longa”, e ex-editor da revista americana Wired — define o movimento **DIY**, acrônimo de _Do It Yourself_, ou Faça Você Mesmo.
+
+Não é difícil embarcar neste entusiasmo quando analisamos brevemente o momento em que estamos vivendo: a tecnologia de impressão 3D já possui modelos de prototipagem rápida vendidos a preços cada vez mais acessíveis*. Hardwares* ficaram tão fáceis de comprar quanto*softwares*. A chamada “internet das coisas” abre uma série de possibilidades e o _crowdfunding_, como uma cereja do bolo, torna-se um mecanismo capaz de tornar ainda mais fácil as iniciativas de pessoas tão comuns quanto cada um de nós.
 
 É verdade que o movimento DIY teve início com causas nada associadas à produção de chamados bens de consumo. Nos primórdios dos anos 1970, o movimento originou-se como um chamado anarquista e anticomunista, como uma grande rejeição à ideia de ter que comprar de um terceiro as coisas que se deseja ou necessita. E foi o questionamento ao monopólio das técnicas por especialistas que levou entusiastas a colocarem a a mão na massa, estimulando a capacidade de pessoas não-especializadas aprenderem a realizar coisas além do que tradicionalmente se julgavam capazes.
 
@@ -30,5 +32,3 @@ No Brasil, não somente impressoras estão sendo fabricadas e ganhando cada vez 
 Medicina, design, arquitetura, entretenimento, arte: as áreas são muitas e o único limite para a produção é a criatividade. É o espírito _Do It Yourself_ sendo posto em prática e fazendo o mundo inteiro mudar.
 
 **Você já é adepto da prática do Faça Você Mesmo? Compartilhe suas invenções e dicas nos comentários.**
-
-</div>

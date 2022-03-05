@@ -23,7 +23,7 @@ const ShareButtons = ({ title, siteUrl }) => {
 	return (
 		<MainWrapper title={'index-link-wrapper'}>
 			<div className="wrapper-buttons">
-				<span>Compartilhe</span>
+				<span>Compartilhe
 				<div className="modal-share-button">
 					<FacebookShareButton quote={title} url={siteUrl} title={title}>
 						<FacebookIcon />

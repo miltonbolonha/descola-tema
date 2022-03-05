@@ -29,9 +29,7 @@ Ele é aberto a todas as pessoas, empreendedores, empresários, executivos, prof
 Seja no trabalho, na sua empresa, no seu negócio…tudo para entregar mais valor e experiências memoráveis para clientes e funcionários.
 Veja o teaser do curso que já da pra entender sobre o que o curso irá tratar!
 
-<script src="//static.cdn-ec.viddler.com/js/arpeggio/v3/build/main-built.js" type="text/javascript"></script>
-
-<div class="viddler-auto-embed" data-embed-id="phpLbZvzwF" data-video-id="7604dc79" data-width="100%"></div>Através de metodologias e exercícios você poderá aplicar no seu trabalho ou no dia a dia e criar serviços melhores (bem que estamos precisando, você não concorda?)
+Através de metodologias e exercícios você poderá aplicar no seu trabalho ou no dia a dia e criar serviços melhores (bem que estamos precisando, você não concorda?)
 
 Abaixo algumas imagens do curso para que você fique com aquele gostinho de quero mais!
 

@@ -32,7 +32,7 @@ O _Design Thinking_ se baseia em certos princípios, como:
 - Empatia;
 - experimentação;
 - funcionalidade;
-- e [<span style="text-decoration: underline;">prototipagem</span>](http://descola.org/drops/a-importancia-de-prototipar-e-mudar-produtos-e-servicos/).
+- e [prototipagem](http://descola.org/drops/a-importancia-de-prototipar-e-mudar-produtos-e-servicos/).
 
 Para entender tudo o que o cliente quer ou demanda, é preciso se colocar em seu lugar para, depois, testar ideias e gerar modelos colaborativos daquilo que mais deu certo e tenha melhorado a experiência dos clientes com a empresa.
 
@@ -56,7 +56,3 @@ Antes de qualquer coisa, é preciso entender que a inovação é uma matéria qu
 Aplicar o _Design Thinking_ na sua organização quer dizer um processo ongoing de questionamento e busca pelas melhores maneiras de fomentar inovações em seu negócio.
 
 Como você tem criado valor para os clientes e melhorado suas experiências com seus produtos e serviços? Comente compartilhando suas ideias e dúvidas!
-
-<script>// <![CDATA[
-(function(e,t,n,s){var c,o,i;e.SMCX=e.SMCX||[],t.getElementById(s)||(c=t.getElementsByTagName(n),o=c[c.length-1],i=t.createElement(n),i.type="text/javascript",i.async=!0,i.id=s,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/sBZ1eFfS_2F1IJPXnBqJaxGSMhZReJHFNA9nk0BDW0D16DkE_2Bt59PRNJi0_2FOcLn5q_2F.js"].join(""),o.parentNode.insertBefore(i,o))})(window,document,"script","smcx-sdk");
-// ]]></script>

@@ -33,7 +33,7 @@ Alvin Toffler, escritor futurista norte-americano estudava os impactos da tecnol
 
 > **_O analfabeto do século XXI não será aquele que não consegue ler e escrever, mas aquele que não consegue aprender, desaprender, e reaprender._**
 >
-> <cite>Alvin Toffler</cite>
+> Alvin Toffler
 
 Reafirmando mais uma vez a importância de aprendermos ao longo da vida. Esse é o perfil de aprendizagem que devemos integrar em nosso cotidiano.
 
@@ -41,7 +41,7 @@ Aos 68 anos, Bill Clinton, ex-presidente dos Estados Unidos, se apaixonou por pa
 
 > **_“O que eu aprendi é que tenho muito a aprender.”_**
 >
-> <cite>**_Bill Clinton_** </cite>
+> **_Bill Clinton_**
 
 ### **O que resta para nós é, ser humano.**
 
@@ -65,7 +65,7 @@ Pessoas que valorizem a importância de estar se reformulando e aprendendo que n
 
 > **_Os tempos são líquidos porque, assim como a água, tudo muda muito rapidamente. Na sociedade contemporânea, nada é feito para durar._**
 >
-> <cite> **_Zygmunt Bauman_** > </cite>
+> **_Zygmunt Bauman_** >
 
 Essa mudança da sociedade é resultado dos desafios que a tecnologia de bolso nos trouxe. Exposta a necessidade de renovação, devemos ser flexíveis. A aprendizagem deve ser uma atividade contínua, e não um período fixo em nossas linhas do tempo.
 
@@ -73,4 +73,4 @@ Uma vez que estamos predestinados a aprender ao longo da vida, nosso perfil como
 
 > **_Aprenda como se fosse viver para sempre_**
 >
-> <cite>**_Mahatma Gandhi_** </cite>
+> **_Mahatma Gandhi_**

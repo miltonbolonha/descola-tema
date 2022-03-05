@@ -17,7 +17,9 @@ Mas então como driblar essas situações?
 
 **Mihaly Csikszentmihalyi** é um psicólogo húngaro, nascido na Croácia, que graças a sua curiosidade sobre a felicidade e uma palestra sobre discos voadores, criou o conceito de **Flow**, um estado mental altamente concentrado. Eu poderia te explicar o que é, mas melhor ele, não?
 
-<div style="max-width: 854px;"><div style="position: relative; height: 0; padding-bottom: 56.25%;"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/mihaly_csikszentmihalyi_on_flow" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%;" width="854"></iframe></div></div>Quando é você quem recebe a função, realmente é difícil de aplicar essa técnica, mas se você se encontra na posição de **delegar tarefas**, aplicar o gráfico de Flow para decidir como distribuir-las fará com que a sua equipe entregue resultados melhores, mais bem feitos e com maior complexidade e aprofundamento.
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/mihaly_csikszentmihalyi_on_flow"  width="854"></iframe>
+
+Quando é você quem recebe a função, realmente é difícil de aplicar essa técnica, mas se você se encontra na posição de **delegar tarefas**, aplicar o gráfico de Flow para decidir como distribuir-las fará com que a sua equipe entregue resultados melhores, mais bem feitos e com maior complexidade e aprofundamento.
 
 É bem difícil acertar logo de primeira, mas aos poucos, conforme você conhece os **perfis** que compõem a sua equipe, vê os resultados de tentativas e recebe feedback deles próprios sobre as tarefas recebidas, vai afinar o seu olhar para a distribuição de afazeres e logo terá o seu time mais produtivo e contente.
 

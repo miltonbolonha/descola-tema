@@ -27,7 +27,9 @@ Crianças brincam com outras crianças, crianças brincam sozinhas, crianças br
 
 “Tá, mas eu já cresci, brinquei e não virei um serial killer, por que EU devia brincar?”. Antes de se precipitar, dá uma olhada nesse TED aqui, depois a gente conversa.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital" style="position:absolute;left:0;top:0;width:100%;height:100%" width="854"></iframe></div></div>Além de todos os grandes motivos que o Dr.Stuart aponta, o ato de brincar implica em [processos](https://descola.org/drops/espiral-aprendizagem-criativa/?utm_source=drops&utm_medium=post&utm_campaign=brincar) muito benéficos para o ambiente de trabalho, [produtividade](https://descola.org/curso/bombando-sua-produtividade?utm_source=drops&utm_medium=post&utm_campaign=brincar) e inovação:
+<iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital" width="854"></iframe>
+
+Além de todos os grandes motivos que o Dr.Stuart aponta, o ato de brincar implica em [processos](https://descola.org/drops/espiral-aprendizagem-criativa/?utm_source=drops&utm_medium=post&utm_campaign=brincar) muito benéficos para o ambiente de trabalho, [produtividade](https://descola.org/curso/bombando-sua-produtividade?utm_source=drops&utm_medium=post&utm_campaign=brincar) e inovação:
 
 ### Exploração:
 
@@ -71,28 +73,38 @@ Não precisa se desesperar nem começar a comprar o carrossel pra colocar na sal
 
 ### **Desafio dos 30 segundos**
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="428" loading="lazy" src="https://giphy.com/embed/1XdfVRTyn5d31Q1lG0" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/reaction-mood-stephen-colbert-1XdfVRTyn5d31Q1lG0)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="428" loading="lazy" src="https://giphy.com/embed/1XdfVRTyn5d31Q1lG0" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/reaction-mood-stephen-colbert-1XdfVRTyn5d31Q1lG0)
 
 Essa é mais dirigida para o pessoal da criação. De um projeto absurdo para eles, como fazer a melhor montagem do George Clooney com corpo de avestruz ou fazer um slogan para uma companhia de viagens para Marte e de um tempo limitado para que eles criem. Faça vários seguidos e vote nos favoritos, ou exponha no espaço de convivência. Isso vai afiar as habilidades dos participantes, os obrigar a pensar em soluções mais rápidas e exercitar sua criatividade.
 
 ### **Competição de áreas**
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="270" loading="lazy" src="https://giphy.com/embed/KuEFn1MMt3ZZe" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/KuEFn1MMt3ZZe)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="270" loading="lazy" src="https://giphy.com/embed/KuEFn1MMt3ZZe" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/KuEFn1MMt3ZZe)
 
 Faça um campeonato de algo, futebol de botão, peteca, quem monta um quebra-cabeça mais rápido, algo que faça com que as equipes colaborem entre si, isso criará vínculos mais fortes dentro das áreas, resultando em uma melhor dinâmica de trabalho e um ambiente mais agradável de se trabalhar.
 
 ### **Brainstormings para não criativos**
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="270" loading="lazy" src="https://giphy.com/embed/BBkKEBJkmFbTG" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/stupid-homer-simpson-monkey-BBkKEBJkmFbTG)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="270" loading="lazy" src="https://giphy.com/embed/BBkKEBJkmFbTG" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/stupid-homer-simpson-monkey-BBkKEBJkmFbTG)
 
 Brainstorms são processos cansativos, mas extremamente engajantes e por vezes divertidos, mas infelizmente a maioria das pessoas nunca vai passar por um. Então, da próxima vez que o seu time de vendas tiver um desafio para resolver, ao invés de pegarem planilhas, peguem canetas coloridas e façam um [brainstorm](https://descola.org/drops/4-ferramentas-insight/?utm_source=drops&utm_medium=post&utm_campaign=brincar) completo. Talvez vocês encontrem uma solução muito mais interessante.
 
 ### **Desafio do marshmallow**
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="314" loading="lazy" src="https://giphy.com/embed/QvBjx0wOsCXbq" width="480"></iframe>[via GIPHY](https://giphy.com/gifs/QvBjx0wOsCXbq)
+<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="314" loading="lazy" src="https://giphy.com/embed/QvBjx0wOsCXbq" width="480"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/QvBjx0wOsCXbq)
 
 Essa dinâmica é um clássico e muito útil para acessar como equipes planejam seus métodos e processos. Ela é tão famosa que tem um TED só pra ela:
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/tom_wujec_build_a_tower" style="position:absolute;left:0;top:0;width:100%;height:100%" width="854"></iframe></div></div>Agora que você já sabe todas as vantagens que brincar depois de adulto tem, de mais crédito ao seu filhx ou sobrinhx quando vir elx tentando enfiar um cubo em um buraco circular, tem muito crescimento acontecendo nessa brincadeira.
+<iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/tom_wujec_build_a_tower" width="854"></iframe>
 
-<figure class="wp-block-image">[![](https://descola.org/drops/wp-content/uploads/2019/02/GAME_BANNER-1024x171.png)](https://descola.org/curso/gamification/?utm_source=drops&utm_medium=post&utm_campaign=brincar)</figure>
+Agora que você já sabe todas as vantagens que brincar depois de adulto tem, de mais crédito ao seu filhx ou sobrinhx quando vir elx tentando enfiar um cubo em um buraco circular, tem muito crescimento acontecendo nessa brincadeira.
+
+[![](https://descola.org/drops/wp-content/uploads/2019/02/GAME_BANNER-1024x171.png)](https://descola.org/curso/gamification/?utm_source=drops&utm_medium=post&utm_campaign=brincar)

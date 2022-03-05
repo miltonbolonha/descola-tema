@@ -56,4 +56,4 @@ Mas e aí, o que você acredita? Chegou a hora de repensar **o que é ser líder
 
 O que falta para que sua liderança comece a inspirar o crescimento de outras pessoas? E o que falta para que estas pessoas também se sintam motivadas a usar a liberdade, autonomia, talento e potencial delas para estimular o crescimento do seu negócio ao seu lado?
 
-<figure class="wp-block-image">[![](https://descola.org/drops/wp-content/uploads/2020/02/banner_ld_blog.png)](https://descola.org/curso/lideranca-dinamica)</figure>
+[![](https://descola.org/drops/wp-content/uploads/2020/02/banner_ld_blog.png)](https://descola.org/curso/lideranca-dinamica)

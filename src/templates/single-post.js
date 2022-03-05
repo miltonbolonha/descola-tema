@@ -8,6 +8,8 @@ import Layout from '../modules/layout'
 import FooterBlock from '../modules/block-builder/FooterBlock'
 import HeaderBlock from '../modules/block-builder/HeaderBlock'
 
+import SinglePostBlock from '../modules/block-builder/SinglePostBlock'
+
 const SinglePost = ({ data }) => {
 	const post = data.markdownRemark
 	return (
@@ -19,50 +21,14 @@ const SinglePost = ({ data }) => {
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
-			<Layout
-				type="ROW"
-				opt={{
-					isBoxed: false,
-					classes: 'post-header',
-					bgColor: '#111e24',
-				}}
-			>
-				<header>
-					<Layout type="ROW" opt={{ isBoxed: true, classes: 'post' }}>
-						<div className="post-tags-wrapper">
-							{post.frontmatter.tags.map((e, i) => {
-								return (
-									<p className="post-tags" key={i}>
-										{e}
-									</p>
-								)
-							})}
-						</div>
-						<h1>{post.frontmatter.title}</h1>
-					</Layout>
-				</header>
-			</Layout>
-			<Layout type="ROW" opt={{ isBoxed: true, classes: 'main-post' }}>
-				<main>
-					<div className="container">
-						<div className="post-author">
-							<Layout
-								type="BLOCK_IMAGE"
-								opt={{
-									queryCard: data.imgHolder,
-									alt: 'Descola Holder',
-									classes: 'author-img',
-								}}
-							/>
-							<div className="post-author-infos">
-								<p className="post-author-date">{post.frontmatter.date}</p>
-								<p className="post-author-name">{post.frontmatter.author}</p>
-							</div>
-						</div>
-						<article dangerouslySetInnerHTML={{ __html: post.html }}></article>
-					</div>
-				</main>
-			</Layout>
+			<SinglePostBlock
+				imgHolder={data.imgHolder}
+				date={post.frontmatter.date}
+				author={post.frontmatter.author}
+				html={post.html}
+				title={post.frontmatter.title}
+				tags={post.frontmatter.tags}
+			/>
 			<FooterBlock
 				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}

@@ -52,8 +52,4 @@ Ele funciona muito bem, no entanto, para grandes empresas, aquelas em que as var
 
 Dessa forma o Business Model Canvas realmente torna-se, mais até que uma ferramenta, uma aliada poderosa para a criação de startups e, quem sabe, chegar ao ponto que os investidores internacionais tanto desejam no Brasil.
 
-Se você pensa em empreender, não deixe de conferir nosso curso **<span style="text-decoration: underline;">[“Do bar ao mercado”](http://descola.org/curso/1/do-bar-ao-mercado 'Do Bar ao Mercado'),</span>** com visões diferentes de 3 empreendedores sobre o tema. Aproveita que é grátis e deixe suas impressões, sobre o post e curso, nos comentários.
-
-<div class="hidden-sm"><script>// <![CDATA[
-(function(t,e,c,o){var n,s,p;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(c),s=n[n.length-1],p=e.createElement(c),p.type="text/javascript",p.async=!0,p.id=o,p.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/G60YJSke6L1RPtJg9DuxEtJ1pr32Ip5gcm6by97fAPb9VWkopcx0_2Fd_2BWPSZe_2FWKa.js"].join(""),s.parentNode.insertBefore(p,s))})(window,document,"script","smcx-sdk");
-// ]]></script></div>
+Se você pensa em empreender, não deixe de conferir nosso curso **[“Do bar ao mercado”](http://descola.org/curso/1/do-bar-ao-mercado 'Do Bar ao Mercado'),** com visões diferentes de 3 empreendedores sobre o tema. Aproveita que é grátis e deixe suas impressões, sobre o post e curso, nos comentários.

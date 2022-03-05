@@ -7,9 +7,7 @@ $paragrahp_black__color: #212529;
 $grayscale_300__color: #e3e3e3;
 $grayscale_600__color: #a3a3a3;
 $color__light-grey: #999999;
-
-// SPACES
-
+$selection_bg__color: rgb(252 67 3 / 70%);
 // Breakpoints
 // screen vars
 $widescreen__size: 1165px;
@@ -24,23 +22,14 @@ $tabletIndexButtons__maxWidth: 350px;
 $boxed__maxWidth: 375px;
 $boxedDesktop__maxWidth: 1024px;
 $boxedMobile__maxWidth: 375px;
-
-
-
-
-
-
 //Spaces
 $s__space: 16pt;
 $heading__top-padding: 0;
-
 // typograph
 $main__font: 'Roboto Slab', Arial, sans-serif;
 $second__font: 'Montserrat', Arial, sans-serif;
 $alternative__font: 'Arial';
-
 $m__fontSize: 17px;
-
 $h1__fontSize: 30pt;
 $h2__fontSize: 24pt;
 $h3__fontSize: 22pt;

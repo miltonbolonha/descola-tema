@@ -23,12 +23,12 @@ Estamos aqui para falar de uma forma diferente de encarar o mundo, que pode tran
 
 A Mentalidade Ágil é fruto de uma metodologia que nasceu do **“[Manifesto Ágil](https://descola.org/curso/metodos-ageis)“**, escrito em 2001 por programadores que buscavam formas mais eficientes de tocar seus projetos. É um novo jeito de enfrentar problemas ou criar soluções, por meio de práticas e ferramentas que têm como princípio a _agilidade_.
 
-<div class="wp-block-image"><figure class="aligncenter">
+![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-11.14.44-1024x662.png)
 
-![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-11.14.44-1024x662.png)</figure></div>Este modelo mental pode te ajudar a entender seus objetivos e metas, priorizando melhor seu tempo, esforço e recursos, tendo como base o **autodesenvolvimento** e o **crescimento**. E sempre (sempre mesmo!) considerando um cenário volátil em meio a um contexto de constante mudanças.
+Este modelo mental pode te ajudar a entender seus objetivos e metas, priorizando melhor seu tempo, esforço e recursos, tendo como base o **autodesenvolvimento** e o **crescimento**. E sempre (sempre mesmo!) considerando um cenário volátil em meio a um contexto de constante mudanças.
 
-<figure class="wp-block-image">![o âmbito pessoal, a Mentalidade Ágil é um meio de entendimento de nós mesmos como pessoas e profissionais. Como funcionamos, como encaramos as coisas. Desde feedback, planejamento, execução de tarefas e resultados até a nossa relação com o aprendizado.
-No âmbito organizacional, ela é capaz de integrar profissionais com competências multidisciplinares de forma auto-organizada, criando ciclos curtos de desenvolvimento e processos fortalecidos pela autonomia e colaboração em prol das necessidades dos clientes. ](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-11.19.31-1024x570.png)</figure>#### **Você já assistiu a um campeonato de vela?**
+![o âmbito pessoal, a Mentalidade Ágil é um meio de entendimento de nós mesmos como pessoas e profissionais. Como funcionamos, como encaramos as coisas. Desde feedback, planejamento, execução de tarefas e resultados até a nossa relação com o aprendizado.
+No âmbito organizacional, ela é capaz de integrar profissionais com competências multidisciplinares de forma auto-organizada, criando ciclos curtos de desenvolvimento e processos fortalecidos pela autonomia e colaboração em prol das necessidades dos clientes. ](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-11.19.31-1024x570.png)#### **Você já assistiu a um campeonato de vela?**
 
 Vamos te ajudar a visualizar: um homem em pé dentro de um barco à vela se equilibrando de acordo com a direção dos ventos. Lembrou?
 
