@@ -19,6 +19,7 @@ const TagsList = (props) => {
 				titleSeo: `Descola - Tags`,
 				classes: 'blog-list',
 				schemaType: 'blog',
+				blogListing: tagList.slice(0, 9),
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

@@ -1,22 +1,30 @@
 import React from 'react'
 import { Link } from 'gatsby'
-const MainMenu = ({ wrapperRef, isVisibleClass }) => (
-	<nav ref={wrapperRef} className={' main-nav menu-state-' + isVisibleClass}>
-		<ul className="">
-			<li>
+const MainMenu = ({ wrapperRef, isVisibleClass, ariaVisible }) => (
+	<nav ref={wrapperRef} className={'main-nav zin menu-state-' + isVisibleClass}>
+		<ul className="" id="mainmenu" aria-labelledby="check-toggle-icon">
+			<li role="none">
 				<p>Login / Registre-se</p>
 			</li>
-			<li>
-				<a href="https://descola.org/cursos">Cursos</a>
+			<li role="none">
+				<a href="https://descola.org/cursos" role="menuitem">
+					Cursos
+				</a>
 			</li>
-			<li>
-				<a href="https://descola.org/sobre">O Que é a Descola?</a>
+			<li role="none">
+				<a href="https://descola.org/sobre" role="menuitem">
+					O Que é a Descola?
+				</a>
 			</li>
-			<li>
-				<a href="https://descola.org/empresas">Para empresas</a>
+			<li role="none">
+				<a href="https://descola.org/empresas" role="menuitem">
+					Para empresas
+				</a>
 			</li>
-			<li>
-				<Link to="/">Blog</Link>
+			<li role="none">
+				<Link to="/" role="menuitem">
+					Blog
+				</Link>
 			</li>
 		</ul>
 	</nav>

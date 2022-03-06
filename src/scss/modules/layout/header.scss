@@ -100,12 +100,13 @@ header {
 					// }
 				}
 
-				input#check-toggle-icon {
-					display: none;
-				}
+				// #check-toggle-icon {
+				// 	display: none;
+				// }
 
-				label.menu-wrapper {
+				.menu-wrapper {
 					display: flex;
+					visibility: 0;
 					width: 37px;
 					height: 37px;
 					justify-content: center;
@@ -117,9 +118,10 @@ header {
 					color: white;
 					font-size: 28px;
 					background-color: $cta__color;
-					// &:hover {
-					// color: $secondary_golden_rod__color;
-					// }
+					border: 3px solid #e9e9ed;
+					&.active {
+						border: 3px solid $cta_dark__color;
+					}
 
 					div.toggle-icon {
 						width: 30px;

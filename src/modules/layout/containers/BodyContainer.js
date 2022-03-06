@@ -18,6 +18,7 @@ const BodyContainer = ({ children, opt }) => {
 						titleSeo={opt.titleSeo}
 						authorSeo={opt.authorSeo}
 						featuredImage={opt.featuredImage}
+						blogListing={opt.blogListing}
 					/>
 
 					<Body opt={opt} bgImage={opt.bgImage} customClasses={opt.classes}>

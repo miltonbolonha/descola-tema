@@ -15,7 +15,7 @@ const Header = ({
 }) => {
 	const menuActive = refState ? 'visible' : 'not-visible'
 	return (
-		<header>
+		<header role="banner">
 			<Layout
 				type="ROW"
 				opt={{
@@ -33,7 +33,7 @@ const Header = ({
 						{logoSvg}
 					</Link>
 				)}
-				<div className={'main-header main-header-' + menuActive}>
+				<div className={'main-header main-header-' + menuActive} role="menubar">
 					<MenuContainer refState={refState} handleRefState={handleRefState} />
 					<div className="header-columns toggle-menu">
 						<p className="menu-shop-bag-mobile">
@@ -42,19 +42,19 @@ const Header = ({
 						<p className="menu-shop-bag-mobile">
 							<RiShoppingBag3Line />
 						</p>
-						<input
-							type="checkbox"
+						<button
+							type="button"
 							id="check-toggle-icon"
-							onChange={handleRefState}
-						/>
-						<label
-							htmlFor="check-toggle-icon"
-							className={`menu-wrapper ${refState ? 'active' : 'not-active'}`}
+							onClick={handleRefState}
+							aria-haspopup="true"
+							aria-controls="mainmenu"
+							aria-expanded={refState}
+							className={`menu-wrapper menu-bar-icon mobile-only ${
+								refState ? 'active' : 'not-active'
+							}`}
 						>
-							<div className="menu-bar-icon mobile-only">
-								<GiHamburgerMenu />
-							</div>
-						</label>
+							<GiHamburgerMenu />
+						</button>
 					</div>
 				</div>
 			</Layout>

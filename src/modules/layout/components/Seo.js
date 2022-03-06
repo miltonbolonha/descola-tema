@@ -17,6 +17,7 @@ const Seo = ({
 	url,
 	schemaType,
 	socialSameAs,
+	blogListing,
 }) => (
 	<>
 		<Helmet
@@ -64,6 +65,7 @@ const Seo = ({
 			organization={organization}
 			defaultTitle={title}
 			socialSameAs={socialSameAs}
+			blogListing={blogListing}
 		/>
 	</>
 	// title={title}

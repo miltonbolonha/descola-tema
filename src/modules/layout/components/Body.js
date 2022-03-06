@@ -3,7 +3,7 @@ import React from 'react'
 
 const Body = ({ children, customClasses, bgImage }) => (
 	<div
-		className={`atomic-body ${customClasses}`}
+		className={`descola-tema ${customClasses}`}
 		style={{
 			backgroundImage: `url(${bgImage ? bgImage.src : ' '})`,
 		}}

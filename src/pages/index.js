@@ -18,6 +18,7 @@ const IndexPage = ({ data }) => {
 				titleSeo: `Descola`,
 				classes: 'blog-list',
 				schemaType: 'blog',
+				blogListing: posts.slice(0, 9),
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

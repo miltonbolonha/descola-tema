@@ -14,6 +14,7 @@ export default React.memo(
 		title,
 		url,
 		socialSameAs,
+		blogListing,
 	}) => {
 		const baseSchema = [
 			{
@@ -29,6 +30,24 @@ export default React.memo(
 					socialSameAs.youtube,
 				],
 			},
+			blogListing
+				? {
+						'@context': 'http://schema.org',
+						'@type': 'BlogPosting',
+						itemListElement: [
+							blogListing.map((postBlog, index) => {
+								return {
+									'@type': 'ListItem',
+									position: index,
+									item: {
+										'@id': siteUrl + postBlog.node.fields.slug,
+										name: postBlog.title,
+									},
+								}
+							}),
+						],
+				  }
+				: null,
 		]
 
 		const schema =
@@ -66,10 +85,7 @@ export default React.memo(
 								'@type': 'Organization',
 								url: organization.url,
 								name: organization.name,
-								logo: {
-									'@type': 'ImageObject',
-									url: image,
-								},
+								logo: image,
 							},
 							mainEntityOfPage: {
 								'@type': 'WebSite',
