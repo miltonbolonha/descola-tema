@@ -22,6 +22,7 @@ const SinglePost = ({ data }) => {
 				datePublished: post.frontmatter.date,
 				schemaType: 'article',
 				featuredImage: post.frontmatter.featuredImage,
+				articleBody: post.html,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

@@ -18,6 +18,9 @@ const Seo = ({
 	schemaType,
 	socialSameAs,
 	blogListing,
+	articleBody,
+	keywords,
+	dateCreated,
 }) => (
 	<>
 		<Helmet
@@ -29,6 +32,7 @@ const Seo = ({
 			<title>{title}</title>
 			<meta name="description" content={metaDescription} />
 			<meta name="image" content={image} />
+			<meta name="keywords" content={keywords.map((e) => e)} />
 			<link rel="canonical" href={siteUrl} />
 
 			{/* OpenGraph tags */}
@@ -66,6 +70,9 @@ const Seo = ({
 			defaultTitle={title}
 			socialSameAs={socialSameAs}
 			blogListing={blogListing}
+			articleBody={articleBody}
+			keywords={keywords}
+			dateCreated={dateCreated}
 		/>
 	</>
 	// title={title}
