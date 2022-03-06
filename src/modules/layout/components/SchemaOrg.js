@@ -9,68 +9,76 @@ export default React.memo(
 		defaultTitle,
 		description,
 		image,
-		isBlogPost,
-		organization, //image 512x512
+		schemaType,
+		organization,
 		title,
 		url,
+		socialSameAs,
 	}) => {
 		const baseSchema = [
 			{
 				'@context': 'http://schema.org',
-				'@type': 'WebSite',
-				url,
+				'@type': 'School',
+				url: url,
 				name: title,
-				alternateName: defaultTitle,
+				logo: image,
+				sameAs: [
+					socialSameAs.instagram,
+					socialSameAs.facebook,
+					socialSameAs.linkedIn,
+					socialSameAs.youtube,
+				],
 			},
 		]
 
-		const schema = isBlogPost
-			? [
-					...baseSchema,
-					{
-						'@context': 'http://schema.org',
-						'@type': 'BreadcrumbList',
-						itemListElement: [
-							{
-								'@type': 'ListItem',
-								position: 1,
-								item: {
-									'@id': url,
-									name: title,
-									image,
+		const schema =
+			schemaType === 'article'
+				? [
+						...baseSchema,
+						// {
+						// 	'@context': 'http://schema.org',
+						// 	'@type': 'BlogPosting',
+						// 	itemListElement: [
+						// 		{
+						// 			'@type': 'ListItem',
+						// 			position: 1,
+						// 			item: {
+						// 				'@id': url,
+						// 				name: title,
+						// 				image,
+						// 			},
+						// 		},
+						// 	],
+						// },
+						{
+							'@context': 'http://schema.org',
+							'@type': 'BlogPosting',
+							name: title,
+							alternateName: defaultTitle,
+							headline: title,
+							image: image,
+							description: description,
+							author: {
+								'@type': 'Person',
+								name: author.name,
+							},
+							publisher: {
+								'@type': 'Organization',
+								url: organization.url,
+								name: organization.name,
+								logo: {
+									'@type': 'ImageObject',
+									url: image,
 								},
 							},
-						],
-					},
-					{
-						'@context': 'http://schema.org',
-						'@type': 'BlogPosting',
-						url,
-						name: title,
-						alternateName: defaultTitle,
-						headline: title,
-						image: {
-							'@type': 'ImageObject',
-							url: image,
+							mainEntityOfPage: {
+								'@type': 'WebSite',
+								'@id': siteUrl,
+							},
+							datePublished: datePublished,
 						},
-						description,
-						author: {
-							'@type': 'Person',
-							name: author.name,
-						},
-						publisher: {
-							'@type': 'Organization',
-							url: organization.url,
-							name: organization.name,
-						},
-						mainEntityOfPage: {
-							'@type': 'WebSite',
-							'@id': siteUrl,
-						},
-						datePublished,
-					},
-			  ]
-			: baseSchema
+				  ]
+				: baseSchema
 
 		return (
 			<Helmet>

@@ -16,8 +16,12 @@ const SinglePost = ({ data }) => {
 		<Layout
 			type="BODY"
 			opt={{
-				titleSeo: `Descola`,
+				titleSeo: `${post.frontmatter.title} - Descola`,
+				authorSeo: post.frontmatter.author,
 				classes: 'single-post',
+				datePublished: post.frontmatter.date,
+				schemaType: 'article',
+				featuredImage: post.frontmatter.featuredImage,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -30,7 +34,6 @@ const SinglePost = ({ data }) => {
 				tags={post.frontmatter.tags}
 			/>
 			<FooterBlock
-				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.allMarkdownRemark.edges}
 			/>
@@ -69,13 +72,6 @@ export const query = graphql`
 				slug
 			}
 		}
-
-		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
-			}
-		}
-
 		allMarkdownRemark(
 			sort: { fields: frontmatter___date, order: DESC }
 			filter: { frontmatter: { featuredPost: { eq: true } } }
@@ -102,6 +98,11 @@ export const query = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
+			}
+		}
+		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}
 		}
 	}

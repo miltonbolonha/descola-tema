@@ -3,22 +3,27 @@ backend:
   repo: miltonbolonha/descola-tema
   branch: master
 
-local_backend: true
-media_folder: /static/images
-public_folder: /public
+site_url: https://descola-provisorio.netlify.app/
+
+# local_backend: true
+media_folder: static/images
 
 collections:
   - name: "post"
     label: "Posts"
+    label_singular: 'Post'
+    description: >
+      Posts em MD do blog Descola.
     folder: "posts"
     create: true
     slug: "{{slug}}"
-    path: '{{slug}}'
-    editor:
-      preview: false
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Publish Date", name: "date", widget: "datetime",
+          date_format: 'DD [de] MMMM [de] YYYY',
+          time_format: 'HH:mm',
+          format: 'DD [de] MMMM [de] YYYY HH:mm', }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Featured Post", name: "featuredPost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredImage", widget: image }

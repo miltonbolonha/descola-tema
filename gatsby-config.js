@@ -14,19 +14,16 @@ module.exports = {
 		siteUrl: businessInfos.siteUrl,
 		image: `${__dirname}/static/images/descola-logo.svg`,
 		postsPerPage: businessInfos.postsPerPage,
-		coauthor: {
-			name: businessInfos.coauthor,
-			minibio: businessInfos.coauthordesc,
-		},
 		organization: {
-			name: businessInfos.clientOrg,
-			url: businessInfos.clientSite,
+			name: businessInfos.organization.name,
+			email: businessInfos.organization.email,
+			url: businessInfos.organization.url,
 			logo: `${__dirname}/static/images/descola-logo.svg`,
 		},
 		social: {
 			instagram: businessInfos.clientSocial.instagram,
 			facebook: businessInfos.clientSocial.facebook,
-			twitter: businessInfos.clientSocial.twitter,
+			linkedIn: businessInfos.clientSocial.linkedIn,
 			youtube: businessInfos.clientSocial.youtube,
 		},
 	},
@@ -116,7 +113,6 @@ module.exports = {
 			resolve: `gatsby-plugin-alias-imports`,
 			options: {
 				alias: {
-					'@AtomicBlock': path.resolve(__dirname, 'src/modules/atomic-block'),
 					'@BlockBuilder': path.resolve(__dirname, 'src/modules/block-builder'),
 					'@Layout': path.resolve(__dirname, 'src/modules/layout'),
 					'@tools': path.resolve(__dirname, 'src/tools'),

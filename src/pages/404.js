@@ -1,13 +1,52 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-// import Layout from 'gatsby-layout-builder'
+import DescolaLogo from '../../static/images/descola-logo.svg'
+import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
+
+import Layout from '../modules/layout'
+import HeaderBlock from '../modules/block-builder/HeaderBlock'
+import FooterBlock from '../modules/block-builder/FooterBlock'
+import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const ErrorPage = ({ data }) => {
+	const posts = data.allMarkdownRemark.edges
 	return (
-		<div>
-			<h1>404</h1>
-		</div>
+		<Layout
+			type="BODY"
+			opt={{
+				titleSeo: `Descola`,
+				classes: 'blog-list',
+				schemaType: 'blog',
+			}}
+		>
+			<HeaderBlock logotipoSvg={<DescolaLogo />} />
+			<Layout
+				type="ROW"
+				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
+			>
+				<main className="main-container">
+					<h1>Erro 404</h1>
+					<p>Você não deveria estar aqui.</p>
+					<br />
+					<PostsBlock
+						postsPerPage={data.site.siteMetadata.postsPerPage}
+						postList={posts}
+						typeLoad={'push'} // or false
+						readMoreText="Mais Posts"
+						pagination={{
+							loadMoreBtn: true,
+							loadMore: 'Carregar Mais',
+						}}
+					/>
+				</main>
+			</Layout>
+			<FooterBlock
+				footerLogo={<DescolaLogoDark />}
+				featurePosts={data.footerThreeMarkdowRemark.edges}
+				postsForTags={posts}
+			/>
+		</Layout>
 	)
 }
 export default ErrorPage
@@ -16,31 +55,62 @@ export const queryAtividade = graphql`
 	query {
 		site {
 			siteMetadata {
-				title
-				description
-				siteUrl
+				postsPerPage
 			}
 		}
-		logotipoImg: file(relativePath: { eq: "diabetes-brasil-logo.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(
-					layout: FIXED
-					width: 115
-					placeholder: NONE
-					quality: 100
-				)
+
+		allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+			edges {
+				node {
+					fields {
+						slug
+					}
+					frontmatter {
+						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+						title
+						tags
+						featuredImage {
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 350
+									height: 224
+									placeholder: DOMINANT_COLOR
+									quality: 90
+								)
+							}
+						}
+					}
+					excerpt(pruneLength: 200)
+				}
 			}
 		}
-		logotipoJogoMemoria: file(
-			relativePath: { eq: "logotipo-jogodamemoria.png" }
+
+		footerThreeMarkdowRemark: allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			filter: { frontmatter: { featuredPost: { eq: true } } }
 		) {
-			childrenImageSharp {
-				gatsbyImageData(
-					layout: FIXED
-					width: 224
-					placeholder: NONE
-					quality: 100
-				)
+			edges {
+				node {
+					fields {
+						slug
+					}
+					frontmatter {
+						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+						title
+						tags
+						footerFeaturedImage: featuredImage {
+							childrenImageSharp {
+								gatsbyImageData(
+									width: 76
+									height: 76
+									placeholder: DOMINANT_COLOR
+									quality: 70
+								)
+							}
+						}
+					}
+					excerpt(pruneLength: 200)
+				}
 			}
 		}
 	}

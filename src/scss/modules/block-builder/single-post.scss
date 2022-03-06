@@ -104,19 +104,32 @@
 		strong{
 			font-weight: 400;
 		}
+		em{
+			font-style: italic;
+		}
 		ul li{
 			font-style: italic;
+			list-style-type: disc;
+			margin-left: 20px;
+			margin-bottom: 5px;
+		}
+		ol li{
+			list-style-type: decimal;
+			font-style: italic;
+			margin-left: 20px;
+			margin-bottom: 5px;
 		}
 		h2{
 			font-size:20px;
-		font-family: $second__font;
-		margin-bottom: 10px;
+			font-family: $second__font;
+			margin-bottom: 10px;
 		}
 		h3{
-		font-size:16px;
-		font-family: $second__font;
-		margin-bottom: 10px;
-	}}
+			font-size:16px;
+			font-family: $second__font;
+			margin-bottom: 10px;
+	}
+}
 	.post-author-date{
 		font-weight: 300;
 		font-size: 12px;

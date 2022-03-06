@@ -17,6 +17,7 @@ const IndexPage = ({ data }) => {
 			opt={{
 				titleSeo: `Descola`,
 				classes: 'blog-list',
+				schemaType: 'blog',
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -40,7 +41,6 @@ const IndexPage = ({ data }) => {
 				</main>
 			</Layout>
 			<FooterBlock
-				placeholderImg={data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
 				postsForTags={posts}
@@ -110,29 +110,6 @@ export const queryAtividade = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
-			}
-		}
-
-		bgroom: file(relativePath: { eq: "bg-app-room.jpg" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 301, placeholder: DOMINANT_COLOR, quality: 100)
-			}
-		}
-
-		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
-			}
-		}
-
-		blogImgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(
-					width: 350
-					height: 224
-					placeholder: NONE
-					quality: 100
-				)
 			}
 		}
 	}

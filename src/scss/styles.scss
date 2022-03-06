@@ -1,17 +1,16 @@
 /*
-Theme Name: NÜBlog
-Theme URI: https://www.nuktpls.com.br/
-Description: Jogo da Memória
+Theme Name: Descola
+Theme URI: https://descola.org/
+Description: Blog feito em GatsbyJS.
 Author: Milton Bolonha
-Template: AtomicTheme - NÜBlog
-Version: 2.0
+Template: NÜktpls Boilerplate
+Version: 1.0.0
 */
 
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
 1.0 Basic global settings
-2.0 Pages & Templates
 3.0 Modules
 4.0 Helpers & Fixes
 --------------------------------------------------------------*/
@@ -35,11 +34,6 @@ Version: 2.0
 @import 'modules/layout/row';
 // @import 'modules/layout/row-bgColors';
 
-/*--------------------------------------------------------------
-3.1 Modules / Atomic Block
---------------------------------------------------------------*/
-
-// @import 'modules/atomic-block/modal';
 
 /*--------------------------------------------------------------
 3.1 Modules / Block Builder
@@ -47,8 +41,6 @@ Version: 2.0
 
 @import 'modules/block-builder/single-post';
 @import 'modules/block-builder/main-container-blog';
-// @import 'modules/block-builder/grid-carousel';
-// @import 'modules/block-builder/hero';
 
 /*--------------------------------------------------------------
 4.0 Helpers & Fixes

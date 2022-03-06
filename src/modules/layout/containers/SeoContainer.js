@@ -3,7 +3,18 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 import Seo from '../components/Seo'
 
-function SeoContainer({ frontmatter = {}, description, lang, meta, title }) {
+function SeoContainer({
+	frontmatter = {},
+	description,
+	lang,
+	meta,
+	title,
+	datePublished,
+	schemaType,
+	titleSeo,
+	authorSeo,
+	featuredImage,
+}) {
 	const { site } = useStaticQuery(
 		graphql`
 			query {
@@ -18,9 +29,13 @@ function SeoContainer({ frontmatter = {}, description, lang, meta, title }) {
 						organization {
 							name
 							url
+							email
 						}
 						social {
-							twitter
+							youtube
+							instagram
+							facebook
+							linkedIn
 						}
 					}
 				}
@@ -30,24 +45,23 @@ function SeoContainer({ frontmatter = {}, description, lang, meta, title }) {
 
 	const metaDescription = description || site.siteMetadata.description
 
-	// .childMarkdownRemark.frontmatter
 	return (
 		<Seo
 			lang={lang}
-			title={title}
+			title={titleSeo || title}
 			siteTitle={site.siteMetadata.title}
 			url={site.siteMetadata.organization.url}
 			metaDescription={metaDescription}
 			description={description || site.siteMetadata.description}
-			siteAuthor={site.siteMetadata.author}
 			meta={meta}
 			siteUrl={site.siteMetadata.siteUrl}
-			// image={site.siteMetadata.image}
-			author={site.siteMetadata.author}
+			image={featuredImage || site.siteMetadata.image}
+			author={authorSeo || site.siteMetadata.organization.name}
 			organization={site.siteMetadata.organization}
 			social={site.siteMetadata.social}
-			datePublished="0"
-			isBlogPost="0"
+			datePublished={datePublished}
+			schemaType={schemaType}
+			socialSameAs={site.siteMetadata.social}
 		/>
 	)
 }

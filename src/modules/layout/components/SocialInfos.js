@@ -2,7 +2,6 @@ import React from 'react'
 
 const SocialInfos = ({
 	facebook,
-	twitter,
 	instagram,
 	youtube,
 	iconFace,
@@ -14,11 +13,6 @@ const SocialInfos = ({
 		<li>
 			<a href={facebook} target="_blank" rel="noreferrer">
 				{iconFace}
-			</a>
-		</li>
-		<li>
-			<a href={twitter} target="_blank" rel="noreferrer">
-				{iconTwitter}
 			</a>
 		</li>
 		<li>

@@ -7,7 +7,7 @@ import excerpt from '../../tools/excerpt'
 import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
-const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
+const FooterBlock = ({ footerLogo, featurePosts }) => {
 	return (
 		<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
 			<Layout
@@ -121,7 +121,7 @@ const FooterBlock = ({ footerLogo, placeholderImg, featurePosts }) => {
 								className="footer__card"
 								key={i}
 							>
-								{placeholderImg ? (
+								{eachPost.node.frontmatter.footerFeaturedImage ? (
 									<Layout
 										type="BLOCK_IMAGE"
 										opt={{

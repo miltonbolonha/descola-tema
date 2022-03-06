@@ -10,7 +10,15 @@ const BodyContainer = ({ children, opt }) => {
 		<GlobalContext.Consumer>
 			{(value) => (
 				<>
-					<SeoContainer title={opt.titleSeo} />
+					<SeoContainer
+						title={opt.titleSeo}
+						author={opt.authorSeo}
+						datePublished={opt.datePublished}
+						schemaType={opt.schemaType}
+						titleSeo={opt.titleSeo}
+						authorSeo={opt.authorSeo}
+						featuredImage={opt.featuredImage}
+					/>
 
 					<Body opt={opt} bgImage={opt.bgImage} customClasses={opt.classes}>
 						{children}

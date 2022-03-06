@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
@@ -11,13 +11,14 @@ import PostsBlock from '../modules/block-builder/PostsBlock'
 
 const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges
-
+	// const postFrontmatter = props.data.markdownRemark.frontmatter
 	return (
 		<Layout
 			type="BODY"
 			opt={{
-				titleSeo: `Descola`,
+				titleSeo: `Descola - Tags`,
 				classes: 'blog-list',
+				schemaType: 'blog',
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -39,7 +40,6 @@ const TagsList = (props) => {
 				</main>
 			</Layout>
 			<FooterBlock
-				placeholderImg={props.data.imgHolder}
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={props.data.footerThreeMarkdowRemark.edges}
 			/>
@@ -109,12 +109,6 @@ export const query = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
-			}
-		}
-
-		imgHolder: file(relativePath: { eq: "placeholder700x300.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}
 		}
 	}

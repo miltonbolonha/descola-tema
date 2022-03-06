@@ -1,6 +1,5 @@
 ---
-title: 3 formas de se inspirar para o seu negócio
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
+title: Biblioteca
 date: 2014-12-17T12:33:38+00:00
 author: Equipe Descola
 templatekey: blog-post
@@ -11,32 +10,27 @@ tags:
   - livros inspiradores
 ---
 
----
+**Biblioteca de estilos :)**
 
-**Advertisement :)**
+- **[link](https://google.com)** - Este é um texto do qual você se arrependerá por ter lido até o fim com bastante atenção.
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
+Você vai gostar desses elementos!
 
 ---
 
-# h1 Heading 8-)
+# h1 Cabeçalho 8-)
 
-## h2 Heading
+## h2 Cabeçalho
 
-### h3 Heading
+### h3 Cabeçalho
 
-#### h4 Heading
+#### h4 Cabeçalho
 
-##### h5 Heading
+##### h5 Cabeçalho
 
-###### h6 Heading
+###### h6 Cabeçalho
 
-## Horizontal Rules
+## Linhas Horizontais
 
 ---
 
@@ -44,106 +38,66 @@ You will like those projects!
 
 ---
 
-## Typographic replacements
+## Ênfases
 
-Enable typographer option to see result.
+**Isso é negrito**
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+**Isso é negrito**
 
-test.. test... test..... test?..... test!....
+_Isso é itálico_
 
-!!!!!! ???? ,, -- ---
+_Isso é itálico_
 
-"Smartypants, double quotes" and 'single quotes'
+~~Riscado~~
 
-## Emphasis
+## Citações
 
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
+> Citações ordenadas...
 >
-> > ...by using additional greater-than signs right next to each other...
+> > ...usando sinais adicionais de maior que um ao lado do outro...
 > >
-> > > ...or with spaces between arrows.
+> > > ...ou com espaços entre as setas.
 
 ## Lists
 
-Unordered
+Não ordenado
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
+- Crie uma lista iniciando uma linha com `+`, `-` ou `*`
+- As sublistas são feitas com recuo de 2 espaços:
+  - A alteração do caractere marcador força o início de uma nova lista:
+    - Ac tristique libero volutpat em
+    * Facilisis em pretium nisl aliquet
     - Nulla volutpat aliquam velit
-- Very easy!
+- Muito fácil!
 
-Ordered
+Lista Numérica
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+3. Inteiro molestie lorem em massa
 
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
+4. Você pode usar números sequenciais...
+5. ...ou mantenha todos os números como `1.`
 
-Start numbering with offset:
+Comece a numeração com deslocamento:
 
-57. foo
-1. bar
+57. fo
 
-## Code
+## Tabelas
 
-Inline `code`
+| Opção | Descrição                                                                              |
+| ----- | -------------------------------------------------------------------------------------- |
+| dados | caminho para arquivos de dados para fornecer os dados que serão passados ​​em modelos. |
+| motor | mecanismo a ser usado para o processamento de modelos. O guidão é o padrão.            |
+| ramal | extensão a ser usada para arquivos dest.                                               |
 
-Indented code
+Colunas alinhadas à direita
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-	return bar++
-}
-
-console.log(foo(5))
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
+| Opção |                                                                              Descrição |
+| ----: | -------------------------------------------------------------------------------------: |
+| dados | caminho para arquivos de dados para fornecer os dados que serão passados ​​em modelos. |
+| motor |            mecanismo a ser usado para o processamento de modelos. O guidão é o padrão. |
+|    ra |                                               extensão a ser usada para arquivos dest. |
 
 ## Links
 
@@ -153,95 +107,28 @@ Right aligned columns
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg 'The Stormtroopocat')
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg 'The Dojocat'
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link[^first].
+Nota de rodapé 1 link[^first].
 
-Footnote 2 link[^second].
+Nota de rodapé 2 link[^second].
 
-Inline footnote^[Text of inline footnote] definition.
+Definição de nota de rodapé embutida^[Texto da nota de rodapé embutida].
 
-Duplicated footnote reference[^second].
+Referência de nota de rodapé duplicada[^second].
 
-[^first]: Footnote **can have markup**
+[^first]: Nota de rodapé **pode ter marcação**
 
-    and multiple paragraphs.
+    e vários parágrafos.
 
-[^second]: Footnote text.
+[^second]: Texto da nota de rodapé.
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+## Images
 
-Term 1
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg 'O Stormtroopocat')
 
-: Definition 1
-with lazy continuation.
+![Alt texto][id]
 
-Term 2 with _inline markup_
+Com uma referência posterior no documento definindo o local do URL:
 
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-_here be dragons_
-:::
+[id]: https://octodex.github.com/images/dojocat.jpg 'O Dojocat'

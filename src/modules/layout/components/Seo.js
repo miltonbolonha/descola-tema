@@ -6,7 +6,6 @@ const Seo = ({
 	title,
 	siteTitle,
 	metaDescription,
-	siteAuthor,
 	meta,
 	siteUrl,
 	image,
@@ -16,7 +15,8 @@ const Seo = ({
 	datePublished,
 	description,
 	url,
-	isBlogPost,
+	schemaType,
+	socialSameAs,
 }) => (
 	<>
 		<Helmet
@@ -28,34 +28,33 @@ const Seo = ({
 			<title>{title}</title>
 			<meta name="description" content={metaDescription} />
 			<meta name="image" content={image} />
-			<link rel="canonical" href={url} />
+			<link rel="canonical" href={siteUrl} />
 
 			{/* OpenGraph tags */}
-			<meta property="og:url" content={url} />
-			{isBlogPost ? <meta property="og:type" content="article" /> : null}
+			<meta property="og:url" content={siteUrl} />
+			{schemaType === 'article' ? (
+				<meta property="og:type" content="article" />
+			) : (
+				<meta property="og:type" content="blog" />
+			)}
 			<meta property="og:title" content={title} />
 			<meta property="og:description" content={description} />
 			<meta property="og:image" content={image} />
-			<meta property="fb:app_id" content={social.fbAppID} />
-
+			{social.fbAppID ? (
+				<meta property="fb:app_id" content={social.fbAppID} />
+			) : null}
 			{/* Twitter Card tags */}
 			<meta name="twitter:card" content="summary_large_image" />
-			<meta name="twitter:creator" content={social.twitter} />
+			{social.twitter ? (
+				<meta name="twitter:creator" content={social.twitter} />
+			) : null}
 			<meta name="twitter:title" content={title} />
 			<meta name="twitter:description" content={description} />
 			<meta name="twitter:image" content={image} />
-
-			{/*memory game*/}
-
-			{/* <script src='../../libraries/jquery.js'></script>
-      <script src='../../libraries/sweet-alert.js'></script>
-      <script src='../../libraries/app.js'></script>
-		*/}
-			{/* <script src='../../libraries/test.js'></script> */}
 		</Helmet>
 		<SchemaOrg
-			isBlogPost={isBlogPost}
-			url={url}
+			schemaType={schemaType}
+			url={siteUrl}
 			title={title}
 			image={image}
 			description={description}
@@ -64,6 +63,7 @@ const Seo = ({
 			author={author}
 			organization={organization}
 			defaultTitle={title}
+			socialSameAs={socialSameAs}
 		/>
 	</>
 	// title={title}
