@@ -71,10 +71,13 @@ export default React.memo(
 							headline: thePost.frontmatter.title,
 							breadcrumb: { '@id': siteUrl + thePost.fields.slug },
 							inLanguage: 'pt-BR',
-							image: thePost.featuredImage
-								? thePost.featuredImage.childrenImageSharp[0].gatsbyImageData
-										.images.fallback.src
-								: null,
+							image: {
+								'@type': 'ImageObject',
+								url: thePost.featuredImage
+									? thePost.featuredImage.childrenImageSharp[0].gatsbyImageData
+											.images.fallback.src
+									: null,
+							},
 							potentialAction: [
 								{ '@type': 'ReadAction', target: [siteUrl] },
 								'Learning',
@@ -166,7 +169,7 @@ export default React.memo(
 							datePublished: datePublished,
 						},
 				  ]
-				: [baseSchema, blogSchema, breadSchema]
+				: [baseSchema, blogSchema]
 
 		return (
 			<Helmet>
