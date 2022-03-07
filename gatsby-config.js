@@ -155,5 +155,11 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-netlify-cms`,
+		{
+			resolve: 'gatsby-plugin-google-tagmanager',
+			options: {
+				id: 'GTM-W37N9T5',
+			},
+		},
 	],
 }

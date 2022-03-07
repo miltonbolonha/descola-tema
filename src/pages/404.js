@@ -33,10 +33,10 @@ const ErrorPage = ({ data }) => {
 						postsPerPage={data.site.siteMetadata.postsPerPage}
 						postList={posts}
 						typeLoad={'push'} // or false
-						readMoreText="Mais Posts"
+						readMoreText="Ler Mais"
 						pagination={{
 							loadMoreBtn: true,
-							loadMore: 'Carregar Mais',
+							loadMore: 'Ler Mais',
 						}}
 					/>
 				</main>

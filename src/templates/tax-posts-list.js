@@ -32,10 +32,10 @@ const TagsList = (props) => {
 					<PostsBlock
 						postList={tagList}
 						postsPerPage={props.data.site.siteMetadata.postsPerPage}
-						readMoreText="Mais Posts"
+						readMoreText="Ler Mais"
 						pagination={{
 							loadMoreBtn: true,
-							loadMore: 'Carregar Mais',
+							loadMore: 'Ler Mais',
 						}}
 					/>
 				</main>
