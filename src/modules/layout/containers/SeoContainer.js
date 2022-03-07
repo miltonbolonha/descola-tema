@@ -15,6 +15,7 @@ function SeoContainer({
 	authorSeo,
 	featuredImage,
 	blogListing,
+	articleBody,
 }) {
 	const { site } = useStaticQuery(
 		graphql`
@@ -25,6 +26,8 @@ function SeoContainer({
 						description
 						siteUrl
 						image
+						keywords
+						dateCreated
 						author {
 							name
 						}
@@ -62,9 +65,12 @@ function SeoContainer({
 			organization={site.siteMetadata.organization}
 			social={site.siteMetadata.social}
 			datePublished={datePublished}
+			dateCreated={site.siteMetadata.dateCreated}
 			schemaType={schemaType}
 			socialSameAs={site.siteMetadata.social}
 			blogListing={blogListing}
+			articleBody={articleBody}
+			keywords={site.siteMetadata.keywords}
 		/>
 	)
 }

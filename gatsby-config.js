@@ -12,7 +12,9 @@ module.exports = {
 		description: businessInfos.description,
 		author: businessInfos.author,
 		siteUrl: businessInfos.siteUrl,
+		keywords: businessInfos.keywords,
 		image: `${__dirname}/static/images/descola-logo.svg`,
+		dateCreated: businessInfos.dateCreated,
 		postsPerPage: businessInfos.postsPerPage,
 		organization: {
 			name: businessInfos.organization.name,
