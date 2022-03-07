@@ -4,7 +4,6 @@ require('dotenv').config({
 
 const path = require('path')
 const businessInfos = require('./package.json')
-
 module.exports = {
 	siteMetadata: {
 		pathPrefix: businessInfos.urlPrefix,
