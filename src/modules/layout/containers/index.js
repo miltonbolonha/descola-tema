@@ -16,11 +16,9 @@ const LayoutResolver = ({
 	children,
 	opt,
 	type,
-	// querySelector,
 	sectionTitle,
 	setLocation,
 	logo,
-	url,
 }) => {
 	function renderComponent(renderThis) {
 		switch (renderThis) {
